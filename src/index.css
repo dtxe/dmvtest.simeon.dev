@@ -66,6 +66,9 @@ h2 { font-size: 16px; letter-spacing: -.01em; }
 .answer-wrong, .answer-wrong:has(input:checked) { border-color: #c99a98; background: #fbf5f5; box-shadow: inset 0 0 0 1px #c99a98; }
 .answer-icon { color: #3f6949; }
 .answer-wrong .answer-icon { color: #963f3b; }
+.keyboard-hint { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 16px; margin: 13px 0 0; color: #71717a; font-size: 11px; }
+.keyboard-hint span { display: inline-flex; align-items: center; gap: 5px; }
+kbd { min-width: 20px; padding: 1px 5px; border: 1px solid #d4d4d8; border-bottom-width: 2px; border-radius: 4px; background: #fafafa; color: #52525b; font-family: inherit; font-size: 10px; font-weight: 600; line-height: 17px; text-align: center; }
 .feedback { margin-top: 20px; padding: 16px 18px; border: 1px solid #d9e6db; border-radius: 8px; background: #f6faf6; font-size: 13px; }
 .feedback-wrong { border-color: #ead8d7; background: #fcf7f7; }
 .feedback-title { display: flex; align-items: center; gap: 8px; margin-bottom: 7px; color: #31583a; }

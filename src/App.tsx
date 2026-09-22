@@ -134,7 +134,40 @@ function App() {
   }
 
   const isCorrect = submitted && selectedAnswer === currentQuestion?.answer;
+  const canGoNext = mode === "review" || (shuffle ? visibleQuestions.length > 1 : questionIndex < visibleQuestions.length - 1);
   const sourceErrors = Object.entries(errors) as Array<[QuestionSource, string]>;
+
+  useEffect(() => {
+    function handleKeyboardShortcut(event: KeyboardEvent) {
+      if (event.repeat || event.altKey || event.ctrlKey || event.metaKey || resetDialog.current?.open) return;
+
+      const target = event.target;
+      if (
+        target instanceof HTMLElement &&
+        target.closest("a, button, select, textarea, [contenteditable='true']")
+      ) return;
+
+      const choiceIndex = ["a", "b", "c"].indexOf(event.key.toLowerCase());
+      if (!submitted && currentQuestion && choiceIndex >= 0 && currentQuestion.choices[choiceIndex]) {
+        event.preventDefault();
+        setSelectedAnswer(currentQuestion.choices[choiceIndex]);
+        return;
+      }
+
+      if (event.key === "Enter") {
+        if (!submitted && selectedAnswer) {
+          event.preventDefault();
+          submitAnswer();
+        } else if (submitted && canGoNext) {
+          event.preventDefault();
+          goToNextQuestion();
+        }
+      }
+    }
+
+    window.addEventListener("keydown", handleKeyboardShortcut);
+    return () => window.removeEventListener("keydown", handleKeyboardShortcut);
+  });
 
   return (
     <div className="app-shell">
@@ -254,6 +287,10 @@ function App() {
                         );
                       })}
                     </div>
+                    <p className="keyboard-hint">
+                      <span><kbd>A</kbd> <kbd>B</kbd> <kbd>C</kbd> choose an answer</span>
+                      <span><kbd>Enter</kbd> {submitted ? "next question" : "check answer"}</span>
+                    </p>
                   </fieldset>
 
                   {submitted && (
@@ -282,7 +319,7 @@ function App() {
                       <Button disabled={!selectedAnswer} type="submit">Check answer</Button>
                     ) : (
                       <Button
-                        disabled={mode !== "review" && (shuffle ? visibleQuestions.length <= 1 : questionIndex === visibleQuestions.length - 1)}
+                        disabled={!canGoNext}
                         onClick={goToNextQuestion}
                         type="button"
                       >
