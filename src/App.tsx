@@ -66,6 +66,9 @@ function App() {
     if (mode === "all") return questions;
     return questions.filter((question) => question.source === mode);
   }, [mode, progress, questions]);
+  const unansweredQuestionIndices = visibleQuestions.flatMap((question, index) =>
+    progress[question.id]?.attempts ? [] : [index]
+  );
 
   const currentQuestion = submittedQuestion ?? visibleQuestions[questionIndex];
   const displayedQuestionCount = Math.max(visibleQuestions.length, questionIndex + 1);
@@ -90,17 +93,12 @@ function App() {
   }
 
   function goToNextQuestion() {
-    if (shuffle && visibleQuestions.length > 0) {
-      const currentVisibleIndex = visibleQuestions.findIndex((question) => question.id === currentQuestion?.id);
-      const candidateCount = visibleQuestions.length - (currentVisibleIndex >= 0 ? 1 : 0);
-      if (candidateCount > 0) {
-        const randomCandidate = Math.floor(Math.random() * candidateCount);
-        const nextIndex = currentVisibleIndex >= 0 && randomCandidate >= currentVisibleIndex
-          ? randomCandidate + 1
-          : randomCandidate;
-        goToQuestion(nextIndex);
-        return;
+    if (shuffle) {
+      if (unansweredQuestionIndices.length > 0) {
+        const randomCandidate = Math.floor(Math.random() * unansweredQuestionIndices.length);
+        goToQuestion(unansweredQuestionIndices[randomCandidate]);
       }
+      return;
     }
     if (mode === "review") {
       const nextIndex = isCorrect
@@ -136,7 +134,9 @@ function App() {
   }
 
   const isCorrect = submitted && selectedAnswer === currentQuestion?.answer;
-  const canGoNext = mode === "review" || (shuffle ? visibleQuestions.length > 1 : questionIndex < visibleQuestions.length - 1);
+  const canGoNext = shuffle
+    ? unansweredQuestionIndices.length > 0
+    : mode === "review" || questionIndex < visibleQuestions.length - 1;
   const sourceErrors = Object.entries(errors) as Array<[QuestionSource, string]>;
 
   useEffect(() => {
