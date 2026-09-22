@@ -87,6 +87,17 @@ function App() {
     setSubmittedQuestion(null);
   }
 
+  function goToNextQuestion() {
+    if (mode === "review") {
+      const nextIndex = isCorrect
+        ? Math.min(questionIndex, Math.max(visibleQuestions.length - 1, 0))
+        : (questionIndex + 1) % visibleQuestions.length;
+      goToQuestion(nextIndex);
+      return;
+    }
+    goToQuestion(questionIndex + 1);
+  }
+
   function submitAnswer() {
     if (!currentQuestion || !selectedAnswer || submitted) return;
     const correct = selectedAnswer === currentQuestion.answer;
@@ -249,8 +260,8 @@ function App() {
                       <Button disabled={!selectedAnswer} type="submit">Check answer</Button>
                     ) : (
                       <Button
-                        disabled={!(mode === "review" && isCorrect) && questionIndex === visibleQuestions.length - 1}
-                        onClick={() => goToQuestion(mode === "review" && isCorrect ? questionIndex : questionIndex + 1)}
+                        disabled={mode !== "review" && questionIndex === visibleQuestions.length - 1}
+                        onClick={goToNextQuestion}
                         type="button"
                       >
                         Next <ChevronRight aria-hidden="true" size={17} />
@@ -279,17 +290,19 @@ function App() {
             <div className="table-wrap">
               <Table>
                 <TableHeader>
-                  <TableRow><TableHead scope="col">Question</TableHead><TableHead scope="col">Set</TableHead><TableHead scope="col">Status</TableHead></TableRow>
+                  <TableRow><TableHead scope="col">Question</TableHead><TableHead scope="col">Set</TableHead><TableHead scope="col">Answered</TableHead><TableHead scope="col">First try</TableHead><TableHead scope="col">Attempts</TableHead></TableRow>
                 </TableHeader>
                 <TableBody>
                   {visibleQuestions.map((question, index) => {
                     const itemProgress = progress[question.id];
-                    const status = !itemProgress?.attempts ? "Not attempted" : itemProgress.needsReview ? "Needs review" : "Correct";
+                    const status = !itemProgress?.attempts ? "No" : itemProgress.needsReview ? "Review" : "Yes";
                     return (
                       <TableRow key={question.id}>
-                        <TableCell><button className="question-link" onClick={() => goToQuestion(index)} type="button">Question {question.number}</button></TableCell>
+                         <TableCell><button className="question-link" onClick={() => goToQuestion(index)} type="button"><span className="question-number">{question.number}.</span> {question.question}</button></TableCell>
                         <TableCell>{sourceLabel(question.source)}</TableCell>
-                        <TableCell><span className={`status status-${status.toLowerCase().replace(" ", "-")}`}>{status}</span></TableCell>
+                        <TableCell><span className={`status ${status === "Yes" ? "status-correct" : status === "Review" ? "status-needs-review" : ""}`}>{status}</span></TableCell>
+                        <TableCell>{itemProgress ? (itemProgress.firstTryCorrect ? "Correct" : "Incorrect") : "-"}</TableCell>
+                        <TableCell>{itemProgress?.attempts ?? 0}</TableCell>
                       </TableRow>
                     );
                   })}

@@ -123,7 +123,7 @@ export async function loadQuestions(): Promise<{
   const errors: Partial<Record<QuestionSource, string>> = {};
 
   for (const result of results) {
-    if ("questions" in result) {
+    if (result.questions !== undefined) {
       questions.push(...result.questions);
     } else {
       errors[result.source] = result.error;
