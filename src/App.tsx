@@ -18,12 +18,14 @@ type PracticeMode = "all" | QuestionSource | "review";
 const modes: Array<{ value: PracticeMode; label: string }> = [
   { value: "all", label: "All questions" },
   { value: "general", label: "General" },
+  { value: "general_hard", label: "Advanced General" },
   { value: "motorcycle", label: "Motorcycle" },
+  { value: "motorcycle_hard", label: "Advanced Motorcycle" },
   { value: "review", label: "Needs review" },
 ];
 
 function sourceLabel(source: QuestionSource) {
-  return source === "motorcycle" ? "Motorcycle" : "General";
+  return modes.find((mode) => mode.value === source)?.label ?? source;
 }
 
 function App() {

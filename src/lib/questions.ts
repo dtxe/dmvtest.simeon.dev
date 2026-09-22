@@ -1,6 +1,6 @@
 import { parse } from "yaml";
 
-export type QuestionSource = "general" | "motorcycle";
+export type QuestionSource = "general" | "general_hard" | "motorcycle" | "motorcycle_hard";
 
 export type Question = {
   id: string;
@@ -15,7 +15,7 @@ export type Question = {
 
 type QuestionData = Omit<Question, "id" | "source" | "number">;
 
-const SOURCES: readonly QuestionSource[] = ["general", "motorcycle"];
+const SOURCES: readonly QuestionSource[] = ["general", "general_hard", "motorcycle", "motorcycle_hard"];
 
 function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === "object" && value !== null && !Array.isArray(value);

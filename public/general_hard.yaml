@@ -1,0 +1,517 @@
+# California DMV — General driving hard questions
+# 50 questions: G01–G50.
+# Intended for an experienced driver: obscure but handbook-testable facts,
+# California-specific exceptions, exact thresholds, penalties, deadlines, licensing,
+# and motorcycle techniques that are not reliably learned by driving a car.
+# Three plausible choices; ONE best answer; original answer ordering preserved.
+# Same YAML list and five fields as the original banks; IDs are embedded in question text.
+# Original practice questions, not actual or recalled DMV examination questions.
+# "99th percentile" is a difficulty target, NOT an empirically measured ranking.
+# No item-frequency data or probability of appearing on the real test is available.
+# Obscure facts and penalties are retained; ambiguous tricks and repeated padding are excluded.
+# Penalties are those listed by the handbook, not promises of an individual court outcome.
+# Sources checked 2026-09-22: DMV-hosted California Driver's Handbook and the linked
+# Motorcycle Handbook (the linked PDF identifies itself as DL 665 R2-2024).
+# References identify sections and source URLs. Motorcycle page numbers are printed pages.
+# Where an item asks what the handbook lists, answer that stated figure or guidance.
+# Suggested use: answer each 50-question section closed-book, then review explanations.
+# This targeted supplement is not a full syllabus or a predictor of the real test score.
+
+- question: G01. You want to turn left into a driveway across one set of double solid yellow lines. There is
+    no prohibiting sign and the way is clear. What may you do?
+  choices:
+  - Cross the lines to make the left turn when safe.
+  - Continue until the yellow lines become broken.
+  - Cross only if the driveway is at an intersection.
+  answer: Cross the lines to make the left turn when safe.
+  reference: California Driver's Handbook — Lane Markings; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads/
+  reason: A single double-yellow set prohibits passing but permits a safe left turn into or out of a driveway.
+    Do not confuse it with two separated sets forming a barrier.
+- question: G02. Your driveway is across two sets of double yellow lines separated by three feet. There is
+    no opening. What should you do?
+  choices:
+  - Cross because the maneuver is a driveway turn, not passing.
+  - Continue to a designated opening or another legal route.
+  - Cross after stopping and yielding to both directions.
+  answer: Continue to a designated opening or another legal route.
+  reference: California Driver's Handbook — Lane Markings; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads/
+  reason: Two double-yellow sets at least two feet apart form a barrier. The driveway-turn exception for a
+    single set does not permit crossing this barrier.
+- question: G03. Traffic is slow and your left turn is 350 feet ahead. When may you enter the shared center
+    left-turn lane to approach it?
+  choices:
+  - Only at the intersection; the lane cannot be used for the approach.
+  - When you can complete the approach using no more than 200 feet of that lane.
+  - Immediately, provided you yield to oncoming left-turning vehicles.
+  answer: When you can complete the approach using no more than 200 feet of that lane.
+  reference: California Driver's Handbook — Center Left Turn Lanes; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads/
+  reason: The center lane is for preparing for and making a turn, with a 200-foot travel limit. It is not a
+    lane for bypassing queued traffic.
+- question: G04. A freeway exit is approaching. What signaling interval and approximate distance does the handbook
+    give before the exit?
+  choices:
+  - Three seconds, approximately 200 feet.
+  - Five seconds, approximately 400 feet.
+  - Five seconds, approximately 100 feet.
+  answer: Five seconds, approximately 400 feet.
+  reference: California Driver's Handbook — Exiting; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads/
+  reason: The exit guideline pairs five seconds with approximately 400 feet. The distance is a handbook approximation,
+    not a fixed conversion at every speed.
+- question: G05. You are stopped at a circular red light on a one-way street, turning left onto another one-way
+    street. There is no prohibiting sign. What next?
+  choices:
+  - Turn only if the destination street has one traffic lane.
+  - Turn when safe after yielding to traffic and people with the right-of-way.
+  - Wait for green because only right turns are allowed on red.
+  answer: Turn when safe after yielding to traffic and people with the right-of-way.
+  reference: California Driver's Handbook — Left Turn Against a Red Light; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads/
+  reason: California permits this left-on-red movement from one one-way street to another after a stop and
+    yielding. Lane count does not create the permission.
+- question: G06. You face a red right-turn arrow. You have stopped, the crosswalk is empty, and cross traffic
+    is clear. May you turn right?
+  choices:
+  - No; wait for a signal that permits the turn.
+  - Yes; an arrow restricts only turns made without stopping.
+  - Yes; the same rule applies as for a circular red light.
+  answer: No; wait for a signal that permits the turn.
+  reference: California Driver's Handbook — Right Turn Against a Red Arrow; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads/
+  reason: A red arrow prohibits the indicated turn until permitted by the signal. The stop-and-yield permission
+    for a circular red light does not apply.
+- question: G07. In a business district, you are midway between intersections. There is one set of double yellow
+    lines, ample visibility, and no approaching traffic. May you make a U-turn there?
+  choices:
+  - Yes; one set of double yellow lines allows U-turns everywhere.
+  - Yes; clear visibility and an empty road are sufficient.
+  - No; use a permitted intersection or designated divided-highway opening.
+  answer: No; use a permitted intersection or designated divided-highway opening.
+  reference: California Driver's Handbook — U-Turn; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads/
+  reason: The permission to cross a single double-yellow set does not override the business-district restriction
+    on where a U-turn may be made.
+- question: G08. You are driving slowly on a two-lane road where passing is unsafe. Five vehicles are following,
+    and a safe turnout is available. What is required?
+  choices:
+  - Continue if your speed is reasonable for your vehicle.
+  - Use the turnout to let the following vehicles pass.
+  - Use the turnout only if one of the drivers sounds a horn.
+  answer: Use the turnout to let the following vehicles pass.
+  reference: California Driver's Handbook — Turnout Areas or Lanes; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads/
+  reason: The turnout rule applies when five or more vehicles follow a slow vehicle on a two-lane road where
+    passing is unsafe. No horn signal is needed.
+- question: G09. You are approaching a stopped school bus from the opposite direction on a road with two lanes
+    in each direction. Its red lights are flashing. What does the handbook require?
+  choices:
+  - You must stop because every flashing-red school bus stops both directions.
+  - You need not stop for the bus on the opposite side, but must watch for hazards.
+  - You must stop unless a raised physical median separates the directions.
+  answer: You need not stop for the bus on the opposite side, but must watch for hazards.
+  reference: California Driver's Handbook — Around Children; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont1/
+  reason: The opposite-side exception includes a multilane highway with at least two lanes in each direction.
+    It is not limited to roads with a raised median.
+- question: G10. What maximum fine and possible license-suspension period does the handbook list for failing
+    to stop for a school bus displaying flashing red lights?
+  choices:
+  - Up to $1,000 and one year.
+  - Up to $500 and six months.
+  - Up to $2,000 and 30 days.
+  answer: Up to $1,000 and one year.
+  reference: California Driver's Handbook — Around Children; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont1/
+  reason: The handbook specifies a fine up to $1,000 and possible suspension for one year. These are listed
+    possible consequences, not a statement that every violation produces both maxima.
+- question: G11. You are 80 feet from a railroad crossing without gates, a warning signal, or a flagger. You
+    can see only 250 feet along the tracks in each direction. What speed limit applies?
+  choices:
+  - The normal road limit unless a train is approaching.
+  - 15 mph, or slower if conditions require.
+  - 25 mph if no train can be seen or heard.
+  answer: 15 mph, or slower if conditions require.
+  reference: California Driver's Handbook — Near Railroad or Light Rail Tracks; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont1/
+  reason: Within 100 feet of an uncontrolled crossing, the 15-mph rule applies when you cannot see 400 feet
+    along the tracks in both directions.
+- question: G12. A railroad signal warns that a train is coming. How far from the nearest track must you stop,
+    at minimum?
+  choices:
+  - 25 feet.
+  - 20 feet.
+  - 15 feet.
+  answer: 15 feet.
+  reference: California Driver's Handbook — Near Railroad or Light Rail Tracks; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont1/
+  reason: The handbook gives at least 15 feet from the nearest track. This differs from the 100-foot approach
+    zone used for the limited-visibility speed rule.
+- question: G13. Which adult driver-record point totals can trigger suspension under the handbook's ordinary
+    thresholds?
+  choices:
+  - 4 in 12 months, 8 in 24 months, or 12 in 36 months.
+  - 3 in 12 months, 5 in 24 months, or 7 in 36 months.
+  - 4 in 12 months, 6 in 24 months, or 8 in 36 months.
+  answer: 4 in 12 months, 6 in 24 months, or 8 in 36 months.
+  reference: California Driver's Handbook — Points on Your Driver's Record; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont2/
+  reason: Each rolling-period threshold stands on its own. The two- and three-year totals are six and eight,
+    not multiples of the one-year total.
+- question: G14. How close may you legally follow a fire engine, law-enforcement vehicle, or ambulance operating
+    with its siren or flashing lights?
+  choices:
+  - No closer than 200 feet.
+  - No closer than 300 feet.
+  - No closer than 500 feet.
+  answer: No closer than 300 feet.
+  reference: California Driver's Handbook — Emergency Vehicles; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont1/
+  reason: The handbook prohibits following within 300 feet of an emergency vehicle operating its siren or flashing
+    lights. Do not confuse this with a stopping distance or the oncoming high-beam threshold.
+- question: G15. Two vehicles meet on a steep, narrow road with no room to pass. You face downhill. According
+    to the handbook, who should back up?
+  choices:
+  - Whichever driver arrived at the narrow section second.
+  - The uphill-facing driver, because backing downhill is easier.
+  - You, because the uphill-facing vehicle has the right-of-way.
+  answer: You, because the uphill-facing vehicle has the right-of-way.
+  reference: California Driver's Handbook — Mountain Roads; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road/
+  reason: The downhill-facing vehicle should back up until the uphill vehicle can pass. The handbook bases
+    this on the uphill vehicle being harder to control while backing downhill.
+- question: G16. For an eligible one-point violation, how often does the handbook say traffic violator school
+    may be used to keep the citation from being reported to insurance?
+  choices:
+  - Once in a 36-month period.
+  - Once in an 18-month period.
+  - Once in a 12-month period.
+  answer: Once in an 18-month period.
+  reference: California Driver's Handbook — Traffic Violator School; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont2/
+  reason: The handbook gives an 18-month interval and says the citation remains on the driving record. Attendance
+    does not erase the underlying event.
+- question: G17. You need a clear passing view near a hill or curve. What distance ahead does the handbook
+    give as the minimum visibility guideline?
+  choices:
+  - At least one-quarter of a mile.
+  - At least one-third of a mile.
+  - At least 500 feet.
+  answer: At least one-third of a mile.
+  reference: California Driver's Handbook — Passing; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads/
+  reason: The handbook gives one-third mile for passing visibility near a hill or curve. This is different
+    from headlight-dimming distances.
+- question: 'G18. For an ordinary parallel-parking maneuver, which pair matches the handbook: extra space length
+    and final distance from the curb?'
+  choices:
+  - At least 3 feet longer than your car; within 18 inches of the curb.
+  - At least 2 feet longer than your car; within 12 inches of the curb.
+  - At least 3 feet longer than your car; within 24 inches of the curb.
+  answer: At least 3 feet longer than your car; within 18 inches of the curb.
+  reference: California Driver's Handbook — Parallel Parking; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads-cont1/
+  reason: Three feet is the recommended extra parking-space length; 18 inches is the final curb-distance limit.
+    The approximately two-foot figure concerns the initial gap beside the parked car.
+- question: G19. What maximum lateral cargo overhang does the handbook permit on a passenger vehicle, measured
+    beyond its fenders?
+  choices:
+  - Up to 6 inches on either side.
+  - Up to 12 inches on the right if marked with a flag.
+  - None on the left; up to 6 inches on the right.
+  answer: None on the left; up to 6 inches on the right.
+  reference: California Driver's Handbook — Other Important Roadway Information; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont2/
+  reason: The left and right sides have different restrictions. The rear-load flag requirement does not authorize
+    otherwise prohibited side overhang.
+- question: G20. A load projects more than four feet beyond the rear bumper. What daytime warning does the
+    handbook specify?
+  choices:
+  - A red flag only when the projection exceeds six feet.
+  - An 18-inch-square yellow flag.
+  - A 12-inch-square red or fluorescent orange flag.
+  answer: A 12-inch-square red or fluorescent orange flag.
+  reference: California Driver's Handbook — Other Important Roadway Information; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont2/
+  reason: The handbook pairs the more-than-four-foot trigger with a 12-inch-square red or fluorescent orange
+    flag. Its nighttime requirement is different.
+- question: G21. What no-passing distance does the handbook list when approaching an intersection, bridge,
+    tunnel, or railroad crossing?
+  choices:
+  - Within 100 feet.
+  - Within 200 feet.
+  - Within 300 feet.
+  answer: Within 100 feet.
+  reference: California Driver's Handbook — Passing; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads/
+  reason: The handbook lists these locations under the 100-foot no-passing rule. This is separate from the
+    one-third-mile visibility guideline for passing near a hill or curve.
+- question: G22. At night, an oncoming vehicle is 450 feet away and the vehicle you are following is 350 feet
+    away. Must you dim your high beams now?
+  choices:
+  - No, because neither vehicle is within 300 feet.
+  - Yes, because the oncoming vehicle is within 500 feet.
+  - Yes, because every vehicle within 1,000 feet requires low beams.
+  answer: Yes, because the oncoming vehicle is within 500 feet.
+  reference: California Driver's Handbook — Using Your Headlights; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/introduction-to-driving/
+  reason: 'The thresholds differ: 500 feet for oncoming traffic and 300 feet when following. The oncoming vehicle
+    triggers dimming in this case.'
+- question: G23. When visibility is poor on a narrow mountain road, what forward-visibility threshold does
+    the handbook use for sounding the horn?
+  choices:
+  - You cannot see at least 300 feet ahead.
+  - You cannot see at least 500 feet ahead.
+  - You cannot see at least 200 feet ahead.
+  answer: You cannot see at least 200 feet ahead.
+  reference: California Driver's Handbook — Using Your Horn; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/introduction-to-driving/
+  reason: The mountain-road horn threshold is 200 feet. The 300- and 500-foot numbers instead appear in high-beam
+    dimming rules.
+- question: G24. Before a freeway lane change, you signal for the same 100-foot distance you use before an
+    ordinary turn. What should you use instead as the handbook timing guideline?
+  choices:
+  - Signal only after your shoulder check confirms an opening.
+  - Signal at least two seconds before changing lanes.
+  - Signal at least five seconds before changing lanes.
+  answer: Signal at least five seconds before changing lanes.
+  reference: California Driver's Handbook — Signaling; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/introduction-to-driving/
+  reason: The freeway lane-change guideline is at least five seconds. The 100-foot turn-signal distance is
+    not a substitute at freeway speeds.
+- question: G25. A passenger car towing a small trailer is on a freeway posted at 65 mph. Conditions are good.
+    What is its maximum permitted towing speed?
+  choices:
+  - 55 mph.
+  - 65 mph because the trailer is small.
+  - 60 mph, five below the posted limit.
+  answer: 55 mph.
+  reference: California Driver's Handbook — Manage Your Speed; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/safe-driving-cont2/
+  reason: The towing limit is 55 mph. A higher general freeway limit does not authorize a passenger car towing
+    a trailer to travel at that speed.
+- question: G26. California's standard minimum liability limits are often written as three numbers. Which sequence
+    is correct for one injured person / multiple injured people / property damage?
+  choices:
+  - $30,000 / $50,000 / $25,000.
+  - $15,000 / $30,000 / $5,000.
+  - $30,000 / $60,000 / $15,000.
+  answer: $30,000 / $60,000 / $15,000.
+  reference: California Driver's Handbook — Insurance Requirements; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/financial-responsibility-insurance-requirements-and-collisions/
+  reason: The current handbook lists 30/60/15. The 15/30/5 sequence is an older California requirement and
+    a plausible memory error for an experienced driver.
+- question: G27. The handbook describes a suspension after a collision without proper insurance. Which maximum
+    period and possible reinstatement arrangement does it give?
+  choices:
+  - Up to four years; possible reinstatement during the last three with maintained SR-22/SR-1P proof.
+  - Up to three years; immediate reinstatement upon buying any policy.
+  - Up to one year; reinstatement only after repeating both driving tests.
+  answer: Up to four years; possible reinstatement during the last three with maintained SR-22/SR-1P proof.
+  reference: California Driver's Handbook — Driving Without Insurance; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/financial-responsibility-insurance-requirements-and-collisions/
+  reason: The handbook distinguishes the potential four-year suspension from the last-three-years proof-of-insurance
+    reinstatement arrangement. Fault is not required for this consequence.
+- question: 'G28. After a DUI arrest, the officer gives you a temporary license. Which pair matches the handbook:
+    temporary-license duration and deadline to request a DMV hearing?'
+  choices:
+  - 30 days; request the hearing within 30 days of arrest.
+  - 30 days; request the hearing within 10 days of arrest.
+  - 10 days; request the hearing within 30 days of arrest.
+  answer: 30 days; request the hearing within 10 days of arrest.
+  reference: California Driver's Handbook — DUI Arrests; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/alcohol-and-drugs/
+  reason: The temporary license does not extend the hearing-request window. The handbook specifies a 30-day
+    temporary license and a 10-day hearing deadline.
+- question: G29. You are 30, on DUI probation, and driving with a BAC of 0.02%. Which threshold applies to
+    you?
+  choices:
+  - 0.04%, because probation uses the commercial-driver limit.
+  - 0.01%, because DUI probation applies at any age.
+  - 0.08%, because you are at least 21.
+  answer: 0.01%, because DUI probation applies at any age.
+  reference: California Driver's Handbook — BAC Limits; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/alcohol-and-drugs/
+  reason: DUI probation carries a 0.01% threshold regardless of age. The ordinary adult and commercial thresholds
+    do not replace it.
+- question: G30. A 35-year-old is transporting a passenger for hire in a passenger car. Which BAC threshold
+    does the handbook list for that activity?
+  choices:
+  - 0.08%, because the vehicle is a passenger car.
+  - 0.04%.
+  - 0.01%, because payment makes the driver subject to zero tolerance.
+  answer: 0.04%.
+  reference: California Driver's Handbook — BAC Limits; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/alcohol-and-drugs/
+  reason: Driving a passenger for hire has a 0.04% threshold. It does not depend solely on whether the vehicle
+    requires a commercial license.
+- question: G31. How long does the handbook say a DUI conviction remains on your driver's record?
+  choices:
+  - 3 years.
+  - 10 years.
+  - 7 years.
+  answer: 10 years.
+  reference: California Driver's Handbook — DUI Convictions; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/alcohol-and-drugs/
+  reason: DUI convictions remain for ten years. Do not substitute the shorter retention period associated with
+    many ordinary traffic convictions.
+- question: G32. For an under-21 driver illegally carrying alcohol in a vehicle, which possible impoundment
+    and license-suspension periods does the handbook list?
+  choices:
+  - Vehicle impoundment up to 30 days; license suspension for one year.
+  - Vehicle impoundment up to one year; license suspension for 30 days.
+  - Vehicle impoundment up to 10 days; license suspension for six months.
+  answer: Vehicle impoundment up to 30 days; license suspension for one year.
+  reference: California Driver's Handbook — Drivers Under 21 — Possessing Alcohol; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/alcohol-and-drugs/
+  reason: The handbook lists up to 30 days of vehicle impoundment and a possible one-year license suspension.
+    A first license may also be delayed when the person is not yet licensed.
+- question: G33. A parking-lot collision causes $700 in damage and a minor injury. Nobody files an SR-1 on
+    your behalf. What must you do?
+  choices:
+  - Let the police report substitute for your DMV report.
+  - File only if repair costs later exceed $1,000.
+  - File an SR-1 with DMV within 10 days.
+  answer: File an SR-1 with DMV within 10 days.
+  reference: California Driver's Handbook — Reporting a Collision; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/financial-responsibility-insurance-requirements-and-collisions/
+  reason: Any injury triggers DMV reporting, even with low property damage and on private property. A police
+    report does not replace the driver's SR-1.
+- question: G34. You are involved in a collision causing an injury. Which reporting deadlines does the handbook
+    distinguish?
+  choices:
+  - Law enforcement within 10 days; DMV within 24 hours.
+  - Law enforcement within 24 hours; DMV within 10 days.
+  - Both within 10 days, with either report satisfying both agencies.
+  answer: Law enforcement within 24 hours; DMV within 10 days.
+  reference: California Driver's Handbook — What to Do / Reporting a Collision; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/financial-responsibility-insurance-requirements-and-collisions/
+  reason: The law-enforcement and DMV reports are separate requirements. Reporting an injury collision to one
+    does not automatically satisfy the other.
+- question: G35. A 19-year-old is transporting sealed alcohol alone as part of a job for an employer with an
+    off-site liquor sales license. Which handbook exception applies?
+  choices:
+  - The employment exception permits carrying the alcoholic beverages in closed containers.
+  - The exception applies only if the employee is at least 20.
+  - There is no exception unless a person at least 21 accompanies the driver.
+  answer: The employment exception permits carrying the alcoholic beverages in closed containers.
+  reference: California Driver's Handbook — Drivers Under 21 — Possessing Alcohol; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/alcohol-and-drugs/
+  reason: The handbook expressly provides this employment exception to the under-21 alcohol-carrying rule.
+    It does not authorize drinking or open-container use.
+- question: G36. A 17-year-old has held a provisional license for four months and wants to drive a 19-year-old
+    friend, with a 24-year-old licensed sibling supervising. No exception applies. Is this permitted?
+  choices:
+  - Yes; any licensed adult can supervise.
+  - Yes; only passengers under 18 are restricted.
+  - No; the nonparent supervising driver must be at least 25.
+  answer: No; the nonparent supervising driver must be at least 25.
+  reference: California Driver's Handbook — Minor's Restrictions and Exceptions; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/getting-an-instruction-permit-and-drivers-license/
+  reason: The passenger restriction concerns people under 20. For the stated nonparent supervisor, being 24
+    falls short of the 25-year requirement.
+- question: G37. A provisional driver must drive home from work after 11 p.m. during the restricted period
+    and qualifies for the work exception. What documentation should the driver carry?
+  choices:
+  - A parent's note authorizing late-night recreational driving.
+  - A copy of the work schedule with no employer signature.
+  - A signed employer note confirming the employment.
+  answer: A signed employer note confirming the employment.
+  reference: California Driver's Handbook — Minor's Restrictions and Exceptions; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/getting-an-instruction-permit-and-drivers-license/
+  reason: The work exception calls for an employer-signed note confirming employment. A different exception's
+    note or an unsigned schedule does not meet that handbook instruction.
+- question: G38. Which child meets all three of the handbook's listed thresholds requiring a rear-facing child
+    restraint?
+  choices:
+  - Under age 2, under 40 pounds, and under 40 inches tall.
+  - Under age 2, under 50 pounds, and under 48 inches tall.
+  - Under age 3, under 40 pounds, and under 36 inches tall.
+  answer: Under age 2, under 40 pounds, and under 40 inches tall.
+  reference: California Driver's Handbook — Child Restraint System and Safety Seats; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/safe-driving-cont1/
+  reason: The exact combination is under two years, under 40 pounds, and under 3 feet 4 inches (40 inches).
+    Do not substitute general booster-seat height rules.
+- question: G39. What distance from a marked or unmarked crosswalk does the handbook list for parking on its
+    approach side, assuming no local exception?
+  choices:
+  - 20 feet normally; 10 feet where a curb extension is present.
+  - 20 feet normally; 15 feet where a curb extension is present.
+  - 15 feet normally; 20 feet where a curb extension is present.
+  answer: 20 feet normally; 15 feet where a curb extension is present.
+  reference: California Driver's Handbook — Illegal Parking; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads-cont1/
+  reason: A curb extension changes the listed clearance from 20 feet to 15 feet. Paint and the presence of
+    crosswalk stripes are not what determines the distinction.
+- question: G40. Willfully fleeing a peace officer is described as a misdemeanor in the handbook. What maximum
+    county-jail term is listed for that basic offense?
+  choices:
+  - One year.
+  - Six months.
+  - Two years.
+  answer: One year.
+  reference: California Driver's Handbook — Evading Law Enforcement; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont2/
+  reason: The handbook lists up to one year in county jail for the basic fleeing offense. Injury or death during
+    a pursuit carries separate, more severe consequences.
+- question: G41. What state-prison maximum does the driver handbook list for causing serious bodily injury
+    during a law-enforcement pursuit?
+  choices:
+  - Seven years.
+  - Five years.
+  - Ten years.
+  answer: Seven years.
+  reference: California Driver's Handbook — Evading Law Enforcement; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont2/
+  reason: The driver handbook lists up to seven years. The motorcycle handbook gives the corresponding three-,
+    five-, or seven-year state-prison terms.
+- question: G42. According to the handbook, your vehicle may be impounded for how long if an unlicensed person
+    is caught driving it?
+  choices:
+  - 90 days.
+  - 10 days.
+  - 30 days.
+  answer: 30 days.
+  reference: California Driver's Handbook — Evading Law Enforcement; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont2/
+  reason: The listed impoundment period is 30 days. This is distinct from license-suspension periods imposed
+    on a driver.
+- question: G43. What penalty does the handbook list for dumping or abandoning an animal on a highway?
+  choices:
+  - Up to $2,000, one year in jail, or both.
+  - Up to $1,000, six months in jail, or both.
+  - Up to $500, 30 days in jail, or both.
+  answer: Up to $1,000, six months in jail, or both.
+  reference: California Driver's Handbook — Other Important Roadway Information; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont2/
+  reason: 'This is an explicit handbook penalty: up to $1,000 and/or six months in jail. It is included as
+    factual recall, not as an assumed frequent exam topic.'
+- question: G44. A vehicle has been left standing on a freeway. After more than how long does the handbook
+    say it may be removed?
+  choices:
+  - Four hours.
+  - Twenty-four hours.
+  - Two hours.
+  answer: Four hours.
+  reference: California Driver's Handbook — Illegal Parking; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads-cont1/
+  reason: The stated removal threshold is more than four hours. This does not create permission to park on
+    a freeway where stopping is otherwise prohibited.
+- question: G45. For ordinary night driving, which sunset-to-sunrise timing does the handbook give for mandatory
+    headlight use?
+  choices:
+  - From 30 minutes after sunset until 30 minutes before sunrise.
+  - From 30 minutes before sunset until 30 minutes after sunrise.
+  - From sunset until sunrise.
+  answer: From 30 minutes after sunset until 30 minutes before sunrise.
+  reference: California Driver's Handbook — Using Your Headlights; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/introduction-to-driving/
+  reason: The exact statutory-time figures in the handbook are 30 minutes after sunset and 30 minutes before
+    sunrise. Poor visibility can require headlights outside this interval.
+- question: G46. Apart from the clock-based nighttime rule, headlights are required when it is too dark to
+    see from what distance?
+  choices:
+  - 500 feet.
+  - 1,000 feet.
+  - 300 feet.
+  answer: 1,000 feet.
+  reference: California Driver's Handbook — Using Your Headlights; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/introduction-to-driving/
+  reason: The visibility threshold is 1,000 feet. The 500- and 300-foot values apply to dimming high beams
+    for other vehicles.
+- question: G47. At 55 mph, what approximate stopping distances does the handbook compare for an average passenger
+    car and a large vehicle?
+  choices:
+  - About 400 feet for the car; up to 500 feet for the large vehicle.
+  - About 300 feet for the car; up to 400 feet for the large vehicle.
+  - About 200 feet for the car; up to 300 feet for the large vehicle.
+  answer: About 300 feet for the car; up to 400 feet for the large vehicle.
+  reference: California Driver's Handbook — Large Vehicles and Truck Drivers; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont1/
+  reason: These are handbook comparison figures, not guarantees for every vehicle or surface. The longer large-vehicle
+    distance explains why cutting closely in front is dangerous.
+- question: G48. A vehicle is towing a trailer on a highway with four lanes in its direction. No special truck
+    lanes are marked. Which lanes does the driver handbook permit for ordinary travel?
+  choices:
+  - Only the single lane closest to the right edge.
+  - Any lane except the far-left lane.
+  - The two lanes closest to the right edge.
+  answer: The two lanes closest to the right edge.
+  reference: California Driver's Handbook — Towing; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont1/
+  reason: On a highway with four or more lanes in one direction, the handbook allows the two rightmost lanes
+    for this towing situation. Ordinary travel is distinguished from a separate passing maneuver.
+- question: G49. A passenger is not wearing a seat belt. Below what passenger age does the handbook say the
+    driver can be ticketed for that failure?
+  choices:
+  - Under 21.
+  - Under 18.
+  - Under 16.
+  answer: Under 16.
+  reference: California Driver's Handbook — Seat Belts; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/safe-driving-cont1/
+  reason: The driver-responsibility threshold stated here is under 16. Separate child-restraint requirements
+    still apply to younger children.
+- question: G50. A load that projects more than four feet behind a vehicle will be carried after dark. What
+    nighttime marking does the handbook specify?
+  choices:
+  - The daytime flag alone, if reflective.
+  - Two red lights.
+  - One white light.
+  answer: Two red lights.
+  reference: California Driver's Handbook — Other Important Roadway Information; https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont2/
+  reason: The handbook specifies two red lights for that projecting load at night. The daytime flag alone is
+    not the stated nighttime marking.

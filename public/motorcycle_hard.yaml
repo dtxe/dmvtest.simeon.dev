@@ -1,0 +1,512 @@
+# California DMV — Motorcycle hard questions
+# 50 questions: M01–M50.
+# Intended for an experienced driver: obscure but handbook-testable facts,
+# California-specific exceptions, exact thresholds, penalties, deadlines, licensing,
+# and motorcycle techniques that are not reliably learned by driving a car.
+# Three plausible choices; ONE best answer; original answer ordering preserved.
+# Same YAML list and five fields as the original banks; IDs are embedded in question text.
+# Original practice questions, not actual or recalled DMV examination questions.
+# "99th percentile" is a difficulty target, NOT an empirically measured ranking.
+# No item-frequency data or probability of appearing on the real test is available.
+# Obscure facts and penalties are retained; ambiguous tricks and repeated padding are excluded.
+# Penalties are those listed by the handbook, not promises of an individual court outcome.
+# Sources checked 2026-09-22: DMV-hosted California Driver's Handbook and the linked
+# Motorcycle Handbook (the linked PDF identifies itself as DL 665 R2-2024).
+# References identify sections and source URLs. Motorcycle page numbers are printed pages.
+# Where an item asks what the handbook lists, answer that stated figure or guidance.
+# Suggested use: answer each 50-question section closed-book, then review explanations.
+# This targeted supplement is not a full syllabus or a predictor of the real test score.
+
+- question: M01. During a hard stop on a motorcycle without ABS, the front wheel locks. What should you do?
+  choices:
+  - Release the front brake immediately, then reapply it firmly and progressively.
+  - Release both brakes and use engine braking for the remainder of the stop.
+  - Keep the front wheel locked until the motorcycle stops.
+  answer: Release the front brake immediately, then reapply it firmly and progressively.
+  reference: California Motorcycle Handbook — Quick Stops, printed p. 28; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The front-wheel lock response is to release and reapply. The handbook's permission to keep a wheel
+    locked concerns the rear wheel under specific conditions.
+- question: M02. The rear wheel locks during braking on good pavement. The motorcycle is upright and traveling
+    straight. What does the handbook say you may do?
+  choices:
+  - Keep the rear wheel locked until completely stopped.
+  - Lean slightly to restore traction while maintaining the lock.
+  - Immediately release the rear brake in every case.
+  answer: Keep the rear wheel locked until completely stopped.
+  reference: California Motorcycle Handbook — Quick Stops, printed p. 28; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The handbook permits keeping the rear wheel locked in this specified straight, upright, good-traction
+    situation. Do not generalize that advice to a locked front wheel or a leaned-over motorcycle.
+- question: M03. You must stop quickly in a curve, and there is enough clear space to bring the motorcycle
+    upright without leaving your lane. What is the preferred sequence?
+  choices:
+  - Maintain the lean and immediately use maximum front-brake pressure.
+  - Keep the lean and use only the rear brake until stopped.
+  - Straighten the motorcycle, then brake firmly with both brakes.
+  answer: Straighten the motorcycle, then brake firmly with both brakes.
+  reference: California Motorcycle Handbook — Quick Stops, printed p. 29; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: Straightening frees traction for braking. The question supplies the space needed for this technique;
+    when that space is unavailable, the braking approach must change.
+- question: M04. You need to slow rapidly in a curve but cannot immediately straighten without leaving your
+    safe path. What should you do?
+  choices:
+  - Avoid all braking until you reach the end of the curve.
+  - Apply the brakes lightly at first, reduce lean as speed falls, and progressively increase braking.
+  - Apply full braking immediately while holding the same lean angle.
+  answer: Apply the brakes lightly at first, reduce lean as speed falls, and progressively increase braking.
+  reference: California Motorcycle Handbook — Quick Stops, printed p. 29; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: Traction must support both turning and braking while leaned over. Reduce lean as you slow, allowing
+    progressively more brake pressure.
+- question: M05. An obstacle requires a swerve, and you also need to reduce speed. How should these actions
+    be combined?
+  choices:
+  - Maintain front-brake pressure throughout the swerve.
+  - Brake before or after the swerve, separating the two actions.
+  - Use only the rear brake continuously during the swerve.
+  answer: Brake before or after the swerve, separating the two actions.
+  reference: California Motorcycle Handbook — Swerving or Turning Quickly, printed pp. 29–30; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The handbook separates braking from swerving. Replacing the front brake with the rear does not remove
+    that instruction.
+- question: M06. A 125 cc two-wheel motor-driven cycle is not a moped. Which license class does the handbook
+    require for it?
+  choices:
+  - Class M1.
+  - Class M2.
+  - Any California license class.
+  answer: Class M1.
+  reference: California Motorcycle Handbook — Motor-Driven Cycles and License Chart, printed pp. 2–4; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: Less than 150 cc defines the motor-driven-cycle category, but does not make it an M2 moped. M1 is
+    the applicable license class.
+- question: M07. During an emergency swerve, how should your body move relative to the motorcycle?
+  choices:
+  - Lean your body and motorcycle together exactly as in a normal turn.
+  - Shift your body sharply outside the lane before moving the motorcycle.
+  - Keep your body comparatively upright while the motorcycle leans beneath you.
+  answer: Keep your body comparatively upright while the motorcycle leans beneath you.
+  reference: California Motorcycle Handbook — Swerving or Turning Quickly, printed p. 29; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: 'The handbook distinguishes swerving posture from a normal turn: keep the body upright, knees against
+    the tank, and feet on the rests while the motorcycle moves beneath you.'
+- question: M08. You are making a tight U-turn at walking speed and need extra control. Which technique fits
+    the handbook?
+  choices:
+  - Keep the clutch fully engaged and control speed mainly with the front brake.
+  - Pull the clutch fully in and use the front brake to tighten the turn.
+  - Use the clutch friction zone and, if needed, light rear-brake pressure.
+  answer: Use the clutch friction zone and, if needed, light rear-brake pressure.
+  reference: California Motorcycle Handbook — U-turns, printed p. 16; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: For a slow U-turn, coordinate the friction zone and light rear brake. Front-brake use while turned
+    and leaned at low speed can tip the motorcycle.
+- question: M09. Which motorcycle-related vehicle may a Class C license holder operate without an M1 endorsement
+    according to the handbook?
+  choices:
+  - A motorcycle with a sidecar attached.
+  - A solo two-wheel motorcycle under 150 cc.
+  - Any two-wheel motorcycle restricted to city streets.
+  answer: A motorcycle with a sidecar attached.
+  reference: California Motorcycle Handbook — License Requirements, printed p. 3; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The Class C exception includes motorcycles with sidecars and three-wheel motorcycles. Engine size
+    alone does not exempt a solo two-wheel motor-driven cycle from M1.
+- question: M10. What does a Class M2 license authorize?
+  choices:
+  - Any motorcycle except one operated on a freeway.
+  - Motorized bicycles, mopeds, and motorized scooters.
+  - All motorcycles under 150 cc, plus motorized scooters.
+  answer: Motorized bicycles, mopeds, and motorized scooters.
+  reference: California Motorcycle Handbook — License Requirements, printed p. 3; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: M2 covers the specified lower-powered vehicle categories. A motor-driven cycle under 150 cc still
+    calls for M1, and road choice does not define license class.
+- question: M11. Trolley tracks cross your path at a reasonable angle. Steering to make the crossing exactly
+    90 degrees would carry you into the next lane. What is generally safer?
+  choices:
+  - Follow the tracks until there is room for an exact 90-degree crossing.
+  - Enter the next lane so the tires meet the tracks at 90 degrees.
+  - Continue straight within your own lane across the tracks.
+  answer: Continue straight within your own lane across the tracks.
+  reference: California Motorcycle Handbook — Railroad or Trolley Tracks and Pavement Seams, printed p. 33;
+    https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: For tracks already crossing your course, the handbook generally favors staying straight in your lane.
+    Forcing a right-angle crossing may create a traffic conflict.
+- question: M12. A pavement seam runs almost parallel to your motorcycle. You need to cross it. What is the
+    recommended approach?
+  choices:
+  - Ease across at the shallowest angle possible.
+  - Create room to cross at an angle of at least 45 degrees.
+  - Stay directly on the seam until it turns away from your route.
+  answer: Create room to cross at an angle of at least 45 degrees.
+  reference: California Motorcycle Handbook — Railroad or Trolley Tracks and Pavement Seams, printed p. 33;
+    https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: Shallow crossings of parallel seams or tracks can catch the tires. Move away enough to cross decisively
+    at 45 degrees or more.
+- question: M13. Your motorcycle wanders slightly while crossing bridge grating. What should you do?
+  choices:
+  - Stay relaxed, keep a steady speed, and ride straight.
+  - Zigzag gently to cross each groove at a greater angle.
+  - Brake firmly until the wandering stops.
+  answer: Stay relaxed, keep a steady speed, and ride straight.
+  reference: California Motorcycle Handbook — Grooves and Gratings, printed p. 33; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: A slight wandering sensation on grating is expected. Do not confuse grating with a single parallel
+    track or seam; zigzagging creates additional risk.
+- question: M14. You cannot avoid a small obstacle that the motorcycle can safely roll over. How should you
+    prepare?
+  choices:
+  - Remain seated firmly and brake hard as the front wheel strikes it.
+  - Lean the motorcycle and meet the obstacle at a shallow angle.
+  - Slow before contact, straighten the motorcycle, and rise slightly with weight on the footrests.
+  answer: Slow before contact, straighten the motorcycle, and rise slightly with weight on the footrests.
+  reference: California Motorcycle Handbook — Uneven Surfaces and Obstacles, printed p. 31; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: Approach as close to a right angle as practical, reduce speed before contact, and use bent knees
+    and elbows to absorb the impact.
+- question: M15. After slowing and straightening for an unavoidable small obstacle, what throttle action does
+    the handbook recommend just before contact?
+  choices:
+  - A large acceleration to lift the front wheel clear.
+  - An abrupt throttle closure to load the front tire.
+  - A slight roll-on to lighten the front end.
+  answer: A slight roll-on to lighten the front end.
+  reference: California Motorcycle Handbook — Uneven Surfaces and Obstacles, printed p. 31; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The instruction is a slight increase just before contact, after slowing. It is not a direction to
+    accelerate hard or attempt a wheelie.
+- question: M16. For the handbook's gasoline-powered moped definition, which combination is correct?
+  choices:
+  - At most 30 mph on level ground, less than four gross brake horsepower, and automatic transmission.
+  - At most 35 mph on level ground, less than five gross brake horsepower, and automatic transmission.
+  - At most 30 mph on level ground, less than four gross brake horsepower, and manual transmission.
+  answer: At most 30 mph on level ground, less than four gross brake horsepower, and automatic transmission.
+  reference: California Motorcycle Handbook — Motorized Bicycles or Moped, printed p. 2; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The moped definition combines the 30-mph ceiling, less-than-four-horsepower motor, and automatic
+    transmission; gasoline mopeds also require operative pedals.
+- question: M17. On wet pavement that still provides usable traction, how should you brake?
+  choices:
+  - Use only the rear brake because the front is ineffective when wet.
+  - Avoid both brakes and rely entirely on downshifting.
+  - Use both brakes smoothly, applying the front progressively and the rear gently.
+  answer: Use both brakes smoothly, applying the front progressively and the rear gently.
+  reference: California Motorcycle Handbook — Slippery Surfaces, printed p. 32; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The front brake remains effective on slippery pavement. Smooth use of both brakes is different from
+    the handbook's special advice for unavoidable ice at walking pace.
+- question: M18. Your front tire suddenly loses air. You have stabilized the motorcycle and are sure the rear
+    tire is sound. If braking is necessary, which brake should you apply gradually?
+  choices:
+  - Both equally, as for an ordinary quick stop.
+  - The rear brake.
+  - The front brake.
+  answer: The rear brake.
+  reference: California Motorcycle Handbook — Tire Failure, printed p. 34; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: After holding a straight course and easing off the throttle, use the brake associated with the sound
+    tire if you are certain which tire failed.
+- question: M19. The steering suddenly feels heavy and you suspect a tire failure. Which tire is most likely
+    affected, and what is your initial response?
+  choices:
+  - Front tire; hold the grips firmly, ease off the throttle, and stay straight.
+  - Rear tire; apply the rear brake immediately to stop the sway.
+  - Front tire; lean toward the shoulder and brake hard.
+  answer: Front tire; hold the grips firmly, ease off the throttle, and stay straight.
+  reference: California Motorcycle Handbook — Tire Failure, printed pp. 33–34; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: Heavy steering is a front-flat clue; a rear flat more often causes side-to-side movement. Control
+    the motorcycle before moving off the road.
+- question: M20. The throttle sticks and twisting it back and forth does not free it. What next?
+  choices:
+  - Shift into a higher gear and wait for engine speed to decrease.
+  - Operate the engine cut-off switch and pull in the clutch together.
+  - Leave the clutch engaged and use both brakes to overcome the engine.
+  answer: Operate the engine cut-off switch and pull in the clutch together.
+  reference: California Motorcycle Handbook — Stuck Throttle, printed p. 34; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: Cutting the engine and disengaging the clutch removes power from the rear wheel. After gaining control,
+    leave the road and stop to correct the fault.
+- question: M21. Your handlebars begin shaking rapidly from side to side. What is the recommended response
+    to this wobble?
+  choices:
+  - Hold firmly without fighting it, ease off the throttle, avoid braking, and shift weight forward and down.
+  - Clamp the front brake and force the handlebars to stay centered.
+  - Accelerate and move rearward to take weight off the front wheel.
+  answer: Hold firmly without fighting it, ease off the throttle, avoid braking, and shift weight forward and
+    down.
+  reference: California Motorcycle Handbook — Wobble, printed pp. 34–35; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The handbook warns that accelerating or braking can worsen wobble. Gradual slowing and forward, lower
+    weight are the specified response before leaving the road.
+- question: M22. A hot engine loses power and sounds abnormal; you suspect it is beginning to seize. What control
+    action protects against the engine locking the rear wheel?
+  choices:
+  - Downshift immediately to increase engine braking.
+  - Keep the clutch engaged while switching off the headlight.
+  - Pull in the clutch to disconnect the engine from the rear wheel.
+  answer: Pull in the clutch to disconnect the engine from the rear wheel.
+  reference: California Motorcycle Handbook — Engine Seizure, printed p. 35; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: A seized engine can act like a locked rear wheel. Pulling in the clutch separates the engine from
+    the wheel while you move to a safe stop.
+- question: M23. Your motorcycle has developed instability after you strapped a heavy bag high behind the rear
+    axle. Once safely stopped, what load change addresses a likely cause?
+  choices:
+  - Move the bag farther rearward to lighten the steering.
+  - Move the weight lower and over or ahead of the rear axle.
+  - Leave the bag in place and tighten only the shoulder straps.
+  answer: Move the weight lower and over or ahead of the rear axle.
+  reference: California Motorcycle Handbook — Wobble and Carrying Loads, printed pp. 34–35, 38; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: High, rearward cargo changes balance and can contribute to wobble. Secure the load low and forward,
+    and follow the motorcycle's loading limits and settings.
+- question: M24. A moped powered solely by electricity lacks pedals. Does that alone rule it out of the handbook's
+    moped definition?
+  choices:
+  - No; any electric vehicle without pedals is automatically a moped.
+  - No; the definition permits no pedals when powered solely by electrical energy.
+  - Yes; all mopeds require fully operative pedals.
+  answer: No; the definition permits no pedals when powered solely by electrical energy.
+  reference: California Motorcycle Handbook — Motorized Bicycles or Moped, printed p. 2; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: There is a specific pedal exception for a solely electric moped. Other definitional requirements
+    still matter, so the exception does not classify every electric vehicle as a moped.
+- question: M25. An adult has a valid Class C license but no M2 endorsement. What short-term motorized-bicycle
+    rental duration is covered by the handbook's license exception?
+  choices:
+  - 48 hours or less.
+  - 24 hours or less.
+  - Seven days or less.
+  answer: 48 hours or less.
+  reference: California Motorcycle Handbook — Motorcycle Type–License Class Chart, printed p. 4; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The chart footnote gives a short-term rental exception of 48 hours or less for a valid California
+    license holder. It is not a general exemption for owning and operating a moped.
+- question: M26. Which statement about a motorized scooter is correct under the handbook?
+  choices:
+  - No driver license is required, but registration substitutes for one.
+  - M1 is required, and it can be used for the motorcycle skills test.
+  - Any license class can authorize operation, but the scooter cannot be used for the motorcycle skills test.
+  answer: Any license class can authorize operation, but the scooter cannot be used for the motorcycle skills
+    test.
+  reference: California Motorcycle Handbook — Motorized Scooter, printed p. 3; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: A motorized scooter is distinct from a motorcycle and electric bicycle. The handbook permits any
+    driver-license class and explicitly excludes it from the skills test.
+- question: M27. A 20-year-old already holds a Class C license and wants an M1 license. Which motorcycle requirements
+    still apply under the handbook?
+  choices:
+  - CMSP completion and a motorcycle permit held for at least six months.
+  - CMSP is required, but the six-month permit period applies only to minors.
+  - CMSP is optional because the applicant is already an adult.
+  answer: CMSP completion and a motorcycle permit held for at least six months.
+  reference: California Motorcycle Handbook — Requirements for an M1 or M2 License, printed pp. 5–6; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The under-21 requirements include CMSP and six months with the motorcycle permit. Turning 18 or already
+    holding Class C does not remove them.
+- question: M28. Your group is riding staggered. You are third, on the same side of the lane as the leader.
+    What spacing does the handbook illustrate under suitable conditions?
+  choices:
+  - Alongside the second rider to preserve the stagger.
+  - About one second behind the leader.
+  - About two seconds behind the leader.
+  answer: About two seconds behind the leader.
+  reference: California Motorcycle Handbook — Keep Your Distance, printed pp. 39–40; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The second rider is offset one second behind the leader; the third is two seconds behind the leader
+    in the same track. Staggering does not justify side-by-side riding.
+- question: M29. A staggered group approaches a series of curves. What formation should it use?
+  choices:
+  - A tighter staggered formation.
+  - Single file.
+  - Side-by-side pairs.
+  answer: Single file.
+  reference: California Motorcycle Handbook — Keep Your Distance, printed p. 40; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: Single file gives each rider room to select a safe path through curves. The handbook also calls for
+    it when turning or entering or leaving a highway.
+- question: M30. In a group containing beginners, where should inexperienced riders normally ride, and whose
+    progress should govern the pace?
+  choices:
+  - Beginners at the very back; use the leader's preferred pace.
+  - Beginners beside the leader; keep the fastest rider at the rear.
+  - Beginners just behind the leader; let the last rider set the pace.
+  answer: Beginners just behind the leader; let the last rider set the pace.
+  reference: California Motorcycle Handbook — Keep the Group Together, printed p. 39; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The handbook places beginners near the front so experienced riders can watch them, and tells the
+    group to monitor those behind and let the last rider set the pace.
+- question: M31. A staggered group is passing a slower car. The leader has completed the pass. What should
+    happen next?
+  choices:
+  - The second rider passes immediately because the leader has already checked the road.
+  - The leader stays beside the car until all riders can pass together.
+  - The leader returns to the left lane portion and opens room; the next rider passes individually when safe.
+  answer: The leader returns to the left lane portion and opens room; the next rider passes individually when
+    safe.
+  reference: California Motorcycle Handbook — Passing in Formation, printed p. 40; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: Each rider needs an independently safe opportunity and passes one at a time. The leader opens space
+    for the next rider instead of turning the group into a single passing unit.
+- question: M32. On a motorcycle, you are following a van that blocks your view of the road ahead. The pavement
+    is dry. What following interval does the motorcycle handbook recommend?
+  choices:
+  - One second, so the van driver can see you in the mirror.
+  - Three seconds or more.
+  - Two seconds, because the pavement is dry.
+  answer: Three seconds or more.
+  reference: California Motorcycle Handbook — Following Another Vehicle, printed p. 18; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: An obstructed forward view calls for three seconds or more even on dry pavement. The normal two-second
+    minimum does not cover this condition.
+- question: M33. A DL 389 motorcycle training certificate was issued 13 months ago. Is it still within the
+    handbook's validity period?
+  choices:
+  - Yes; course completion does not expire for the skills-test waiver.
+  - Yes; it remains valid for 24 months.
+  - No; it is valid for 12 months from issue.
+  answer: No; it is valid for 12 months from issue.
+  reference: California Motorcycle Handbook — CMSP Training Course, printed p. 6; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The DL 389 validity period is twelve months. Completion of a course does not make this certificate
+    indefinitely valid.
+- question: M34. A car is overtaking your motorcycle on the left. Which position does the handbook generally
+    recommend during the pass?
+  choices:
+  - The far-right edge to encourage the car to return sooner.
+  - The center portion of your lane.
+  - The far-left edge to reduce the time spent alongside.
+  answer: The center portion of your lane.
+  reference: California Motorcycle Handbook — Being Passed, printed p. 19; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The center portion creates space from the passing vehicle without inviting an early return into your
+    lane. It also leaves room to respond to hazards.
+- question: M35. Which course evidence does the handbook identify as the basis for a possible DMV motorcycle
+    skills-test waiver?
+  choices:
+  - A valid DL 389 from approved California CMSP training.
+  - Any motorcycle course card issued for an insurance discount.
+  - Any out-of-state motorcycle training certificate.
+  answer: A valid DL 389 from approved California CMSP training.
+  reference: California Motorcycle Handbook — CMSP Training Course, printed p. 6; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The handbook distinguishes the DL 389 from out-of-state training and insurance-purpose completion
+    cards. It does not promise a waiver solely because some training was completed.
+- question: M36. Above approximately what group size does the motorcycle handbook recommend dividing riders
+    into smaller groups?
+  choices:
+  - More than eight or nine riders.
+  - More than twelve riders.
+  - More than four or five riders.
+  answer: More than four or five riders.
+  reference: California Motorcycle Handbook — Keep the Group Small, printed p. 39; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The handbook recommends splitting a group larger than four or five. Small groups are easier for other
+    traffic to pass and less likely to be separated by signals.
+- question: M37. Who must take the observation road test described in the motorcycle handbook?
+  choices:
+  - Every applicant whose existing Class C license is over ten years old.
+  - Every applicant who submits a DL 389 instead of taking the skills test.
+  - A motorcycle-only applicant who has never been licensed for any motor-vehicle class.
+  answer: A motorcycle-only applicant who has never been licensed for any motor-vehicle class.
+  reference: California Motorcycle Handbook — Motorcycle Skills Test / Observation Test, printed pp. 5–8; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The distinguishing conditions are applying for motorcycle only and never having held any motor-vehicle
+    license. This is separate from the ordinary motorcycle skills test.
+- question: M38. Does California's prohibition on covering both ears make all protective motorcycle earplugs
+    illegal?
+  choices:
+  - No; specified hearing protectors may reduce harmful noise while allowing sirens and horns to be heard.
+  - No; any earbuds are permitted if their volume is low.
+  - Yes; covering both ears is prohibited without exception.
+  answer: No; specified hearing protectors may reduce harmful noise while allowing sirens and horns to be heard.
+  reference: California Motorcycle Handbook — Face, Eye, and Ear Protection, printed pp. 9–10; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The motorcycle handbook states a hearing-protection exception. Its conditions concern harmful-noise
+    reduction and continued ability to hear sirens and horns, not simply low playback volume.
+- question: M39. You are riding a motorcycle towing a trailer. An HOV lane is open and there is no motorcycle-prohibition
+    sign. May you use it?
+  choices:
+  - Yes; all motorcycles qualify regardless of trailers.
+  - Yes, provided the motorcycle and trailer remain below 55 mph.
+  - No; the handbook excludes motorcycles towing trailers from carpool lanes.
+  answer: No; the handbook excludes motorcycles towing trailers from carpool lanes.
+  reference: California Motorcycle Handbook — Motorcycles Towing Trailers, printed p. 37; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: Ordinary motorcycle HOV eligibility does not extend to a motorcycle towing a trailer. The towing
+    speed limit is a separate rule.
+- question: M40. You are over 21 and hold a motorcycle instruction permit. Does having an experienced licensed
+    motorcyclist riding nearby permit you to ride on a freeway at night?
+  choices:
+  - No; motorcycle permit restrictions still prohibit freeway and nighttime riding.
+  - Yes; the restriction concerns carrying a passenger, not riding with another motorcycle.
+  - Yes; adult permit holders are exempt when accompanied.
+  answer: No; motorcycle permit restrictions still prohibit freeway and nighttime riding.
+  reference: California Motorcycle Handbook — Earning Your License / Permit Restrictions, printed pp. 3–6;
+    https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The motorcycle permit restrictions are no passengers, freeway riding, or nighttime riding. Another
+    rider nearby does not create an exception.
+- question: M41. What federal safety standard does the manufacturer certify with the DOT marking on a compliant
+    motorcycle helmet?
+  choices:
+  - FMVSS 218.
+  - FMVSS 108.
+  - FMVSS 208.
+  answer: FMVSS 218.
+  reference: California Motorcycle Handbook — Helmet Selection, printed p. 9; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The motorcycle helmet standard is FMVSS 218. The DOT marking represents manufacturer certification
+    to that standard, not a generic label for any protective helmet.
+- question: M42. Which inspection schedule matches the motorcycle handbook for tire pressure and, at minimum,
+    hydraulic fluid and coolant?
+  choices:
+  - Tire pressure before each ride; hydraulic fluid and coolant at least weekly.
+  - Tire pressure weekly; hydraulic fluid and coolant monthly.
+  - All three only at each scheduled service interval.
+  answer: Tire pressure before each ride; hydraulic fluid and coolant at least weekly.
+  reference: California Motorcycle Handbook — Check Your Motorcycle, printed pp. 12–13; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: 'The handbook calls for frequent checks: tires before each ride and at least weekly hydraulic-fluid
+    and coolant checks. Follow manufacturer instructions as well.'
+- question: M43. According to the handbook, approximately how much of a motorcycle's total stopping power can
+    the front brake provide?
+  choices:
+  - Three-quarters.
+  - One-quarter.
+  - One-half.
+  answer: Three-quarters.
+  reference: California Motorcycle Handbook — Braking / Quick Stops, printed pp. 15, 28–29; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The handbook gives approximately three-quarters. Underusing the front brake while overusing the rear
+    is one of the errors it highlights.
+- question: M44. When parking a motorcycle at a curb, what angle and contact point does the handbook recommend?
+  choices:
+  - About 45 to 90 degrees, with the rear wheel or fender touching the curb.
+  - About 30 degrees, with the front wheel or fender touching the curb.
+  - Parallel to the curb, with the front tire touching it.
+  answer: About 45 to 90 degrees, with the rear wheel or fender touching the curb.
+  reference: California Motorcycle Handbook — Parking at the Roadside, printed p. 24; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: 'The motorcycle guidance differs from ordinary car parallel parking: an approximately 45–90-degree
+    angle and rear contact at the curb.'
+- question: M45. Which transponder location is specifically listed as acceptable for a motorcyclist, provided
+    the toll reader can detect it?
+  choices:
+  - In the rider's pocket.
+  - Only mounted on the windshield.
+  - Only mounted on a plate supplied by the toll operator.
+  answer: In the rider's pocket.
+  reference: California Motorcycle Handbook — Toll Highways and Vehicle Crossings, printed p. 18; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The handbook lists five locations, including a pocket, a net over the tank, a suitable plate device,
+    a storage compartment, and the windshield. Detectability remains necessary.
+- question: M46. What rest-break interval and approximate daily riding duration does the motorcycle handbook
+    mention for fatigue management?
+  choices:
+  - Get off at least every three hours; the legal daily riding maximum is eight hours.
+  - Get off at least every four hours; experienced riders commonly ride ten hours daily.
+  - Get off at least every two hours; experienced riders seldom ride more than about six hours daily.
+  answer: Get off at least every two hours; experienced riders seldom ride more than about six hours daily.
+  reference: California Motorcycle Handbook — Fatigue, printed p. 43; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The two-hour break interval and roughly six-hour day are handbook fatigue guidance. They are not
+    legal driving-hours limits for private motorcycle riders.
+- question: M47. In the handbook's standard-drink table, which set represents one drink?
+  choices:
+  - 1.5 oz of 80-proof liquor, 16 oz of 5% beer, or 6 oz of 12% wine.
+  - 1 oz of 80-proof liquor, 12 oz of 5% beer, or 8 oz of 12% wine.
+  - 1.5 oz of 80-proof liquor, 12 oz of 5% beer, or 5 oz of 12% wine.
+  answer: 1.5 oz of 80-proof liquor, 12 oz of 5% beer, or 5 oz of 12% wine.
+  reference: California Motorcycle Handbook — BAC Table, printed p. 42; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The table specifies both serving volume and alcohol strength. A larger pour or stronger beverage
+    is not automatically one standard drink.
+- question: M48. What time adjustment does the handbook's BAC estimate table instruct readers to subtract?
+  choices:
+  - 0.01 percentage point for each 40 minutes of drinking.
+  - 0.01 percentage point for each 20 minutes of drinking.
+  - 0.02 percentage point for each 30 minutes of drinking.
+  answer: 0.01 percentage point for each 40 minutes of drinking.
+  reference: California Motorcycle Handbook — BAC Table, printed p. 42; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: This is the table's stated approximation, not a reliable calculation of when a particular person
+    is safe to ride. The correct unit is percentage points of BAC.
+- question: M49. For causing serious bodily injury during a police pursuit, which fine range does the motorcycle
+    handbook list?
+  choices:
+  - $2,000 to $10,000.
+  - $5,000 to $20,000.
+  - $1,000 to $5,000.
+  answer: $2,000 to $10,000.
+  reference: California Motorcycle Handbook — Evading a Peace Officer, printed p. 44; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: The listed fine range is $2,000–$10,000, with possible imprisonment as well. This question concerns
+    injury during a pursuit, not the basic misdemeanor fleeing offense.
+- question: M50. For causing a death during a police pursuit, which state-prison terms does the motorcycle
+    handbook list?
+  choices:
+  - Two, four, or six years.
+  - Four, six, or ten years.
+  - Three, five, or seven years.
+  answer: Four, six, or ten years.
+  reference: California Motorcycle Handbook — Evading a Peace Officer, printed p. 44; https://www.dmv.ca.gov/portal/file/motorcycle-driver-handbook-pdf/
+  reason: Four, six, or ten years are listed for causing a death during a pursuit. Three, five, or seven years
+    are the separate serious-bodily-injury terms.
