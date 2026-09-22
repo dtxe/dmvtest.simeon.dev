@@ -37,7 +37,7 @@ function App() {
   const [selectedAnswer, setSelectedAnswer] = useState("");
   const [submitted, setSubmitted] = useState(false);
   const [submittedQuestion, setSubmittedQuestion] = useState<Question | null>(null);
-  const [shuffle, setShuffle] = useState(false);
+  const [shuffle, setShuffle] = useState(true);
   const [loading, setLoading] = useState(true);
   const [loadFailure, setLoadFailure] = useState("");
   const resetDialog = useRef<HTMLDialogElement>(null);
