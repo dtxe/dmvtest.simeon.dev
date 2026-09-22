@@ -107,7 +107,9 @@ function App() {
       goToQuestion(nextIndex);
       return;
     }
-    goToQuestion(questionIndex + 1);
+    const nextIndex = unansweredQuestionIndices.find((index) => index > questionIndex)
+      ?? unansweredQuestionIndices[0];
+    if (nextIndex !== undefined) goToQuestion(nextIndex);
   }
 
   function submitAnswer() {
@@ -136,7 +138,7 @@ function App() {
   const isCorrect = submitted && selectedAnswer === currentQuestion?.answer;
   const canGoNext = shuffle
     ? unansweredQuestionIndices.length > 0
-    : mode === "review" || questionIndex < visibleQuestions.length - 1;
+    : mode === "review" || unansweredQuestionIndices.length > 0;
   const sourceErrors = Object.entries(errors) as Array<[QuestionSource, string]>;
 
   useEffect(() => {
