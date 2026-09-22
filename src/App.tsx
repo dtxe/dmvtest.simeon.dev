@@ -258,10 +258,6 @@ function App() {
                   <Badge>{sourceLabel(currentQuestion.source)}</Badge>
                   <span>Question {questionIndex + 1} of {displayedQuestionCount}</span>
                 </div>
-                <Progress
-                  value={((questionIndex + 1) / displayedQuestionCount) * 100}
-                  label={`Question ${questionIndex + 1} of ${displayedQuestionCount}`}
-                />
               </CardHeader>
               <CardContent>
                 <form onSubmit={(event) => { event.preventDefault(); submitAnswer(); }}>
