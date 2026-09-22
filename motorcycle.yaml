@@ -1,0 +1,3396 @@
+- question: What should you study in addition to the California Motorcycle Handbook for the motorcycle knowledge test?
+  choices:
+  - The California Driver's Handbook
+  - Only the Vehicle Code index
+  - Only a motorcycle owner's manual
+  answer: The California Driver's Handbook
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 1, Introduction
+  reason: The motorcycle handbook supplements, rather than replaces, the California Driver's Handbook.
+- question: If the handbook summary and the full California Vehicle Code differ, which governs?
+  choices:
+  - The motorcycle handbook summary
+  - The full Vehicle Code language
+  - Whichever rule is more favorable to the rider
+  answer: The full Vehicle Code language
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 1, Introduction
+  reason: DMV, law enforcement, and courts follow the full, exact Vehicle Code language.
+- question: Do California's basic rules of the road apply to motorcycles, motor-driven cycles, mopeds, and motorized bicycles?
+  choices:
+  - Only to motorcycles over 150 cc
+  - Only when they are on freeways
+  - Yes, the basic Vehicle Code rules apply to all of them
+  answer: Yes, the basic Vehicle Code rules apply to all of them
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 1, Two-Wheel Vehicle Operation
+  reason: The handbook states that the basic rules of the road apply to all two-wheel vehicle types listed.
+- question: A trail bike is operated on a public highway. What must it meet if its vehicle classification requires it?
+  choices:
+  - Applicable equipment, registration, financial responsibility, licensing, and operating requirements
+  - Only helmet requirements
+  - Only a local bicycle registration rule
+  answer: Applicable equipment, registration, financial responsibility, licensing, and operating requirements
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 1, Two-Wheel Vehicle Operation
+  reason: Vehicles such as minibikes and trail bikes may fall within motorcycle-related definitions and must meet applicable
+    highway requirements.
+- question: When may a motor-driven cycle, moped, motorized bicycle, or electric bicycle be prohibited from a freeway or expressway?
+  choices:
+  - Whenever traffic is moving over 45 mph
+  - When signs are posted prohibiting that vehicle type
+  - Only during darkness
+  answer: When signs are posted prohibiting that vehicle type
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 1, Two-Wheel Vehicle Operation
+  reason: The handbook specifically ties this prohibition to posted signs.
+- question: A Class 3 electric bicycle is generally prohibited on which type of facility unless an exception applies?
+  choices:
+  - A city street with a bike lane
+  - A residential roadway
+  - A bicycle, equestrian, hiking, or recreational path or trail
+  answer: A bicycle, equestrian, hiking, or recreational path or trail
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 1, Two-Wheel Vehicle Operation
+  reason: Class 3 e-bikes, mopeds, and motorized bicycles are restricted from these trails unless the trail is on/next to
+    a road or local law permits use.
+- question: For handbook purposes, a motorcycle is designed to travel on no more than how many wheels?
+  choices:
+  - Three wheels
+  - Two wheels only
+  - Four wheels
+  answer: Three wheels
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 1, Motorcycles
+  reason: The definition allows a motorcycle to have up to three wheels.
+- question: 'A motor-driven cycle has an engine size of:'
+  choices:
+  - 150 cc or more
+  - Less than 150 cc
+  - Less than 50 cc only
+  answer: Less than 150 cc
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Motor-Driven Cycles
+  reason: The handbook defines a motor-driven cycle as a motorcycle with an engine under 150 cc.
+- question: May you operate a motor-driven cycle on a freeway where signs prohibit motor-driven cycles?
+  choices:
+  - Yes, if you stay in the right lane
+  - Yes, if the engine is at least 100 cc
+  - 'No'
+  answer: 'No'
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Motor-Driven Cycles
+  reason: Posted freeway or expressway prohibitions apply to motor-driven cycles.
+- question: A motorized bicycle or moped may be capable of no more than what speed on level ground?
+  choices:
+  - 30 mph
+  - 20 mph
+  - 35 mph
+  answer: 30 mph
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Motorized Bicycles or Moped
+  reason: The handbook definition limits this vehicle type to 30 mph on level ground.
+- question: 'For a gasoline-powered moped, the motor must produce:'
+  choices:
+  - No more than 10 horsepower
+  - Less than four gross brake horsepower
+  - At least four gross brake horsepower
+  answer: Less than four gross brake horsepower
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Motorized Bicycles or Moped
+  reason: The moped definition specifies less than four gross brake horsepower.
+- question: What transmission characteristic is part of the handbook's moped definition?
+  choices:
+  - A manual transmission with at least four gears
+  - No transmission requirement
+  - An automatic transmission
+  answer: An automatic transmission
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Motorized Bicycles or Moped
+  reason: The definition includes a motor under four gross brake horsepower and an automatic transmission.
+- question: 'A moped powered solely by electrical energy:'
+  choices:
+  - May have no pedals
+  - Must always have fully operative pedals
+  - Must have a manual clutch
+  answer: May have no pedals
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Motorized Bicycles or Moped
+  reason: CVC section 406(a), as summarized by the handbook, allows no pedals when powered solely by electrical energy.
+- question: When may a motorized bicycle ride in a bicycle lane?
+  choices:
+  - Always
+  - When authorized by local authority or ordinance
+  - Never
+  answer: When authorized by local authority or ordinance
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Motorized Bicycles or Moped
+  reason: Local authorization or ordinance controls this use.
+- question: 'An electric bicycle under the handbook definition has an electric motor of:'
+  choices:
+  - 750 watts or more
+  - No more than 1,500 watts
+  - Less than 750 watts
+  answer: Less than 750 watts
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Electric Bicycles
+  reason: The definition uses a motor rating below 750 watts.
+- question: Which feature is required for an electric bicycle under the handbook definition?
+  choices:
+  - Fully operable pedals
+  - A motorcycle-style clutch
+  - A license plate
+  answer: Fully operable pedals
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Electric Bicycles
+  reason: The e-bike definition requires fully operable pedals.
+- question: 'On a Class 1 electric bicycle, motor assistance is provided:'
+  choices:
+  - Without pedaling through a throttle only
+  - Only while the rider is pedaling
+  - Only above 20 mph
+  answer: Only while the rider is pedaling
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Electric Bicycles
+  reason: Class 1 is pedal-assisted.
+- question: At what speed must Class 1 electric bicycle motor assistance cease?
+  choices:
+  - 28 mph
+  - 30 mph
+  - 20 mph
+  answer: 20 mph
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Electric Bicycles
+  reason: Class 1 assistance stops when 20 mph is reached.
+- question: 'A Class 2 electric bicycle is primarily:'
+  choices:
+  - Low-speed throttle-assisted
+  - Pedal-assisted only with no throttle
+  - A motorcycle under 150 cc
+  answer: Low-speed throttle-assisted
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Electric Bicycles
+  reason: Class 2 is the throttle-assisted e-bike category.
+- question: At what speed must a Class 2 electric bicycle's motor stop providing assistance?
+  choices:
+  - 25 mph
+  - 20 mph
+  - 28 mph
+  answer: 20 mph
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Electric Bicycles
+  reason: Class 2 motor assistance ceases at 20 mph.
+- question: 'A Class 3 electric bicycle is:'
+  choices:
+  - Throttle-only and limited to 20 mph
+  - A motor-driven cycle under 150 cc
+  - Pedal-assisted and equipped with a speedometer
+  answer: Pedal-assisted and equipped with a speedometer
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Electric Bicycles
+  reason: The handbook describes Class 3 as pedal-assisted and requires a speedometer.
+- question: At what speed must Class 3 electric bicycle motor assistance cease?
+  choices:
+  - 28 mph
+  - 20 mph
+  - 30 mph
+  answer: 28 mph
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Electric Bicycles
+  reason: Class 3 assistance ends at 28 mph.
+- question: What is the minimum age to operate a Class 3 electric bicycle?
+  choices:
+  - 14 years old
+  - 16 years old
+  - 18 years old
+  answer: 16 years old
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Electric Bicycles
+  reason: The handbook requires a Class 3 operator to be at least 16.
+- question: Which statement is correct for a Class 3 electric bicycle rider?
+  choices:
+  - A helmet is required only under age 18
+  - A helmet is optional if riding below 20 mph
+  - A properly fitted and fastened bicycle helmet is required
+  answer: A properly fitted and fastened bicycle helmet is required
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Electric Bicycles
+  reason: The Class 3 rules require the operator to wear a properly fitted and fastened bicycle helmet.
+- question: May a Class 3 electric bicycle carry a passenger under the handbook rule?
+  choices:
+  - 'No'
+  - Yes, if the passenger is over 16
+  - Yes, if both wear helmets
+  answer: 'No'
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Electric Bicycles
+  reason: The handbook states that a Class 3 operator shall not transport passengers.
+- question: May a Class 3 electric bicycle use a bicycle lane?
+  choices:
+  - Always
+  - Only if authorized by local authority or ordinance
+  - Never under any circumstances
+  answer: Only if authorized by local authority or ordinance
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Electric Bicycles
+  reason: The handbook makes bicycle-lane use by Class 3 e-bikes subject to local authorization.
+- question: Which requirement does NOT apply to any of the three electric-bicycle classes as a motor-vehicle requirement?
+  choices:
+  - Fully operable pedals
+  - Compliance with the applicable e-bike class definition
+  - A driver license
+  answer: A driver license
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Electric Bicycles
+  reason: The handbook exempts e-bikes from driver-license, motor-vehicle financial-responsibility, and license-plate requirements.
+- question: Which is NOT required for an electric bicycle under the handbook's motor-vehicle rules?
+  choices:
+  - A license plate
+  - An applicable class designation
+  - Pedals
+  answer: A license plate
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Electric Bicycles
+  reason: Electric bicycles are exempt from motor-vehicle license-plate requirements.
+- question: Which feature is part of the definition of a motorized scooter?
+  choices:
+  - A seat is mandatory
+  - A floorboard designed to be stood upon while riding
+  - Three wheels are required
+  answer: A floorboard designed to be stood upon while riding
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 3, Motorized Scooter
+  reason: The handbook definition includes handlebars and a floorboard for standing.
+- question: 'A motorized scooter may have a seat if:'
+  choices:
+  - The seat is at least 30 inches high
+  - The scooter has no floorboard
+  - The seat does not interfere with the operator's ability to stand and ride
+  answer: The seat does not interfere with the operator's ability to stand and ride
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 3, Motorized Scooter
+  reason: An optional seat is allowed only if it does not prevent standing operation.
+- question: What class of California driver license may operate a motorized scooter?
+  choices:
+  - Any class of driver license
+  - Class M1 only
+  - Class M2 only
+  answer: Any class of driver license
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 3, Motorized Scooter
+  reason: The handbook states that any class of California driver license may operate a motorized scooter.
+- question: Can a motorized scooter be used for the DMV motorcycle skills test?
+  choices:
+  - Yes, for M2 only
+  - 'No'
+  - Yes, if it can exceed 30 mph
+  answer: 'No'
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 3, Motorized Scooter
+  reason: The handbook explicitly says a motorized scooter cannot be used for the skills test.
+- question: What does the handbook say about a motorized scooter's exhaust system?
+  choices:
+  - It may be modified if it remains under 95 dB
+  - It may be removed for daytime operation
+  - It must not be modified or altered
+  answer: It must not be modified or altered
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 3, Motorized Scooter
+  reason: The scooter section specifically prohibits modifying or altering the exhaust system.
+- question: 'A Class M1 license authorizes operation of:'
+  choices:
+  - Any two-wheel motorcycle, motor-driven cycle, or motorized scooter, plus M2 vehicles
+  - Only motorcycles 150 cc or larger
+  - Only mopeds and motorized scooters
+  answer: Any two-wheel motorcycle, motor-driven cycle, or motorized scooter, plus M2 vehicles
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 3, License Requirements; CVC §12804.9
+  reason: M1 is the broader motorcycle license class and includes M2 vehicles.
+- question: 'A Class M2 license authorizes operation of:'
+  choices:
+  - Any motorcycle regardless of engine size
+  - A motorized bicycle, moped, or motorized scooter
+  - Only electric bicycles
+  answer: A motorized bicycle, moped, or motorized scooter
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 3, License Requirements; CVC §12804.9
+  reason: M2 is limited to motorized bicycles/mopeds and motorized scooters.
+- question: A Class C license holder may operate which motorcycle-related vehicle without an M1 endorsement under the handbook?
+  choices:
+  - Any two-wheel motorcycle
+  - Any motor-driven cycle under 150 cc
+  - A motorcycle with a sidecar, a three-wheel motorcycle, or a motorized scooter
+  answer: A motorcycle with a sidecar, a three-wheel motorcycle, or a motorized scooter
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 3, License Requirements; CVC §12804.9
+  reason: The handbook lists sidecar motorcycles, three-wheel motorcycles, and motorized scooters under Class C privileges.
+- question: Which license class is generally required for a motor-driven cycle under 150 cc?
+  choices:
+  - M1
+  - M2 only
+  - No license
+  answer: M1
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 4, Motorcycle Type-License Class Chart
+  reason: The license chart places motor-driven cycles under Class M1.
+- question: An electric bicycle requires which California driver-license class?
+  choices:
+  - M2
+  - No driver license is required
+  - M1
+  answer: No driver license is required
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 4, Motorcycle Type-License Class Chart
+  reason: The chart states a driver license is not required for electric bicycles.
+- question: 'A valid California driver license holder may operate a short-term rental motorized bicycle without an M2 endorsement
+    for up to:'
+  choices:
+  - 24 hours
+  - 72 hours
+  - 48 hours
+  answer: 48 hours
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 4, Motorcycle Type-License Class Chart
+  reason: The chart note provides a short-term rental exception of 48 hours or less.
+- question: What is the minimum age listed for a motorcycle instruction permit applicant?
+  choices:
+  - 15 1/2 years old
+  - 14 years old
+  - 16 years old
+  answer: 15 1/2 years old
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 5, Requirements for a Motorcycle M1 or M2 License
+  reason: The requirements table begins at age 15 1/2.
+- question: 'An applicant age 15 1/2 to 17 must provide:'
+  choices:
+  - Only a vehicle registration card
+  - Driver education and behind-the-wheel driver training completion certificates
+  - A commercial driving certificate
+  answer: Driver education and behind-the-wheel driver training completion certificates
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 5, Requirements for a Motorcycle M1 or M2 License
+  reason: These completion certificates are required for the minor age group unless the handbook's Class C alternative applies.
+- question: Which age groups must present a Certificate of Completion of Motorcycle Training (DL 389)?
+  choices:
+  - Only applicants under 18
+  - All applicants including age 21 and older
+  - Applicants 15 1/2 through 20
+  answer: Applicants 15 1/2 through 20
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 5, Requirements for a Motorcycle M1 or M2 License
+  reason: The requirements table requires DL 389 for the 15 1/2-17 and 18-20 groups, not the 21+ group.
+- question: 'A parent or guardian signature is required when the motorcycle applicant is:'
+  choices:
+  - A minor
+  - Under age 21
+  - Any first-time driver
+  answer: A minor
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 5, Requirements for a Motorcycle M1 or M2 License
+  reason: The signature requirement applies to minors.
+- question: Which applicants must pass a vision exam?
+  choices:
+  - Only applicants under 21
+  - All M1/M2 applicants
+  - Only applicants age 21 or older
+  answer: All M1/M2 applicants
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 5, Requirements for a Motorcycle M1 or M2 License
+  reason: The requirements table lists the vision exam for every age group.
+- question: Which applicants must provide fingerprints and have a photograph taken?
+  choices:
+  - Only minors
+  - Only applicants without a Class C license
+  - All M1/M2 applicants
+  answer: All M1/M2 applicants
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 5, Requirements for a Motorcycle M1 or M2 License
+  reason: The table lists both requirements for all age groups.
+- question: 'The motorcycle licensing tests include at least:'
+  choices:
+  - Driver knowledge, motorcycle knowledge, and motorcycle skills
+  - Only a motorcycle knowledge test
+  - Only a road observation test
+  answer: Driver knowledge, motorcycle knowledge, and motorcycle skills
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 5, Requirements for a Motorcycle M1 or M2 License
+  reason: The handbook identifies those three components.
+- question: Who must hold a motorcycle instruction permit for at least six months?
+  choices:
+  - Only applicants under 18
+  - Applicants age 15 1/2 through 20
+  - All applicants regardless of age
+  answer: Applicants age 15 1/2 through 20
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 5, Requirements for a Motorcycle M1 or M2 License
+  reason: The current table requires six months for the two under-21 age groups.
+- question: Which is a motorcycle instruction permit restriction?
+  choices:
+  - No riding on city streets
+  - No riding in daylight
+  - No carrying passengers
+  answer: No carrying passengers
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 5, Requirements for a Motorcycle M1 or M2 License
+  reason: The permit prohibits passengers, freeway driving, and nighttime driving.
+- question: Which is another motorcycle instruction permit restriction?
+  choices:
+  - No freeway driving
+  - No riding below 25 mph
+  - No use of turn signals
+  answer: No freeway driving
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 5, Requirements for a Motorcycle M1 or M2 License
+  reason: Freeway driving is prohibited while operating under the motorcycle instruction permit.
+- question: Which additional restriction applies to a motorcycle instruction permit?
+  choices:
+  - No weekend riding
+  - No nighttime driving
+  - No riding in rain
+  answer: No nighttime driving
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 5, Requirements for a Motorcycle M1 or M2 License
+  reason: Nighttime operation is one of the listed permit restrictions.
+- question: 'An applicant under age 17 1/2 must generally provide DL 389 plus:'
+  choices:
+  - A commercial learner permit
+  - Proof of owning a motorcycle
+  - Driver education and driver training completion or already hold a Class C license
+  answer: Driver education and driver training completion or already hold a Class C license
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 5, Requirements for a Motorcycle M1 or M2 License
+  reason: The note gives this driver-education/training requirement or an existing Class C license.
+- question: 'An applicant age 18 through 20 must complete CMSP training before receiving the motorcycle permit because:'
+  choices:
+  - Applicants under 21 are required to complete CMSP
+  - Only applicants without insurance must complete CMSP
+  - CMSP is required only for applicants under 18
+  answer: Applicants under 21 are required to complete CMSP
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 5, Requirements for a Motorcycle M1 or M2 License
+  reason: California requires CMSP completion for motorcycle applicants under 21.
+- question: 'For applicants age 21 or older, CMSP training is:'
+  choices:
+  - Mandatory before a permit
+  - Encouraged but not required for licensing
+  - Prohibited if the applicant already has a Class C license
+  answer: Encouraged but not required for licensing
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 5, Requirements for a Motorcycle M1 or M2 License
+  reason: The handbook encourages, but does not require, CMSP training for the 21+ group.
+- question: How long is a DL 389 valid from its issue date?
+  choices:
+  - 6 months
+  - 24 months
+  - 12 months
+  answer: 12 months
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 6, California Motorcyclist Safety Program Training Course
+  reason: The handbook states that the DL 389 is valid for 12 months.
+- question: 'Completion of an approved CMSP course and submission of a valid DL 389 may waive:'
+  choices:
+  - The DMV motorcycle skills test
+  - The motorcycle knowledge test
+  - The vision exam
+  answer: The DMV motorcycle skills test
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 6, California Motorcyclist Safety Program Training Course
+  reason: A valid DL 389 can waive the DMV skills test.
+- question: Will DMV waive the motorcycle skills test based solely on an out-of-state motorcycle training course?
+  choices:
+  - Yes, always
+  - 'No'
+  - Yes, if the course was at least eight hours
+  answer: 'No'
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 6, California Motorcyclist Safety Program Training Course
+  reason: The handbook says out-of-state training does not qualify for the DMV skills-test waiver.
+- question: A course completion card issued for insurance purposes is enough by itself to waive the DMV skills test.
+  choices:
+  - 'True'
+  - True, but only for applicants over 21
+  - 'False'
+  answer: 'False'
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 6, California Motorcyclist Safety Program Training Course
+  reason: The waiver requires the DMV-recognized DL 389; an insurance-purpose completion card is not enough.
+- question: May you use the California Motorcycle Handbook during the motorcycle knowledge test?
+  choices:
+  - 'No'
+  - Yes, if you do not use a phone
+  - Yes, for numeric questions only
+  answer: 'No'
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 6, Cheating
+  reason: Handbooks and other testing aids are prohibited during the knowledge test.
+- question: 'If a testing aid is used during the knowledge test, the test is:'
+  choices:
+  - Paused and restarted
+  - Marked as a failure
+  - Scored with a one-question penalty
+  answer: Marked as a failure
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 6, Cheating
+  reason: The handbook says use of a testing aid results in a failed knowledge test and may trigger further DMV action.
+- question: 'The DMV motorcycle skills test is scored as:'
+  choices:
+  - A 100-point percentage
+  - A letter grade
+  - Pass/fail
+  answer: Pass/fail
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 6, Motorcycle Skills Test
+  reason: The handbook explicitly calls the motorcycle skills test a pass/fail test.
+- question: 'During the pre-trip portion of the skills test, you may be asked to identify:'
+  choices:
+  - The starter, kill switch, clutch if equipped, throttle, gear selector, dimmer, brakes, signals, and horn
+  - Only the VIN and license plate
+  - Only the tires and mirrors
+  answer: The starter, kill switch, clutch if equipped, throttle, gear selector, dimmer, brakes, signals, and horn
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 6, Motorcycle Skills Test
+  reason: Those controls are listed for pre-trip identification.
+- question: In the serpentine ride, where do you begin relative to the first cone?
+  choices:
+  - On the left of the first cone
+  - On the right of the first cone
+  - Directly behind the first cone
+  answer: On the right of the first cone
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 7, Motorcycle Skills Test
+  reason: The skills-test instructions specify beginning on the right of the first cone.
+- question: How many cones are used in the serpentine ride?
+  choices:
+  - Four
+  - Six
+  - Five
+  answer: Five
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 7, Motorcycle Skills Test
+  reason: The skills-test diagram and instructions use a row of five cones.
+- question: In the first circle ride, you ride around the circle twice in which direction?
+  choices:
+  - Clockwise
+  - Counterclockwise
+  - Alternating directions each lap
+  answer: Clockwise
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 7, Motorcycle Skills Test
+  reason: The first circle ride is twice clockwise.
+- question: 'After the slow ride through the parallel lines, the circle ride is performed twice:'
+  choices:
+  - Clockwise
+  - Counterclockwise
+  - In either direction
+  answer: Counterclockwise
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 7, Motorcycle Skills Test
+  reason: The sequence calls for two counterclockwise circles after the slow ride.
+- question: 'The gear-shift portion is performed only on motorcycles:'
+  choices:
+  - With automatic transmission
+  - With an electric motor
+  - With a clutch and gears
+  answer: With a clutch and gears
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 7, Motorcycle Skills Test
+  reason: The handbook limits that exercise to motorcycles with a clutch and gears.
+- question: How wide is the inside of the parallel ride lane on the skills course?
+  choices:
+  - 1 foot
+  - 2 feet
+  - 3 feet
+  answer: 1 foot
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 7, Motorcycle Skills Test
+  reason: The skills-test dimensions give a one-foot parallel ride lane.
+- question: How wide is the inside of the circle ride lane?
+  choices:
+  - 1 foot
+  - 2 feet
+  - 4 feet
+  answer: 2 feet
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 7, Motorcycle Skills Test
+  reason: The circle ride lane is two feet wide.
+- question: What is the outside diameter of the skills-test circle?
+  choices:
+  - 20 feet
+  - 30 feet
+  - 24 feet
+  answer: 24 feet
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 7, Motorcycle Skills Test
+  reason: The outside circle diameter is 24 feet.
+- question: How far apart are the skills-test cones?
+  choices:
+  - 12 feet
+  - 10 feet
+  - 15 feet
+  answer: 12 feet
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 7, Motorcycle Skills Test
+  reason: The cone spacing is 12 feet.
+- question: How wide is the cone area on the skills test?
+  choices:
+  - 6 feet
+  - 8 feet
+  - 10 feet
+  answer: 8 feet
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 7, Motorcycle Skills Test
+  reason: The diagram specifies an eight-foot cone area.
+- question: Who is required to take the observation road test described in the handbook?
+  choices:
+  - Every M1 renewal applicant
+  - Only applicants who fail the circle ride
+  - A motorcycle-only applicant who has never been licensed for any class of motor vehicle
+  answer: A motorcycle-only applicant who has never been licensed for any class of motor vehicle
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 8, Motorcycle Skills Test
+  reason: The observation test applies to never-licensed applicants seeking a motorcycle-only license.
+- question: Which item is required by California law when riding a motorcycle?
+  choices:
+  - A U.S. DOT-compliant motorcycle safety helmet
+  - A leather jacket
+  - Over-the-ankle boots
+  answer: A U.S. DOT-compliant motorcycle safety helmet
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 8, Wear the Right Gear
+  reason: The helmet is legally required; the other protective gear is strongly recommended.
+- question: Which item is strongly recommended but not listed in this section as the statutory helmet requirement?
+  choices:
+  - A DOT-compliant helmet
+  - Face and/or eye protection
+  - A properly fastened helmet
+  answer: Face and/or eye protection
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 8, Wear the Right Gear
+  reason: Face/eye protection and protective apparel are recommended in this section; the DOT helmet is required.
+- question: Who must wear a U.S. DOT-compliant motorcycle safety helmet?
+  choices:
+  - Only riders under age 21
+  - Only the operator
+  - All motorcycle riders and passengers
+  answer: All motorcycle riders and passengers
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 8, Helmet Use; CVC §27803 / FMVSS 218 where applicable
+  reason: CVC section 27803 applies the helmet requirement to riders and passengers.
+- question: The helmet manufacturer certifies compliance with which federal standard?
+  choices:
+  - FMVSS 218
+  - FMVSS 108
+  - FMVSS 205
+  answer: FMVSS 218
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 8, Helmet Use; CVC §27803 / FMVSS 218 where applicable
+  reason: The handbook identifies Federal Motor Vehicle Safety Standard 218 for motorcycle helmets.
+- question: 'Most motorcycle collisions occur on trips of:'
+  choices:
+  - More than 50 miles
+  - Less than five miles
+  - Exactly 10 to 20 miles
+  answer: Less than five miles
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 8, Helmet Use; CVC §27803 / FMVSS 218 where applicable
+  reason: The handbook notes that most collisions happen on short trips under five miles.
+- question: At what speed are most riders traveling more slowly than when a collision occurs, according to the handbook?
+  choices:
+  - 45 mph
+  - 55 mph
+  - 30 mph
+  answer: 30 mph
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 8, Helmet Use; CVC §27803 / FMVSS 218 where applicable
+  reason: The handbook states most riders are below 30 mph when a collision occurs.
+- question: 'At the lower collision speeds discussed in the handbook, a DOT-compliant helmet can reduce the number and severity
+    of head injuries by about:'
+  choices:
+  - 50 percent
+  - 25 percent
+  - 90 percent
+  answer: 50 percent
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 8, Helmet Use; CVC §27803 / FMVSS 218 where applicable
+  reason: The handbook gives a 50 percent reduction figure for these collision speeds.
+- question: 'A novelty helmet with very thin padding is:'
+  choices:
+  - Automatically compliant if it has a visor
+  - Generally not U.S. DOT compliant
+  - Compliant only if the rider is over 21
+  answer: Generally not U.S. DOT compliant
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 8, Helmet Use; CVC §27803 / FMVSS 218 where applicable
+  reason: The handbook warns that non-DOT novelty helmets generally have very thin liners and do not meet safety standards.
+- question: 'A proper motorcycle helmet should:'
+  choices:
+  - Fit loosely so it can rotate easily
+  - Sit high enough to expose the forehead
+  - Fit snugly all the way around
+  answer: Fit snugly all the way around
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 9, Helmet Selection; CVC §27803 / FMVSS 218 where applicable
+  reason: The helmet-selection section calls for a snug all-around fit.
+- question: Which helmet condition is unacceptable?
+  choices:
+  - Cracks, loose padding, or frayed straps
+  - A securely fastened retention system
+  - A snug fit
+  answer: Cracks, loose padding, or frayed straps
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 9, Helmet Selection; CVC §27803 / FMVSS 218 where applicable
+  reason: Obvious defects can prevent the helmet from providing intended protection.
+- question: Why must a motorcycle helmet be securely fastened?
+  choices:
+  - It improves fuel economy
+  - It can come off in a collision if not fastened
+  - It allows a looser fit
+  answer: It can come off in a collision if not fastened
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 9, Helmet Selection; CVC §27803 / FMVSS 218 where applicable
+  reason: A helmet that comes off cannot protect the rider's head.
+- question: Which marking should be manufacturer-applied on a compliant helmet?
+  choices:
+  - DMV
+  - CHP
+  - DOT
+  answer: DOT
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 9, Helmet Selection; CVC §27803 / FMVSS 218 where applicable
+  reason: DOT certification is applied by the manufacturer to indicate compliance with the federal motorcycle helmet standard.
+- question: 'Compared with goggles, a shatter-resistant face shield protects:'
+  choices:
+  - The whole face as well as the eyes
+  - Only the eyes
+  - Only the lower face
+  answer: The whole face as well as the eyes
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 9, Face, Eye, and Ear Protection
+  reason: Goggles protect the eyes, while a lowered and locked face shield protects the whole face.
+- question: Is a motorcycle windshield a substitute for a face shield or goggles?
+  choices:
+  - Yes, at speeds under 30 mph
+  - 'No'
+  - Yes, if it is tinted
+  answer: 'No'
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 9, Face, Eye, and Ear Protection
+  reason: The handbook explicitly states that a windshield is not a substitute for face or eye protection.
+- question: 'Ordinary eyeglasses or sunglasses:'
+  choices:
+  - Provide the same protection as a locked face shield
+  - Are required instead of goggles
+  - Are not a substitute for proper eye protection
+  answer: Are not a substitute for proper eye protection
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 9, Face, Eye, and Ear Protection
+  reason: They may not stop wind and can blow off when the rider turns their head.
+- question: 'Effective eye or face protection should be:'
+  choices:
+  - Free of scratches and resistant to punctures
+  - Heavily scratched to reduce glare
+  - Loose enough to lift in wind
+  answer: Free of scratches and resistant to punctures
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 9, Face, Eye, and Ear Protection
+  reason: The handbook lists scratch-free and puncture-resistant construction as requirements.
+- question: 'Effective eye protection must provide:'
+  choices:
+  - Only a clear view straight ahead
+  - A clear view to either side
+  - No peripheral view
+  answer: A clear view to either side
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 9, Face, Eye, and Ear Protection
+  reason: The handbook requires clear side vision.
+- question: Why should face or eye protection permit airflow?
+  choices:
+  - To make it easier to hear
+  - To increase wind exposure to the eyes
+  - To reduce fogging
+  answer: To reduce fogging
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 9, Face, Eye, and Ear Protection
+  reason: Ventilation is recommended to reduce fogging.
+- question: 'Tinted eye protection should generally not be worn:'
+  choices:
+  - At night or in low-light conditions
+  - During bright daylight
+  - When riding below 30 mph
+  answer: At night or in low-light conditions
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 9, Face, Eye, and Ear Protection
+  reason: Tint reduces available light and the handbook advises against it at night or in low light.
+- question: 'California generally prohibits covering both ears with headsets or earplugs unless:'
+  choices:
+  - The motorcycle has a windshield
+  - They are designed to reduce harmful noise and do not prevent hearing sirens or horns
+  - The rider is on a freeway
+  answer: They are designed to reduce harmful noise and do not prevent hearing sirens or horns
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 9, Face, Eye, and Ear Protection; CVC §27400
+  reason: CVC section 27400 allows protective devices designed to reduce injurious noise without blocking necessary warning
+    sounds.
+- question: 'A riding jacket should cover your arms and:'
+  choices:
+  - Be loose enough to billow at speed
+  - End above the elbows
+  - Fit snugly enough not to flap in the wind
+  answer: Fit snugly enough not to flap in the wind
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 10, Clothing
+  reason: Protective apparel should cover exposed skin and avoid loose flapping material.
+- question: Which footwear is recommended for motorcycle riding?
+  choices:
+  - Sturdy over-the-ankle, closed-toe footwear with slip-resistant soles
+  - Open-toe sandals
+  - Smooth-soled dress shoes
+  answer: Sturdy over-the-ankle, closed-toe footwear with slip-resistant soles
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 10, Clothing
+  reason: The handbook recommends sturdy over-the-ankle closed-toe footwear.
+- question: Why should shoelaces be tucked in when riding?
+  choices:
+  - To improve brake cooling
+  - To keep them from catching on motorcycle parts
+  - To reduce helmet noise
+  answer: To keep them from catching on motorcycle parts
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 10, Clothing
+  reason: Loose laces can catch on motorcycle components.
+- question: 'Recommended motorcycle gloves are:'
+  choices:
+  - Fingerless and loose
+  - Optional only in cold weather
+  - Full-fingered and made of leather or another durable material
+  answer: Full-fingered and made of leather or another durable material
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 10, Clothing
+  reason: Durable full-fingered gloves protect the hands and improve grip.
+- question: 'Protective riding apparel can help prevent:'
+  choices:
+  - Dehydration and sun/wind burn as well as abrasion
+  - Only hearing loss
+  - Only tire punctures
+  answer: Dehydration and sun/wind burn as well as abrasion
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 10, Clothing
+  reason: The handbook notes protective apparel helps with environmental exposure as well as injury protection.
+- question: 'For long rides in cold or wet weather, the handbook recommends:'
+  choices:
+  - Removing layers to reduce bulk
+  - Layering clothing to stay warm and dry
+  - Wearing cotton only
+  answer: Layering clothing to stay warm and dry
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 10, Clothing
+  reason: Layering helps prevent severe chill, dehydration, fatigue, and numbness.
+- question: 'A motorcycle rain suit should be designed to:'
+  choices:
+  - Fill with air to improve visibility
+  - Fit loosely enough to flap
+  - Resist tearing apart or ballooning at high speeds
+  answer: Resist tearing apart or ballooning at high speeds
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 10, Clothing
+  reason: Purpose-built rain gear is designed not to tear or balloon at speed.
+- question: 'Before riding a motorcycle new to you, you should first:'
+  choices:
+  - Read the owner's manual and become familiar with its controls
+  - Assume all controls are identical
+  - Practice only in freeway traffic
+  answer: Read the owner's manual and become familiar with its controls
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 11, Know Your Motorcycle
+  reason: The handbook emphasizes knowing the machine and controls before street riding.
+- question: What does the handbook recommend regarding add-ons and modifications?
+  choices:
+  - Add as many accessories as possible
+  - Avoid those that make the motorcycle harder to handle
+  - Ignore their effect on handling
+  answer: Avoid those that make the motorcycle harder to handle
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 11, Know Your Motorcycle
+  reason: Handling-degrading modifications increase risk.
+- question: 'A motorcycle properly fitted to you should allow:'
+  choices:
+  - Only your toes to reach the footrests
+  - Your knees to be fully straight while seated
+  - Your feet to comfortably reach the ground while seated
+  answer: Your feet to comfortably reach the ground while seated
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 11, The Right Motorcycle
+  reason: The handbook uses comfortable ground reach as the basic fit check.
+- question: Which is a minimum street-legal motorcycle item listed in the handbook?
+  choices:
+  - Front and rear brakes
+  - A radio
+  - A center stand
+  answer: Front and rear brakes
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 11, The Right Motorcycle
+  reason: The listed minimum equipment includes front and rear brakes.
+- question: Which lighting equipment is listed as minimum street-legal equipment?
+  choices:
+  - Only a headlight
+  - Headlight, taillight, brake light, and turn signals
+  - Only a brake light
+  answer: Headlight, taillight, brake light, and turn signals
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 11, The Right Motorcycle
+  reason: All four types are listed in the minimum equipment checklist.
+- question: Which is also listed as minimum street-legal equipment?
+  choices:
+  - A windshield and luggage rack
+  - A tachometer and GPS
+  - A horn and mirror(s)
+  answer: A horn and mirror(s)
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 11, The Right Motorcycle
+  reason: The handbook includes a horn and mirror(s).
+- question: More than half of motorcycle collisions involve riders with less than about how much experience?
+  choices:
+  - Six months
+  - One month
+  - Two years
+  answer: Six months
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 11, Get Familiar With the Motorcycle Controls
+  reason: The handbook notes that more than half occur among riders with less than six months of experience.
+- question: 'On an unfamiliar motorcycle, you should be able to locate key controls:'
+  choices:
+  - Only after stopping to read labels
+  - Without looking for them
+  - By asking a passenger while moving
+  answer: Without looking for them
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 11, Get Familiar With the Motorcycle Controls
+  reason: The handbook recommends knowing control locations well enough to find them without looking.
+- question: 'Before riding an unfamiliar motorcycle, you should know:'
+  choices:
+  - Only its fuel-tank capacity
+  - Only its tire brand
+  - Its gear pattern
+  answer: Its gear pattern
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 11, Get Familiar With the Motorcycle Controls
+  reason: Gear patterns and control responses can differ between motorcycles.
+- question: 'With an unfamiliar motorcycle, you should initially:'
+  choices:
+  - Accelerate gently, take turns slowly, and leave extra stopping room
+  - Accelerate hard to learn the throttle
+  - Ride normally because controls are standardized
+  answer: Accelerate gently, take turns slowly, and leave extra stopping room
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 11, Get Familiar With the Motorcycle Controls
+  reason: The handbook recommends extra caution until you know the machine.
+- question: How often should you check tire pressure, wear, and tread?
+  choices:
+  - Once a month
+  - Before every ride
+  - Only before freeway trips
+  answer: Before every ride
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 12, Check Your Motorcycle
+  reason: Tires are on the before-every-ride checklist.
+- question: At a minimum, how often should hydraulic fluid and coolant be checked?
+  choices:
+  - Daily
+  - Once a year
+  - Weekly
+  answer: Weekly
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 12, Check Your Motorcycle
+  reason: The handbook specifies weekly checks at minimum.
+- question: What should you look for under the motorcycle during the fluid check?
+  choices:
+  - Signs of fluid leaks
+  - Only tire tracks
+  - Road paint
+  answer: Signs of fluid leaks
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 12, Check Your Motorcycle
+  reason: Fluid leaks can signal a mechanical problem before entering traffic.
+- question: 'Before each ride, check the headlight and taillight for:'
+  choices:
+  - Exact color temperature
+  - Proper operation and burned-out bulbs
+  - Only cosmetic damage
+  answer: Proper operation and burned-out bulbs
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 12, Check Your Motorcycle
+  reason: Lighting operation is part of the pre-ride inspection.
+- question: How should turn signals be checked?
+  choices:
+  - Check only the rear signals
+  - Check them only at night
+  - Operate both right and left and confirm front and rear signals work
+  answer: Operate both right and left and confirm front and rear signals work
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 12, Check Your Motorcycle
+  reason: The handbook says to test both directions and all signal lamps.
+- question: What battery items should be checked?
+  choices:
+  - Condition, electrolyte if applicable, clean/tight terminals, and secure fastening
+  - Only the battery color
+  - Only the age printed on the case
+  answer: Condition, electrolyte if applicable, clean/tight terminals, and secure fastening
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 12, Check Your Motorcycle
+  reason: These are the battery items listed in the inspection checklist.
+- question: How do you test the brake light before riding?
+  choices:
+  - Use only the front brake
+  - Try both brake controls and verify each activates the brake light
+  - Turn on the high beam
+  answer: Try both brake controls and verify each activates the brake light
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 12, Check Your Motorcycle
+  reason: Both brake controls should activate the brake light.
+- question: 'A chain or belt should be checked for:'
+  choices:
+  - Paint color
+  - Temperature only
+  - Tension and condition
+  answer: Tension and condition
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 12, Check Your Motorcycle
+  reason: Drive-system condition and adjustment matter to safe operation.
+- question: What should happen to the throttle when released?
+  choices:
+  - It should snap back
+  - It should remain where released
+  - It should close only after braking
+  answer: It should snap back
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 12, Check Your Motorcycle
+  reason: A throttle that returns freely helps prevent a stuck-throttle emergency.
+- question: 'Before riding, your mirrors should be:'
+  choices:
+  - Folded inward
+  - Clean and adjusted
+  - Adjusted only after reaching highway speed
+  answer: Clean and adjusted
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 12, Check Your Motorcycle
+  reason: Proper mirror adjustment is part of the pre-ride check.
+- question: 'At least weekly, the handbook recommends checking:'
+  choices:
+  - Only the horn
+  - Only the seat
+  - Wheels, cables, fasteners, and fluid levels
+  answer: Wheels, cables, fasteners, and fluid levels
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 12, Check Your Motorcycle
+  reason: These items are listed for at-least-weekly inspection.
+- question: How far ahead should a rider scan the path of travel?
+  choices:
+  - At least 10 to 15 seconds
+  - 2 to 3 seconds
+  - 30 to 45 seconds only
+  answer: At least 10 to 15 seconds
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 13, Know Your Responsibilities
+  reason: The responsibilities section specifies looking at least 10 to 15 seconds ahead.
+- question: 'A rider should maintain an escape route while:'
+  choices:
+  - Looking only at the vehicle directly ahead
+  - Monitoring traffic ahead and approaching traffic from behind
+  - Ignoring rear traffic
+  answer: Monitoring traffic ahead and approaching traffic from behind
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 13, Know Your Responsibilities
+  reason: The handbook pairs awareness of surrounding traffic with maintaining an escape route.
+- question: Which behavior best communicates a rider's intentions?
+  choices:
+  - Relying on eye contact only
+  - Riding beside another vehicle
+  - Using proper signals, brake light, and lane position
+  answer: Using proper signals, brake light, and lane position
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 13, Know Your Responsibilities
+  reason: Those are the communication tools listed in the responsibilities section.
+- question: How far forward should you sit?
+  choices:
+  - Far enough that your arms are slightly bent on the grips
+  - As far back as possible with straight arms
+  - So your elbows lock
+  answer: Far enough that your arms are slightly bent on the grips
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 14, Body Position
+  reason: Slightly bent arms improve steering control and reduce fatigue.
+- question: 'Your right wrist should start:'
+  choices:
+  - Bent sharply upward
+  - Flat
+  - Twisted fully open
+  answer: Flat
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 14, Body Position
+  reason: A flat right wrist helps prevent accidentally applying too much throttle.
+- question: 'Your hands should generally be:'
+  choices:
+  - Well above your shoulders
+  - Below your knees
+  - Even with or below your elbows
+  answer: Even with or below your elbows
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 14, Body Position
+  reason: This position lets you use the proper muscles for precision steering.
+- question: Where should your knees be while riding?
+  choices:
+  - Against the gas tank
+  - Pointed outward
+  - Resting away from the motorcycle
+  answer: Against the gas tank
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 14, Body Position
+  reason: Knees against the tank help balance and control.
+- question: What should you do with your feet while moving?
+  choices:
+  - Drag them lightly on the pavement
+  - Keep them firmly on the footrests
+  - Let them hang below the controls
+  answer: Keep them firmly on the footrests
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 14, Body Position
+  reason: Dragging your feet can cause loss of control.
+- question: Why should you avoid pointing your toes downward?
+  choices:
+  - It reduces engine braking
+  - It makes the headlight aim too low
+  - They may get caught between the road and the footrests
+  answer: They may get caught between the road and the footrests
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 14, Body Position
+  reason: The handbook warns that downward-pointing toes may contact the roadway.
+- question: 'When slowing or stopping, you should generally:'
+  choices:
+  - Downshift through the gears as you slow
+  - Shift directly into neutral at speed
+  - Keep the clutch pulled in without changing gears
+  answer: Downshift through the gears as you slow
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 14, Shifting Gears
+  reason: Downshifting keeps an appropriate gear selected and helps you remain ready to move.
+- question: 'At a stop, you should normally remain in:'
+  choices:
+  - Neutral
+  - First gear
+  - Top gear
+  answer: First gear
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 14, Shifting Gears
+  reason: Remaining in first gear keeps you ready to move if necessary.
+- question: 'Downshifting at too high a speed can cause:'
+  choices:
+  - The front tire to inflate
+  - The engine to idle more smoothly
+  - A lurch and possible rear-wheel skid
+  answer: A lurch and possible rear-wheel skid
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 14, Shifting Gears
+  reason: A sudden mismatch between road speed and engine speed can upset rear-wheel traction.
+- question: When is it best to change gears for a turn?
+  choices:
+  - Before starting the turn
+  - At maximum lean
+  - Only after the turn is complete
+  answer: Before starting the turn
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 14, Shifting Gears
+  reason: The handbook says shifting before the turn is best.
+- question: 'If you must shift while in a turn, you should:'
+  choices:
+  - Release the clutch suddenly
+  - Shift smoothly
+  - Use only the rear brake while shifting
+  answer: Shift smoothly
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 15, Shifting Gears
+  reason: A sudden rear-wheel power change can cause a skid.
+- question: 'For a normal nonemergency stop, you should:'
+  choices:
+  - Use only the rear brake
+  - Use only the front brake
+  - Use both brakes at the same time and downshift
+  answer: Use both brakes at the same time and downshift
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 15, Braking
+  reason: The handbook recommends both brakes plus downshifting.
+- question: About what fraction of total stopping power can the front brake provide?
+  choices:
+  - Three-quarters
+  - One-quarter
+  - One-half
+  answer: Three-quarters
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 15, Braking
+  reason: The handbook states the front brake provides about three-quarters of stopping power.
+- question: How should the front brake be applied?
+  choices:
+  - Grab it suddenly
+  - Squeeze it progressively rather than grabbing it
+  - Avoid it during all stops
+  answer: Squeeze it progressively rather than grabbing it
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 15, Braking
+  reason: Grabbing the front brake can lock the wheel and cause control problems.
+- question: How should the rear brake normally be applied?
+  choices:
+  - Jam it down as hard as possible
+  - Never use it with the front brake
+  - Press down on it while also using the front brake
+  answer: Press down on it while also using the front brake
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 15, Braking
+  reason: Smooth simultaneous use of both brakes is the normal technique.
+- question: Why is heavy braking while leaned over more risky?
+  choices:
+  - Some available traction is already being used for cornering
+  - The rear wheel stops turning in every curve
+  - The engine stops lubricating
+  answer: Some available traction is already being used for cornering
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 15, Braking
+  reason: Leaning uses part of the tire's traction for cornering, leaving less for braking.
+- question: 'Some integrated braking systems:'
+  choices:
+  - Disable the front brake in turns
+  - Link front and rear brakes when the rear brake pedal is applied
+  - Operate only when the horn is pressed
+  answer: Link front and rear brakes when the rear brake pedal is applied
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 15, Braking
+  reason: The handbook notes that designs vary and riders should consult the owner's manual.
+- question: What is the correct four-step turning sequence?
+  choices:
+  - Look, Brake, Coast, Press
+  - Press, Accelerate, Look, Stop
+  - Slow, Look, Press, Roll
+  answer: Slow, Look, Press, Roll
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 15, Turning
+  reason: The handbook teaches Slow-Look-Press-Roll.
+- question: 'In the ''Slow'' step, you should reduce speed:'
+  choices:
+  - Before the turn
+  - At the maximum lean angle
+  - Only after the turn
+  answer: Before the turn
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 15, Turning
+  reason: Entry speed should be set before turning.
+- question: 'In the ''Look'' step, you should:'
+  choices:
+  - Turn your shoulders and look at the front tire
+  - Turn your head and look through the turn while keeping your eyes level
+  - Look at the road directly beside the motorcycle
+  answer: Turn your head and look through the turn while keeping your eyes level
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 15, Turning
+  reason: Looking through the turn helps guide the motorcycle toward the intended path.
+- question: 'To initiate a left turn at normal riding speed, you should:'
+  choices:
+  - Pull the left handlegrip toward you
+  - Press the right handlegrip only
+  - Press the left handlegrip
+  answer: Press the left handlegrip
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 16, Turning
+  reason: Press left to lean left and go left.
+- question: 'Higher speeds or tighter turns generally require:'
+  choices:
+  - More lean
+  - Less lean
+  - No lean
+  answer: More lean
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 16, Turning
+  reason: More cornering force requires greater lean.
+- question: 'During a normal turn, the rider and motorcycle should:'
+  choices:
+  - Lean in opposite directions
+  - Lean together at the same angle
+  - Remain perfectly upright
+  answer: Lean together at the same angle
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 16, Turning
+  reason: Normal turns use a coordinated lean.
+- question: 'In a slow, tight turn, the rider should generally:'
+  choices:
+  - Lean farther inward than the motorcycle
+  - Stand on the seat
+  - Keep the body more upright while the motorcycle leans
+  answer: Keep the body more upright while the motorcycle leans
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 16, Turning
+  reason: Counterweighting improves low-speed balance.
+- question: 'In the ''Roll'' step, throttle should be:'
+  choices:
+  - Steady or gradually increased through the turn
+  - Closed abruptly at mid-turn
+  - Fully opened immediately
+  answer: Steady or gradually increased through the turn
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 16, Turning
+  reason: Steady or gently increasing throttle helps stabilize suspension.
+- question: During a slow U-turn, which brake should you drag lightly if needed?
+  choices:
+  - Front brake
+  - Rear brake
+  - Both brakes locked
+  answer: Rear brake
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 16, U-turns
+  reason: Light rear-brake drag can stabilize low-speed control; front-brake use can cause a tip-over.
+- question: Why should you avoid using the front brake during a tight low-speed U-turn?
+  choices:
+  - It causes the horn to sound
+  - It prevents countersteering
+  - It can make the motorcycle tip over
+  answer: It can make the motorcycle tip over
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 16, U-turns
+  reason: Front-brake input at high steering angle can destabilize the motorcycle.
+- question: 'For balance in a slow U-turn, use:'
+  choices:
+  - The clutch friction zone and light rear-brake pressure
+  - Full throttle and no clutch
+  - Neutral gear
+  answer: The clutch friction zone and light rear-brake pressure
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 16, U-turns
+  reason: The handbook recommends controlled power through the friction zone with rear-brake drag.
+- question: What practice pattern does the handbook recommend for improving U-turns in both directions?
+  choices:
+  - Straight-line braking only
+  - Figure 8 patterns
+  - High-speed lane changes
+  answer: Figure 8 patterns
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 16, U-turns
+  reason: Figure 8s provide repeated right and left U-turn practice.
+- question: 'A space cushion gives you:'
+  choices:
+  - Only a better view of the speedometer
+  - The right to ignore blind spots
+  - Time to react and space to maneuver
+  answer: Time to react and space to maneuver
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 16, Keeping Your Distance
+  reason: Distance is described as a rider's best protection because it provides reaction time and maneuvering room.
+- question: How many basic paths of travel does the handbook divide a traffic lane into for a motorcycle?
+  choices:
+  - Three
+  - Two
+  - Four
+  answer: Three
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 17, Lane Positions
+  reason: The lane-position diagram identifies three paths.
+- question: Is there one lane position that is always best?
+  choices:
+  - Yes; always the left third
+  - No; the best position changes with conditions
+  - Yes; always the center
+  answer: No; the best position changes with conditions
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 17, Lane Positions
+  reason: The handbook says there is no single best lane position.
+- question: If vehicles are on both sides of you, which lane position is usually best?
+  choices:
+  - The extreme left edge
+  - The extreme right edge
+  - The center portion
+  answer: The center portion
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 17, Lane Positions
+  reason: The center generally maximizes space and discourages other vehicles from sharing your lane.
+- question: 'The oily strip in the center of a lane is usually no more than about:'
+  choices:
+  - 2 feet wide
+  - 6 feet wide
+  - 10 feet wide
+  answer: 2 feet wide
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 17, Lane Positions
+  reason: The handbook gives an approximate two-foot width and says to avoid actual oil/grease buildup.
+- question: 'A good lane position should help you:'
+  choices:
+  - Stay beside another vehicle
+  - See and be seen, avoid blind spots, preserve space, and keep an escape route
+  - Hide in a driver's blind spot
+  answer: See and be seen, avoid blind spots, preserve space, and keep an escape route
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 17, Lane Positions
+  reason: The handbook lists these as lane-position objectives.
+- question: May motorcycles generally use California carpool/HOV lanes?
+  choices:
+  - 'No'
+  - Only with a passenger
+  - Yes, unless otherwise posted
+  answer: Yes, unless otherwise posted
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 17, Carpool/High-Occupancy Vehicle (HOV) Lanes
+  reason: Motorcycles are generally allowed in HOV lanes unless signs say otherwise.
+- question: May a motorcyclist cross double parallel lines to enter or leave an HOV lane?
+  choices:
+  - Only at designated entry or exit locations
+  - Whenever traffic is slow
+  - Any time the rider signals
+  answer: Only at designated entry or exit locations
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 17, Carpool/High-Occupancy Vehicle (HOV) Lanes
+  reason: Double parallel lines must not be crossed except where an entry/exit is designated.
+- question: How many transponder/electronic-payment locations does the handbook list for motorcyclists?
+  choices:
+  - Three
+  - Five
+  - Seven
+  answer: Five
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 18, Toll Highways and Vehicle Crossings
+  reason: The handbook lists five acceptable locations if the toll reader can detect the device.
+- question: Which is an approved transponder location listed for a motorcycle rider?
+  choices:
+  - Inside the helmet liner
+  - Attached to a boot sole
+  - In the rider's pocket
+  answer: In the rider's pocket
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 18, Toll Highways and Vehicle Crossings
+  reason: The rider's pocket is one of the five listed locations.
+- question: Which is an approved transponder location on the motorcycle?
+  choices:
+  - Inside a cycle net across the gas tank
+  - Wrapped around a brake hose
+  - Attached to the exhaust
+  answer: Inside a cycle net across the gas tank
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 18, Toll Highways and Vehicle Crossings
+  reason: A cycle net across the tank is specifically listed.
+- question: Which is another approved location?
+  choices:
+  - Under a tire
+  - A motorcycle storage compartment
+  - Inside the muffler
+  answer: A motorcycle storage compartment
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 18, Toll Highways and Vehicle Crossings
+  reason: A storage compartment is one of the five listed locations.
+- question: Which additional transponder location is approved by the handbook?
+  choices:
+  - The chain guard only
+  - The underside of the footrest
+  - The motorcycle windshield
+  answer: The motorcycle windshield
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 18, Toll Highways and Vehicle Crossings
+  reason: The windshield is listed if the toll reader can detect the device.
+- question: 'A license-plate transponder/device may be used when:'
+  choices:
+  - The toll operator provides that type of device
+  - The rider makes one at home
+  - Only at night
+  answer: The toll operator provides that type of device
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 18, Toll Highways and Vehicle Crossings
+  reason: The handbook lists a license-plate device when provided by the toll operator.
+- question: Under normal conditions, what following distance does the motorcycle handbook recommend?
+  choices:
+  - One second
+  - Two seconds
+  - Four seconds
+  answer: Two seconds
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 18, Following Another Vehicle
+  reason: The handbook's normal minimum following-distance guidance is two seconds.
+- question: 'If you reach a fixed marker before finishing ''one-thousand-two,'' you are:'
+  choices:
+  - More than two seconds behind
+  - At exactly three seconds
+  - Following too closely
+  answer: Following too closely
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 18, Following Another Vehicle
+  reason: That counting method measures the two-second interval.
+- question: 'A two-second following distance gives a rider:'
+  choices:
+  - A minimum amount of room to stop or swerve
+  - A guarantee of stopping before any hazard
+  - Enough room only at speeds below 20 mph
+  answer: A minimum amount of room to stop or swerve
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 18, Following Another Vehicle
+  reason: The handbook calls two seconds a minimum and identifies its stopping/swerving benefit.
+- question: 'When towing a trailer, following distance should:'
+  choices:
+  - Decrease
+  - Increase
+  - Stay exactly one second
+  answer: Increase
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 18, Following Another Vehicle
+  reason: Trailer weight increases stopping distance.
+- question: 'On slippery pavement, increase following distance to:'
+  choices:
+  - Exactly one second
+  - No more than two seconds
+  - Three seconds or more
+  answer: Three seconds or more
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 18, Following Another Vehicle
+  reason: The handbook calls for a three-second-or-more cushion in adverse conditions.
+- question: 'If you cannot see through the vehicle ahead, you should use:'
+  choices:
+  - Three seconds or more of following distance
+  - One second
+  - Exactly two seconds with no adjustment
+  answer: Three seconds or more of following distance
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 18, Following Another Vehicle
+  reason: Limited visibility is one of the situations requiring a larger cushion.
+- question: 'In heavy traffic, the handbook recommends:'
+  choices:
+  - Less than one second
+  - A three-second-or-more following distance
+  - Riding beside the vehicle ahead
+  answer: A three-second-or-more following distance
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 18, Following Another Vehicle
+  reason: Heavy traffic is a listed reason to open the following gap.
+- question: 'When stopped behind another vehicle, you should:'
+  choices:
+  - Stop with your front tire touching its bumper
+  - Move beside it in the same lane
+  - Stay well enough back to preserve an escape route
+  answer: Stay well enough back to preserve an escape route
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 19, Following Another Vehicle
+  reason: Space behind the vehicle gives room if traffic approaches too fast from behind or the vehicle ahead backs up.
+- question: Where should you ride behind a vehicle to improve the chance its driver sees you?
+  choices:
+  - Where you can be seen in the driver's rearview mirror
+  - Directly in the driver's blind spot
+  - Beside the rear wheel
+  answer: Where you can be seen in the driver's rearview mirror
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 19, Following Another Vehicle
+  reason: The handbook recommends positioning yourself in the driver's mirror view.
+- question: 'If another driver is tailgating you, the safer response is usually to:'
+  choices:
+  - Speed up indefinitely to escape
+  - Let the driver pass and open more space ahead
+  - Brake sharply to warn the driver
+  answer: Let the driver pass and open more space ahead
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 19, Being Followed
+  reason: The handbook advises avoiding a contest with a tailgater and creating room for them to pass.
+- question: Why is speeding up to lose a tailgater a poor strategy?
+  choices:
+  - It always makes your brakes fail
+  - It is required only on freeways
+  - It often causes the tailgater to speed up too
+  answer: It often causes the tailgater to speed up too
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 19, Being Followed
+  reason: Increasing speed can simply escalate the situation rather than restore a safe buffer.
+- question: 'When preparing to pass, you should normally move to:'
+  choices:
+  - The left portion of your lane
+  - The far right shoulder
+  - The center line of the opposing lane before checking traffic
+  answer: The left portion of your lane
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 19, Passing
+  reason: The left portion improves visibility and keeps you visible before initiating a legal pass.
+- question: 'Before returning to your original lane after passing, you should:'
+  choices:
+  - Look only at the speedometer
+  - Check mirrors and make a head check
+  - Cancel the signal before checking traffic
+  answer: Check mirrors and make a head check
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 19, Passing
+  reason: Mirror and head checks help ensure adequate clearance.
+- question: 'A motorcycle pass must be completed:'
+  choices:
+  - At any speed if the pass is brief
+  - On the shoulder if traffic is slow
+  - Within the posted speed limit and only where passing is permitted
+  answer: Within the posted speed limit and only where passing is permitted
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 19, Passing
+  reason: The handbook reiterates normal legal passing rules.
+- question: 'When being passed, the handbook generally recommends riding in:'
+  choices:
+  - The center portion of your lane
+  - The lane edge closest to the passing vehicle
+  - The farthest edge away from the passing vehicle
+  answer: The center portion of your lane
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 19, Being Passed
+  reason: The center provides maneuvering room from sideswipes, wind blast, and extended mirrors.
+- question: Why should you not move to the far side of your lane when another vehicle passes?
+  choices:
+  - It is always illegal to use that lane position
+  - It may invite the driver to return to your lane too early
+  - It makes the motorcycle accelerate
+  answer: It may invite the driver to return to your lane too early
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 19, Being Passed
+  reason: Holding the center better preserves your lane and room for error.
+- question: What does 'lane splitting' mean?
+  choices:
+  - Riding two motorcycles side by side in one lane only
+  - Using an HOV lane with a passenger
+  - Riding between lanes of stopped or slower-moving traffic or moving between lanes to the front of stopped traffic
+  answer: Riding between lanes of stopped or slower-moving traffic or moving between lanes to the front of stopped traffic
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 20, Lane Splitting
+  reason: The handbook defines lane splitting, also called lane sharing/filtering/white-lining, this way.
+- question: Which is a lane-splitting hazard listed in the handbook?
+  choices:
+  - A vehicle may suddenly change lanes or a door may open
+  - The motorcycle's headlight automatically turns off
+  - Traffic signals no longer apply
+  answer: A vehicle may suddenly change lanes or a door may open
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 20, Lane Splitting
+  reason: Sudden vehicle movement, opening doors, and protruding hands are examples of lane-splitting hazards.
+- question: 'If an entrance-ramp vehicle may merge into your path and another lane is open, you should:'
+  choices:
+  - Speed up and ride beside the merging vehicle
+  - Move to the open lane
+  - Stop in your lane
+  answer: Move to the open lane
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 20, Merging Vehicles
+  reason: Changing to an open lane creates space for the merging vehicle.
+- question: 'If you cannot change lanes for merging traffic, you should:'
+  choices:
+  - Move onto the shoulder
+  - Ride in the merging driver's blind spot
+  - Adjust speed to create space and stay near the center of your lane
+  answer: Adjust speed to create space and stay near the center of your lane
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 20, Merging Vehicles
+  reason: The handbook recommends speed adjustment and a visible central lane position.
+- question: Why should you avoid riding alongside another vehicle when possible?
+  choices:
+  - You may be in its blind spot and lose your escape route
+  - It reduces fuel economy
+  - It is always illegal to be beside another vehicle
+  answer: You may be in its blind spot and lose your escape route
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 20, Vehicles Alongside
+  reason: Adjacent vehicles can both fail to see you and block your escape.
+- question: 'If trapped beside vehicles, you should usually:'
+  choices:
+  - Stay beside them until they turn
+  - Speed up or drop back to find clear space
+  - Move closer to the nearest vehicle
+  answer: Speed up or drop back to find clear space
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 20, Vehicles Alongside
+  reason: Creating clear space on both sides improves visibility and escape options.
+- question: What does SEE stand for?
+  choices:
+  - Scan, Enter, Exit
+  - Stop, Examine, Escape
+  - Search, Evaluate, Execute
+  answer: Search, Evaluate, Execute
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 21, Search, Evaluate, and Execute (SEE)
+  reason: SEE is the handbook's three-step riding strategy.
+- question: Where should you actively search for hazards?
+  choices:
+  - Ahead, to the sides, and behind
+  - Only directly ahead
+  - Only in mirrors
+  answer: Ahead, to the sides, and behind
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 21, Search
+  reason: The Search step covers the rider's full surroundings.
+- question: Where should you focus especially on possible escape routes?
+  choices:
+  - Only empty parking lots
+  - Intersections, shopping areas, schools, and construction zones
+  - Only rural freeways
+  answer: Intersections, shopping areas, schools, and construction zones
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 21, Search
+  reason: These high-conflict areas are specifically listed.
+- question: Which is a hazard to search for?
+  choices:
+  - Only traffic traveling in your direction
+  - Only stationary objects
+  - Oncoming traffic that may turn left across your path
+  answer: Oncoming traffic that may turn left across your path
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 21, Search
+  reason: Left-turning oncoming traffic is a major motorcycle conflict.
+- question: 'To evaluate a moving hazard, consider its:'
+  choices:
+  - Speed, distance, and direction
+  - Color, make, and model
+  - License plate state only
+  answer: Speed, distance, and direction
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 21, Evaluate
+  reason: These factors help predict how the hazard may affect you.
+- question: 'Road features such as potholes, guardrails, bridges, poles, and trees:'
+  choices:
+  - Should be ignored because they are stationary
+  - Do not move into your path but can affect your strategy and escape routes
+  - Always require an immediate stop
+  answer: Do not move into your path but can affect your strategy and escape routes
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 21, Evaluate
+  reason: Fixed hazards still influence lane choice and escape planning.
+- question: 'Traffic control devices help you:'
+  choices:
+  - Ignore other traffic
+  - Determine engine temperature
+  - Evaluate conditions and likely conflicts ahead
+  answer: Evaluate conditions and likely conflicts ahead
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 21, Evaluate
+  reason: Signals, signs, warnings, and pavement markings provide information for evaluation.
+- question: Which is part of the Execute step?
+  choices:
+  - Communicate with lights or horn, adjust speed, and adjust lane position/direction
+  - Close your eyes and hold a straight line
+  - Use only the horn
+  answer: Communicate with lights or horn, adjust speed, and adjust lane position/direction
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 22, Execute
+  reason: Execute means carrying out a decision using communication, speed, and position.
+- question: 'When dealing with two or more hazards, you should:'
+  choices:
+  - Accelerate through all hazards together
+  - Adjust speed and handle the hazards one at a time when possible
+  - Focus only on the closest one and ignore the rest
+  answer: Adjust speed and handle the hazards one at a time when possible
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 22, Execute
+  reason: The handbook recommends breaking multiple hazards into individual problems.
+- question: 'With three or more hazards, you should:'
+  choices:
+  - Always choose the leftmost hazard
+  - Stop in the traffic lane regardless of conditions
+  - Weigh the consequences and give equal distance to the hazards
+  answer: Weigh the consequences and give equal distance to the hazards
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 22, Execute
+  reason: Multiple simultaneous hazards require more deliberate spacing and consequence assessment.
+- question: 'In high-risk areas, reduce speed and:'
+  choices:
+  - Cover the clutch and both brakes
+  - Shift to neutral
+  - Turn off the headlight
+  answer: Cover the clutch and both brakes
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 22, Execute
+  reason: Covering the controls reduces reaction time.
+- question: Where is the greatest potential for conflict with other traffic?
+  choices:
+  - On an empty straight road
+  - At intersections
+  - In a parked garage
+  answer: At intersections
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 22, Intersections
+  reason: Intersections are where many paths can cross.
+- question: 'More than half of motorcycle/passenger-vehicle collisions described in the handbook involve:'
+  choices:
+  - Mechanical engine failure
+  - Animals entering the road
+  - Drivers entering the rider's right-of-way
+  answer: Drivers entering the rider's right-of-way
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 22, Intersections
+  reason: The handbook identifies driver entry into the rider's right-of-way as a major collision pattern.
+- question: Which intersection conflict is especially dangerous for motorcyclists?
+  choices:
+  - A vehicle turning left in front of the motorcycle
+  - A vehicle parked legally at the curb
+  - A vehicle traveling several lanes away in the same direction
+  answer: A vehicle turning left in front of the motorcycle
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 22, Intersections
+  reason: Left-turning vehicles and side-street vehicles entering the rider's lane are identified as major dangers.
+- question: Should you rely on eye contact as proof that a driver will yield?
+  choices:
+  - Yes, always
+  - 'No'
+  - Yes, but only at traffic lights
+  answer: 'No'
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 22, Intersections
+  reason: A driver can look toward a rider without actually perceiving the motorcycle.
+- question: 'If another vehicle can enter your path, the handbook says you should:'
+  choices:
+  - Assume it will yield
+  - Ignore it until it starts moving
+  - Assume it may enter your path
+  answer: Assume it may enter your path
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 22, Intersections
+  reason: Planning for the conflict provides time and space to respond.
+- question: 'Approaching an intersection, you should select a lane position that:'
+  choices:
+  - Improves your visibility to other drivers
+  - Puts you in a blind spot
+  - Keeps you beside a turning vehicle
+  answer: Improves your visibility to other drivers
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 23, Intersections
+  reason: Visibility is a primary lane-position objective at intersections.
+- question: What controls should you cover while approaching an intersection?
+  choices:
+  - The horn only
+  - The clutch and both brakes
+  - The throttle only
+  answer: The clutch and both brakes
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 23, Intersections
+  reason: Covering the clutch and brakes reduces reaction time.
+- question: 'Once you enter an intersection, avoid:'
+  choices:
+  - Looking for turning vehicles
+  - Maintaining an escape route
+  - Radical changes in speed or lane position
+  answer: Radical changes in speed or lane position
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 23, Intersections
+  reason: Sudden changes may confuse drivers about your intentions.
+- question: At a blind intersection with a stop line, what is the correct sequence?
+  choices:
+  - Stop at the line, then edge forward and stop again before the cross-traffic lane
+  - Roll through until you can see
+  - Stop only after your front wheel enters cross traffic
+  answer: Stop at the line, then edge forward and stop again before the cross-traffic lane
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 23, Blind Intersections
+  reason: The handbook recommends a second stop at the visibility point while remaining out of cross traffic.
+- question: 'While peeking into a blind intersection, your front wheel should:'
+  choices:
+  - Extend into the first cross-traffic lane
+  - Stay out of the cross-traffic lane
+  - Rest on the center line
+  answer: Stay out of the cross-traffic lane
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 23, Blind Intersections
+  reason: Keeping the wheel out of the travel lane reduces exposure.
+- question: 'When passing parked vehicles with no conflicting oncoming traffic, you should generally ride toward:'
+  choices:
+  - The far right edge next to the parked cars
+  - The shoulder
+  - The left portion of your lane
+  answer: The left portion of your lane
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 23, Passing Parked Vehicles
+  reason: The left portion gives space from opening doors and people stepping out.
+- question: 'If oncoming traffic is present while you pass parked cars, it is usually best to:'
+  choices:
+  - Use the center portion of your lane to maximize space
+  - Ride against the parked cars
+  - Cross the center line
+  answer: Use the center portion of your lane to maximize space
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 23, Passing Parked Vehicles
+  reason: The center balances space from parked vehicles and oncoming traffic.
+- question: 'A particularly dangerous parked-car situation is:'
+  choices:
+  - A parked car with its engine off
+  - A driver pulling out or making a sudden U-turn
+  - A car with no occupants
+  answer: A driver pulling out or making a sudden U-turn
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 23, Passing Parked Vehicles
+  reason: Drivers may pull away or U-turn without seeing a motorcycle.
+- question: 'When parking a motorcycle at the curb, position it approximately:'
+  choices:
+  - Parallel with both wheels one foot from the curb
+  - Perpendicular only, exactly 90 degrees
+  - 45 to 90 degrees to the curb
+  answer: 45 to 90 degrees to the curb
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 24, Parking at the Roadside
+  reason: The handbook gives a 45- to 90-degree curb angle.
+- question: When curb parking a motorcycle, which part should touch the curb?
+  choices:
+  - The rear wheel or fender
+  - The front tire only
+  - The handlebar
+  answer: The rear wheel or fender
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 24, Parking at the Roadside
+  reason: The parking illustration/instruction places the rear wheel or fender at the curb.
+- question: Which clothing colors are highlighted as useful for conspicuity?
+  choices:
+  - Black and dark gray only
+  - Bright orange, red, yellow, or green
+  - Brown and navy only
+  answer: Bright orange, red, yellow, or green
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 25, Increasing Visibility - Clothing
+  reason: Bright contrasting colors make riders easier to notice.
+- question: 'Reflective material is especially useful:'
+  choices:
+  - Only at noon
+  - Only when parked
+  - At night
+  answer: At night
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 25, Increasing Visibility - Clothing
+  reason: Reflective material increases nighttime conspicuity.
+- question: 'About half of a rider''s visible surface area is:'
+  choices:
+  - The rider's body
+  - The front tire
+  - The license plate
+  answer: The rider's body
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 25, Increasing Visibility - Clothing
+  reason: The handbook emphasizes clothing because the rider's body accounts for much of what others can see.
+- question: A motorcycle with its light on is approximately how much more likely to be noticed?
+  choices:
+  - Three times as likely
+  - Twice as likely
+  - Ten percent more likely
+  answer: Twice as likely
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 25, Headlight
+  reason: The handbook gives a two-times visibility figure.
+- question: When should you use the high beam?
+  choices:
+  - At all times regardless of other traffic
+  - Never during daylight
+  - When it is legal and safe to do so
+  answer: When it is legal and safe to do so
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 25, Headlight
+  reason: High beam can improve conspicuity but must be used legally and safely.
+- question: 'In fog, use:'
+  choices:
+  - Low beam
+  - High beam
+  - Parking lights only
+  answer: Low beam
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 25, Headlight
+  reason: High beams reflect off fog; the handbook recommends low beam.
+- question: How far before a turn should you signal?
+  choices:
+  - At least 25 feet
+  - During the last 100 feet before the turn
+  - Exactly 500 feet
+  answer: During the last 100 feet before the turn
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 25, Turn Signals
+  reason: The handbook specifies the last 100 feet.
+- question: At highway speeds, how long before changing lanes should you signal?
+  choices:
+  - One second
+  - Ten seconds exactly
+  - At least five seconds
+  answer: At least five seconds
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 25, Turn Signals
+  reason: The handbook recommends at least five seconds at highway speeds.
+- question: Should you signal even if you think no one is around?
+  choices:
+  - 'Yes'
+  - 'No'
+  - Only at night
+  answer: 'Yes'
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 25, Turn Signals
+  reason: Signals both communicate intent and make the motorcycle easier to see.
+- question: 'If bright sunlight makes turn signals hard to see, you should:'
+  choices:
+  - Stop signaling
+  - Use hand signals as well
+  - Flash the high beam instead of signaling
+  answer: Use hand signals as well
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 25, Turn Signals
+  reason: The handbook recommends hand signals when sunlight reduces signal-lamp visibility.
+- question: 'After completing a turn, you should:'
+  choices:
+  - Leave it on until the next turn
+  - Switch on the hazard lights
+  - Cancel the turn signal
+  answer: Cancel the turn signal
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 26, Turn Signals
+  reason: An uncanceled signal can mislead another driver into your path.
+- question: 'When practical, flashing the brake light before slowing helps:'
+  choices:
+  - Warn following drivers
+  - Increase engine braking
+  - Improve front-tire traction
+  answer: Warn following drivers
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 26, Brake Light
+  reason: The motorcycle brake light may be less noticeable than a car's.
+- question: When is flashing the brake light particularly important?
+  choices:
+  - Only while parked
+  - Before an unexpected slowdown or a fast turn off a high-speed road
+  - Only after you stop
+  answer: Before an unexpected slowdown or a fast turn off a high-speed road
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 26, Brake Light
+  reason: The handbook gives those situations as examples where drivers may not expect braking.
+- question: 'If you are being tailgated, before slowing you should consider:'
+  choices:
+  - Turning off the taillight
+  - Using the kill switch
+  - Flashing your brake light
+  answer: Flashing your brake light
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 26, Brake Light
+  reason: A brake-light flash can make the following driver notice your deceleration sooner.
+- question: 'Mirror checks should be:'
+  choices:
+  - A frequent part of your normal search routine
+  - Done only before parking
+  - Avoided at intersections
+  answer: A frequent part of your normal search routine
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 26, Using Your Mirrors
+  reason: Traffic changes quickly behind a motorcycle.
+- question: 'When stopped at an intersection, use your mirrors to:'
+  choices:
+  - Watch only cross traffic
+  - Watch vehicles approaching from behind
+  - Check tire pressure
+  answer: Watch vehicles approaching from behind
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 26, Using Your Mirrors
+  reason: A distracted driver approaching from behind can pose a rear-end threat.
+- question: 'Before changing lanes, you should:'
+  choices:
+  - Use mirrors only
+  - Use a head check only
+  - Check mirrors and make a head check
+  answer: Check mirrors and make a head check
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 26, Using Your Mirrors
+  reason: Mirrors do not cover all blind spots.
+- question: 'Before slowing, you should:'
+  choices:
+  - Check mirrors for following traffic
+  - Turn off your turn signal
+  - Move to the shoulder immediately
+  answer: Check mirrors for following traffic
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 26, Using Your Mirrors
+  reason: Drivers behind may not expect your slowdown.
+- question: 'Convex motorcycle mirrors make vehicles appear:'
+  choices:
+  - Closer than they really are
+  - Farther away than they really are
+  - The same distance as flat mirrors
+  answer: Farther away than they really are
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 27, Using Your Mirrors
+  reason: Convex mirrors widen the view but distort apparent distance.
+- question: 'Before relying on convex mirrors for lane changes, you should:'
+  choices:
+  - Assume apparent distance is exact
+  - Ignore the mirrors
+  - Practice judging distance and allow extra space
+  answer: Practice judging distance and allow extra space
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 27, Using Your Mirrors
+  reason: The handbook recommends practice because convex mirrors make vehicles seem farther away.
+- question: Why is a head check needed before a lane change?
+  choices:
+  - Motorcycles have blind spots that mirrors do not show
+  - It activates the turn signal
+  - It increases braking power
+  answer: Motorcycles have blind spots that mirrors do not show
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 27, Head Checks
+  reason: A shoulder/head check covers the blind area beside the motorcycle.
+- question: 'On a multilane road, a head check should include:'
+  choices:
+  - Only the adjacent lane
+  - The adjacent lane and the farther lane
+  - Only the shoulder
+  answer: The adjacent lane and the farther lane
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 27, Head Checks
+  reason: A vehicle from the far lane may move toward the same space.
+- question: In an emergency, how should you use the horn?
+  choices:
+  - Tap it once and assume the hazard will move
+  - Hold it only after stopping
+  - Press it loud and long while preparing to stop or swerve
+  answer: Press it loud and long while preparing to stop or swerve
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 27, Horn
+  reason: The horn can attract attention, but the rider must still be ready for evasive action.
+- question: Why should you not rely on the horn alone?
+  choices:
+  - A motorcycle horn is not as loud as many other vehicles' horns
+  - It disables the brakes
+  - It is illegal to use in emergencies
+  answer: A motorcycle horn is not as loud as many other vehicles' horns
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 27, Horn
+  reason: The handbook explicitly says to use the horn but not rely on it.
+- question: 'At night, compared with daytime, you should generally:'
+  choices:
+  - Ride faster to spend less time on the road
+  - Reduce speed
+  - Maintain exactly the same speed regardless of visibility
+  answer: Reduce speed
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 27, Riding at Night
+  reason: Reduced speed provides more time to identify and avoid hazards.
+- question: 'At night, following distance should usually be:'
+  choices:
+  - One second
+  - Exactly two seconds
+  - Three seconds or more
+  answer: Three seconds or more
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 27, Riding at Night
+  reason: Distance is harder to judge at night, so the handbook calls for three seconds or more.
+- question: How can the vehicle ahead help you at night?
+  choices:
+  - Its headlights can reveal road conditions and bouncing taillights can indicate bumps
+  - Its horn measures your distance
+  - Its brake lights replace your need to scan
+  answer: Its headlights can reveal road conditions and bouncing taillights can indicate bumps
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 28, Riding at Night
+  reason: The handbook recommends using the light cast and motion of the vehicle ahead as information.
+- question: When should you use high beam at night?
+  choices:
+  - Whenever another vehicle is directly ahead
+  - When you are not following or approaching another vehicle
+  - Only in city traffic
+  answer: When you are not following or approaching another vehicle
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 28, Riding at Night
+  reason: The handbook recommends high beam when it will not improperly affect other road users.
+- question: 'At night, lane position should be:'
+  choices:
+  - Fixed in the left third
+  - Fixed in the center regardless of hazards
+  - Flexible to maximize sight, visibility, and space
+  answer: Flexible to maximize sight, visibility, and space
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 28, Riding at Night
+  reason: Changing conditions can require a different position.
+- question: 'Two critical collision-avoidance skills are:'
+  choices:
+  - Knowing when and how to stop or swerve
+  - Honk and accelerate
+  - Lean and close your eyes
+  answer: Knowing when and how to stop or swerve
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 28, Collision Avoidance
+  reason: The handbook emphasizes quick stopping and swerving.
+- question: 'A common braking error in motorcycle collisions is:'
+  choices:
+  - Overusing the horn
+  - Underusing the front brake and overusing the rear
+  - Using both brakes together
+  answer: Underusing the front brake and overusing the rear
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 28, Collision Avoidance
+  reason: The handbook identifies underbraking the front and overbraking the rear.
+- question: 'Braking and swerving should generally be:'
+  choices:
+  - Performed simultaneously
+  - Avoided entirely
+  - Separated into distinct actions
+  answer: Separated into distinct actions
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 28, Collision Avoidance
+  reason: Combining hard braking with a swerve can overwhelm available traction.
+- question: 'For a maximum quick stop, use:'
+  choices:
+  - Both brakes at the same time
+  - Rear brake only
+  - Front brake only
+  answer: Both brakes at the same time
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 28, Quick Stops
+  reason: Both brakes provide the shortest controlled stop.
+- question: 'If the front wheel locks during a quick stop, you should:'
+  choices:
+  - Keep it locked until stopped
+  - Release the front brake immediately, then reapply it firmly
+  - Add more front-brake pressure
+  answer: Release the front brake immediately, then reapply it firmly
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 28, Quick Stops
+  reason: A locked front wheel removes steering control and should be released/reapplied.
+- question: 'If the rear wheel locks on a good-traction surface while the motorcycle is upright and straight, you may:'
+  choices:
+  - Release it only after accelerating
+  - Turn sharply while keeping it locked
+  - Keep it locked until fully stopped
+  answer: Keep it locked until fully stopped
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 28, Quick Stops
+  reason: The handbook says a straight, upright motorcycle can remain controllable with the rear locked.
+- question: The front brake may provide about what share of stopping power in a quick stop?
+  choices:
+  - Three-quarters
+  - One-quarter
+  - One-third
+  answer: Three-quarters
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 29, Quick Stops
+  reason: The front brake contributes most of the motorcycle's braking capability.
+- question: 'If you must stop quickly while in a curve and conditions allow, the best technique is to:'
+  choices:
+  - Increase lean and grab the front brake
+  - Straighten the motorcycle first, then brake hard
+  - Use only the rear brake while leaned
+  answer: Straighten the motorcycle first, then brake hard
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 29, Quick Stops
+  reason: Straightening increases available tire traction for braking.
+- question: 'If you cannot straighten before braking in a curve, you should:'
+  choices:
+  - Lock the rear brake immediately
+  - Release both brakes and accelerate
+  - Apply brakes gradually while reducing lean as you slow
+  answer: Apply brakes gradually while reducing lean as you slow
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 29, Quick Stops
+  reason: As speed falls, reduce lean and progressively increase braking.
+- question: 'To swerve left, first:'
+  choices:
+  - Press the left handlegrip
+  - Press the right handlegrip
+  - Pull both grips toward you
+  answer: Press the left handlegrip
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 29, Swerving or Turning Quickly
+  reason: Pressing the grip in the intended direction initiates the lean.
+- question: 'During a swerve, your body should generally:'
+  choices:
+  - Lean farther than the motorcycle
+  - Remain upright while the motorcycle leans
+  - Move off the seat to the outside
+  answer: Remain upright while the motorcycle leans
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 29, Swerving or Turning Quickly
+  reason: The handbook recommends keeping the body upright and letting the bike move beneath you.
+- question: 'During a swerve, your knees should:'
+  choices:
+  - Point outward
+  - Leave the motorcycle entirely
+  - Stay against the tank
+  answer: Stay against the tank
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 29, Swerving or Turning Quickly
+  reason: Firm knee contact supports control.
+- question: 'If braking is needed with a swerve, brake:'
+  choices:
+  - Before or after the swerve, not during it
+  - Hard during the middle of the swerve
+  - Only with the front brake while leaned
+  answer: Before or after the swerve, not during it
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 29, Swerving or Turning Quickly
+  reason: The handbook says separate braking from swerving, especially front-brake use.
+- question: 'To recover from a left swerve after clearing the obstacle, you should:'
+  choices:
+  - Keep pressing the left grip
+  - Press the right handlegrip
+  - Apply the rear brake only
+  answer: Press the right handlegrip
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 29, Swerving or Turning Quickly
+  reason: Counter-pressure in the opposite direction returns the motorcycle to the original path.
+- question: 'A primary cause of single-vehicle motorcycle collisions is:'
+  choices:
+  - Using both brakes for normal stops
+  - Keeping a following distance
+  - Running wide in a curve or turn
+  answer: Running wide in a curve or turn
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 30, Cornering
+  reason: The handbook identifies running wide as a primary single-vehicle collision cause.
+- question: 'Before entering a curve, you should:'
+  choices:
+  - Slow to a safe speed
+  - Accelerate to the posted maximum regardless of conditions
+  - Shift into neutral
+  answer: Slow to a safe speed
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 30, Cornering
+  reason: Entry speed should account for the curve, surface, and your skill.
+- question: 'A curve may:'
+  choices:
+  - Always have a constant radius
+  - Stay constant, widen, tighten, or contain multiple turns
+  - Always tighten
+  answer: Stay constant, widen, tighten, or contain multiple turns
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 30, Cornering
+  reason: The handbook describes several curve shapes that require different path choices.
+- question: Why can shaded curves be especially hazardous?
+  choices:
+  - They always have gravel
+  - Motorcycle headlights do not work in shade
+  - Ice may melt more slowly and moisture may evaporate more slowly
+  answer: Ice may melt more slowly and moisture may evaporate more slowly
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 30, Cornering
+  reason: Shade can preserve slippery conditions.
+- question: Which is a dangerous surface condition for motorcycles?
+  choices:
+  - Uneven or slippery surfaces, tracks, pavement seams, grooves, or gratings
+  - Only dry concrete
+  - Only newly paved asphalt
+  answer: Uneven or slippery surfaces, tracks, pavement seams, grooves, or gratings
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 31, Handling Dangerous Surfaces
+  reason: The handbook devotes separate techniques to these reduced-traction or directional hazards.
+- question: 'If you must cross an obstacle, approach it as close as possible to:'
+  choices:
+  - A 15-degree angle
+  - A 90-degree angle
+  - Parallel
+  answer: A 90-degree angle
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 31, Uneven Surfaces and Obstacles
+  reason: A near-right-angle crossing reduces the chance the tire will be deflected.
+- question: 'Before contacting an obstacle, you should:'
+  choices:
+  - Accelerate hard while leaned
+  - Lock the rear brake
+  - Slow as much as possible and straighten the motorcycle
+  answer: Slow as much as possible and straighten the motorcycle
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 31, Uneven Surfaces and Obstacles
+  reason: The handbook recommends setting speed early and meeting the obstacle straight.
+- question: 'When riding over an unavoidable obstacle, you should:'
+  choices:
+  - Rise slightly off the seat with weight on the footrests
+  - Take both feet off the footrests
+  - Sit rigidly with locked elbows
+  answer: Rise slightly off the seat with weight on the footrests
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 31, Uneven Surfaces and Obstacles
+  reason: Using knees and elbows as suspension helps absorb the impact.
+- question: 'Just before contacting an obstacle, you may:'
+  choices:
+  - Grab the front brake
+  - Roll on the throttle slightly to lighten the front end
+  - Close the throttle abruptly and steer sharply
+  answer: Roll on the throttle slightly to lighten the front end
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 31, Uneven Surfaces and Obstacles
+  reason: A small power increase can reduce front-end loading.
+- question: 'After riding over a substantial object, you should:'
+  choices:
+  - Continue at highway speed without checking
+  - Deflate both tires
+  - Pull off safely and inspect tires, rims, and the drive chain/belt
+  answer: Pull off safely and inspect tires, rims, and the drive chain/belt
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 31, Uneven Surfaces and Obstacles
+  reason: Damage or debris caught in the drive system may not be immediately obvious.
+- question: 'Wet pavement is often most slippery:'
+  choices:
+  - Just after rain begins, before surface oil washes away
+  - After many hours of heavy rain only
+  - Only when temperatures are below freezing
+  answer: Just after rain begins, before surface oil washes away
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 32, Slippery Surfaces
+  reason: Oil and residue initially mix with rainwater and reduce traction.
+- question: Which surface can become especially slippery when wet?
+  choices:
+  - Dry textured asphalt only
+  - Painted markings, steel plates, brick crosswalks, and manhole covers
+  - Concrete curbs only
+  answer: Painted markings, steel plates, brick crosswalks, and manhole covers
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 32, Slippery Surfaces
+  reason: Smooth hard surfaces lose substantial traction when wet.
+- question: 'Before reaching a slippery surface, you should:'
+  choices:
+  - Accelerate
+  - Shift to neutral and coast
+  - Reduce speed
+  answer: Reduce speed
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 32, Slippery Surfaces
+  reason: Most speed reduction should happen before traction decreases.
+- question: 'On a slippery surface, control inputs should be:'
+  choices:
+  - Smooth and gradual
+  - Abrupt
+  - Alternating rapidly
+  answer: Smooth and gradual
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 32, Slippery Surfaces
+  reason: Sudden braking, acceleration, or steering can break traction.
+- question: 'On a wet road, the best traction is often:'
+  choices:
+  - Always on the painted center line
+  - In the tire tracks left by vehicles ahead
+  - Always at the extreme shoulder
+  answer: In the tire tracks left by vehicles ahead
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 32, Slippery Surfaces
+  reason: Vehicle tires can disperse water and expose a grippier track.
+- question: 'You should avoid riding over:'
+  choices:
+  - Dry tire tracks
+  - Clean textured pavement
+  - Oil and grease buildups
+  answer: Oil and grease buildups
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 32, Slippery Surfaces
+  reason: Oil and grease significantly reduce motorcycle traction.
+- question: Where is ice especially likely to remain?
+  choices:
+  - Shaded or low areas and on bridges or overpasses
+  - Only in direct sunlight
+  - Only on dirt shoulders
+  answer: Shaded or low areas and on bridges or overpasses
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 32, Slippery Surfaces
+  reason: These locations cool quickly or receive less sun.
+- question: 'If you must travel over an extremely slippery surface such as ice, you should:'
+  choices:
+  - Lean aggressively
+  - Keep the motorcycle upright and go very slowly
+  - Accelerate hard
+  answer: Keep the motorcycle upright and go very slowly
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 32, Slippery Surfaces
+  reason: Maximum upright tire contact and minimal forces preserve traction.
+- question: 'On very slippery ice at walking speed, the handbook recommends:'
+  choices:
+  - Placing both feet on the seat
+  - Standing on one footrest
+  - Letting your feet skim the surface for support
+  answer: Letting your feet skim the surface for support
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 32, Slippery Surfaces
+  reason: At extremely low speed, skimming the feet can help stabilize the motorcycle.
+- question: 'On extremely slippery ice, braking should be:'
+  choices:
+  - Avoided if possible; use clutch/coast control
+  - Hard and abrupt
+  - Front brake only
+  answer: Avoided if possible; use clutch/coast control
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 32, Slippery Surfaces
+  reason: Braking can easily cause a skid when traction is minimal.
+- question: 'For tracks crossing your path at a reasonable angle, you should generally:'
+  choices:
+  - Make a large swerve to reach exactly 90 degrees
+  - Continue straight across within your lane
+  - Stop on the tracks
+  answer: Continue straight across within your lane
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 33, Railroad or Trolley Tracks and Pavement Seams
+  reason: A normal straight crossing is usually safer than a sudden lane change.
+- question: 'For tracks or seams running parallel to your course, cross at an angle of at least:'
+  choices:
+  - 15 degrees
+  - 30 degrees
+  - 45 degrees
+  answer: 45 degrees
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 33, Railroad or Trolley Tracks and Pavement Seams
+  reason: A 45-degree-or-greater angle reduces the chance a tire will catch in the groove.
+- question: 'Before crossing parallel tracks, you should first:'
+  choices:
+  - Move far enough away to turn and cross at a safe angle
+  - Ride directly on the rail
+  - Brake hard while the tire is on the rail
+  answer: Move far enough away to turn and cross at a safe angle
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 33, Railroad or Trolley Tracks and Pavement Seams
+  reason: Creating lateral room allows a quick, decisive crossing.
+- question: 'When riding over rain grooves or bridge gratings, you should:'
+  choices:
+  - Fight every small weave with sharp steering
+  - Relax, maintain a steady speed, and ride straight
+  - Accelerate and zigzag
+  answer: Relax, maintain a steady speed, and ride straight
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 33, Grooves and Gratings
+  reason: A slight wandering sensation is normal; overcorrecting increases risk.
+- question: 'Trying to zigzag across grooves or gratings is:'
+  choices:
+  - Required for traction
+  - Safer than riding straight
+  - More hazardous than allowing a slight wandering feeling
+  answer: More hazardous than allowing a slight wandering feeling
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 33, Grooves and Gratings
+  reason: The handbook warns that deliberate weaving creates greater risk.
+- question: 'A front-tire flat often makes the steering feel:'
+  choices:
+  - Heavy
+  - Extremely light
+  - Unchanged in all cases
+  answer: Heavy
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 34, Tire Failure
+  reason: Front-tire loss strongly affects steering.
+- question: 'A rear-tire flat often causes the motorcycle to:'
+  choices:
+  - Steer normally with no symptom
+  - Jerk or sway from side to side
+  - Accelerate unexpectedly
+  answer: Jerk or sway from side to side
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 34, Tire Failure
+  reason: Rear-tire failure is often felt as rear-end movement.
+- question: 'If a tire suddenly loses air, you should first:'
+  choices:
+  - Brake hard immediately with the failed tire's brake
+  - Turn sharply to the shoulder
+  - Hold the handlebars firmly, ease off the throttle, and keep a straight course
+  answer: Hold the handlebars firmly, ease off the throttle, and keep a straight course
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 34, Tire Failure
+  reason: Smooth control helps maintain balance while speed falls.
+- question: 'If braking is necessary with a flat tire, use:'
+  choices:
+  - The brake on the wheel with the good tire when possible
+  - Only the brake on the failed tire
+  - No brake under any circumstances
+  answer: The brake on the wheel with the good tire when possible
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 34, Tire Failure
+  reason: Using the unaffected tire's brake reduces the chance of destabilizing the failed wheel.
+- question: 'After stabilizing a motorcycle with a flat, you should:'
+  choices:
+  - Continue riding until the next scheduled stop
+  - Slow and move off the road safely
+  - Accelerate to reduce wobble
+  answer: Slow and move off the road safely
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 34, Tire Failure
+  reason: A failed tire requires stopping and inspection as soon as practical.
+- question: 'If the throttle sticks, first try to:'
+  choices:
+  - Apply more throttle
+  - Turn the handlebars sharply
+  - Twist it back and forth several times
+  answer: Twist it back and forth several times
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 34, Stuck Throttle
+  reason: The handbook says the throttle may free by repeated twisting.
+- question: 'If a stuck throttle will not free, you should immediately:'
+  choices:
+  - Operate the engine cut-off switch and pull in the clutch
+  - Shift to a higher gear and accelerate
+  - Lock the rear brake without using the clutch
+  answer: Operate the engine cut-off switch and pull in the clutch
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 34, Stuck Throttle
+  reason: Cutting engine power while disengaging the clutch stops drive to the rear wheel.
+- question: 'After controlling a stuck-throttle emergency, you should:'
+  choices:
+  - Continue to your destination
+  - Leave the roadway and stop safely
+  - Restart the engine while still moving
+  answer: Leave the roadway and stop safely
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 34, Stuck Throttle
+  reason: The cause should be corrected before continuing.
+- question: 'A wobble can be caused by:'
+  choices:
+  - Using a DOT helmet
+  - A properly adjusted chain
+  - Improper loading, unsuitable accessories, or incorrect tire pressure
+  answer: Improper loading, unsuitable accessories, or incorrect tire pressure
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 34, Wobble
+  reason: The handbook lists loading, accessories, and mechanical setup as possible causes.
+- question: If a motorcycle begins to wobble, should you accelerate out of it?
+  choices:
+  - 'No'
+  - 'Yes'
+  - Only above 55 mph
+  answer: 'No'
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 34, Wobble
+  reason: Acceleration can make the wobble worse.
+- question: 'During a wobble, you should grip the handlebars:'
+  choices:
+  - As loosely as possible with one hand
+  - Firmly without fighting the steering
+  - With locked elbows while steering sharply
+  answer: Firmly without fighting the steering
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 34, Wobble
+  reason: A firm, non-combative grip helps maintain directional control.
+- question: 'During a wobble, you should:'
+  choices:
+  - Close the throttle abruptly
+  - Add full throttle
+  - Gradually roll off the throttle
+  answer: Gradually roll off the throttle
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 34, Wobble
+  reason: Gradual deceleration is recommended.
+- question: 'During a wobble, you should generally avoid:'
+  choices:
+  - Applying the brakes
+  - Keeping your weight forward
+  - Holding the handlebars firmly
+  answer: Applying the brakes
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 34, Wobble
+  reason: Braking can worsen instability.
+- question: Where should your weight be during a wobble?
+  choices:
+  - Far back and high
+  - Forward and down
+  - Off the motorcycle
+  answer: Forward and down
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 34, Wobble
+  reason: The handbook recommends moving weight forward and down.
+- question: 'After a wobble is controlled, you should:'
+  choices:
+  - Immediately accelerate back to speed
+  - Assume the issue is fixed permanently
+  - Pull off the road and check the cause
+  answer: Pull off the road and check the cause
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 34, Wobble
+  reason: Loading, tires, steering, suspension, or accessories may need correction.
+- question: 'If the drive chain or belt slips under acceleration or uphill, you should:'
+  choices:
+  - Pull off and inspect the chain/belt and sprockets
+  - Accelerate harder
+  - Keep riding until it breaks
+  answer: Pull off and inspect the chain/belt and sprockets
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 35, Chain Problems
+  reason: Slippage indicates adjustment or component wear that should be addressed.
+- question: 'A broken chain or belt typically causes:'
+  choices:
+  - Front-wheel lockup
+  - An immediate loss of power to the rear wheel
+  - The throttle to stick open
+  answer: An immediate loss of power to the rear wheel
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 35, Chain Problems
+  reason: The rear wheel no longer receives engine power.
+- question: 'If the chain or belt breaks, you should:'
+  choices:
+  - Accelerate
+  - Turn sharply across traffic
+  - Roll off the throttle and brake to a stop
+  answer: Roll off the throttle and brake to a stop
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 35, Chain Problems
+  reason: The handbook recommends a controlled stop.
+- question: 'An engine seizure is commonly associated with:'
+  choices:
+  - Low oil
+  - Too much tire pressure
+  - A weak horn
+  answer: Low oil
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 35, Engine Seizure
+  reason: Insufficient lubrication can cause overheating and internal lockup.
+- question: 'An early sign of engine seizure may be:'
+  choices:
+  - A brighter headlight
+  - Loss of power or a change in engine sound
+  - A stronger brake pedal
+  answer: Loss of power or a change in engine sound
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 35, Engine Seizure
+  reason: The handbook lists these warning signs.
+- question: 'If the engine begins to seize, you should:'
+  choices:
+  - Apply full throttle
+  - Shift into a higher gear without the clutch
+  - Pull in the clutch to disengage the engine from the rear wheel
+  answer: Pull in the clutch to disengage the engine from the rear wheel
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 35, Engine Seizure
+  reason: Disengaging the clutch helps prevent a locking engine from locking the rear wheel.
+- question: 'After stopping for a possible seizure, you should:'
+  choices:
+  - Check oil and let the engine cool before restarting
+  - Restart immediately at full throttle
+  - Deflate the rear tire
+  answer: Check oil and let the engine cool before restarting
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 35, Engine Seizure
+  reason: The handbook says to check oil and allow cooling.
+- question: 'If an animal enters your path while you are in traffic, you should:'
+  choices:
+  - Swerve into any adjacent lane without checking
+  - Do what you safely can to avoid it but remain in your lane
+  - Always accelerate
+  answer: Do what you safely can to avoid it but remain in your lane
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 35, Animals
+  reason: Avoid creating a larger collision by leaving your lane unexpectedly.
+- question: 'To reduce the risk from flying debris, avoid following closely behind:'
+  choices:
+  - Only motorcycles
+  - Passenger cars with no cargo
+  - Vehicles hauling or towing loose material
+  answer: Vehicles hauling or towing loose material
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 35, Flying Objects
+  reason: Dump trucks, waste vehicles, livestock haulers, agricultural/construction vehicles, and towed loads can shed debris.
+- question: 'If struck by an object while riding, your priority is to:'
+  choices:
+  - Keep your eyes on the road and your hands on the controls
+  - Look down at the object immediately
+  - Release the handlebars
+  answer: Keep your eyes on the road and your hands on the controls
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 35, Flying Objects
+  reason: Maintaining control comes before assessing the object or injury.
+- question: 'If your face or eyes are affected by a flying object, you should:'
+  choices:
+  - Continue at the same speed without checking
+  - Slow and pull off the road safely when possible
+  - Stop immediately in the travel lane
+  answer: Slow and pull off the road safely when possible
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 35, Flying Objects
+  reason: Once control is maintained, stopping safely lets you address the problem.
+- question: 'Before leaving the roadway, you should check that the roadside surface is:'
+  choices:
+  - Always soft
+  - Covered with loose gravel
+  - Firm enough to ride on
+  answer: Firm enough to ride on
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 36, Getting Off the Road
+  reason: A soft shoulder can cause loss of control.
+- question: 'Before turning off the road, you should generally:'
+  choices:
+  - Slow before making the turn
+  - Brake hard only after leaving pavement
+  - Accelerate into the shoulder
+  answer: Slow before making the turn
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 36, Getting Off the Road
+  reason: Most speed reduction should occur while traction and road geometry are predictable.
+- question: 'Before moving off the road, you should:'
+  choices:
+  - Ignore following traffic
+  - Signal and check mirrors and traffic
+  - Turn off the headlight
+  answer: Signal and check mirrors and traffic
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 36, Getting Off the Road
+  reason: A roadside exit is still a lane-position change that requires communication and traffic checks.
+- question: 'After leaving the travel lane, try to move:'
+  choices:
+  - Just over the lane line
+  - Into the opposing lane
+  - As far off the road as practical
+  answer: As far off the road as practical
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 36, Getting Off the Road
+  reason: Greater separation from traffic reduces exposure.
+- question: 'Before carrying a passenger or heavy load, the handbook recommends:'
+  choices:
+  - Practice away from traffic if you are not experienced with the added weight
+  - Learn only in freeway traffic
+  - Increase tire pressure to the maximum sidewall value regardless of the manual
+  answer: Practice away from traffic if you are not experienced with the added weight
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 36, Carrying Passengers and Cargo
+  reason: Added weight changes acceleration, braking, and handling.
+- question: 'A passenger should have:'
+  choices:
+  - Only a luggage rack
+  - A proper seat and footrests
+  - No dedicated foot support
+  answer: A proper seat and footrests
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 36, Equipment
+  reason: The motorcycle must be equipped to carry the passenger safely.
+- question: 'The passenger seat should be arranged so the operator:'
+  choices:
+  - Must sit on the fuel tank
+  - Cannot reach the handlebars
+  - Does not have to move farther forward than normal
+  answer: Does not have to move farther forward than normal
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 36, Equipment
+  reason: Crowding the operator reduces control.
+- question: 'Before carrying a passenger, suspension and tire pressure may need adjustment according to:'
+  choices:
+  - The owner's manual
+  - The passenger's preference
+  - The speed limit sign
+  answer: The owner's manual
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 36, Equipment
+  reason: Manufacturer guidance accounts for load capacity and handling.
+- question: 'After adding a passenger, you may also need to adjust:'
+  choices:
+  - Only the horn volume
+  - Mirrors and headlight aim
+  - Only the license plate
+  answer: Mirrors and headlight aim
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 36, Equipment
+  reason: Added weight can change the motorcycle's attitude and rearward visibility.
+- question: What is the maximum speed for a motorcycle towing a trailer in California?
+  choices:
+  - 65 mph
+  - 70 mph
+  - 55 mph
+  answer: 55 mph
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 37, Motorcycles Towing Trailers; CVC §§630, 22406
+  reason: The handbook applies the 55 mph towing limit.
+- question: 'On a highway with fewer than four lanes in the same direction, a motorcycle towing a trailer generally must use:'
+  choices:
+  - The right lane except when passing
+  - Any lane at any time
+  - The left lane only
+  answer: The right lane except when passing
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 37, Motorcycles Towing Trailers; CVC §§630, 22406
+  reason: Trailer-towing vehicles are restricted to the right lane except when passing.
+- question: 'On a four-lane highway in one direction, a motorcycle towing a trailer generally may use:'
+  choices:
+  - Only the far-left lane
+  - The two right lanes except when passing
+  - All lanes equally
+  answer: The two right lanes except when passing
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 37, Motorcycles Towing Trailers; CVC §§630, 22406
+  reason: The handbook permits the two right lanes on a four-lane highway.
+- question: May a motorcycle towing a trailer use a carpool lane?
+  choices:
+  - Yes, always
+  - Yes, only with one passenger
+  - 'No'
+  answer: 'No'
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 37, Motorcycles Towing Trailers; CVC §§630, 22406
+  reason: The handbook specifically says motorcycles towing trailers are not allowed in carpool lanes.
+- question: When should a passenger get on the motorcycle?
+  choices:
+  - After the engine is started
+  - Before the engine is started
+  - Only after the motorcycle begins moving
+  answer: After the engine is started
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 37, Instructing Passengers
+  reason: The handbook tells riders to have the passenger mount after startup.
+- question: Where should the passenger sit?
+  choices:
+  - At the very rear edge of the seat
+  - As far forward as possible without crowding the operator
+  - On the fuel tank
+  answer: As far forward as possible without crowding the operator
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 37, Instructing Passengers
+  reason: A forward passenger position centralizes weight without interfering with the operator.
+- question: Where should the passenger hold?
+  choices:
+  - The turn signals
+  - The front brake lever
+  - Firmly around the operator's waist, hips, or belt
+  answer: Firmly around the operator's waist, hips, or belt
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 37, Instructing Passengers
+  reason: Those are the recommended secure handholds.
+- question: 'At a stop, the passenger should keep:'
+  choices:
+  - Both feet on the footrests
+  - Both feet on the pavement
+  - One foot on the rear tire
+  answer: Both feet on the footrests
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 37, Instructing Passengers
+  reason: The passenger should not shift the motorcycle's balance by putting feet down.
+- question: 'The passenger should keep legs away from:'
+  choices:
+  - The seat
+  - Mufflers, belts, chains, and moving parts
+  - The grab strap
+  answer: Mufflers, belts, chains, and moving parts
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 37, Instructing Passengers
+  reason: Hot and moving components can cause injury.
+- question: 'In a turn, the passenger should:'
+  choices:
+  - Lean opposite the operator
+  - Stand on the footrests and remain vertical
+  - Stay directly behind the operator and lean with the operator
+  answer: Stay directly behind the operator and lean with the operator
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 37, Instructing Passengers
+  reason: Following the operator's lean avoids upsetting balance.
+- question: 'Passenger motion should be:'
+  choices:
+  - Kept to a minimum
+  - Continuous to help steer
+  - Large and sudden
+  answer: Kept to a minimum
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 37, Instructing Passengers
+  reason: Unnecessary movement can make the motorcycle sway.
+- question: 'With a passenger, you should generally:'
+  choices:
+  - Ride faster to improve stability
+  - Ride somewhat slower, especially for curves, corners, and bumps
+  - Use only the front brake
+  answer: Ride somewhat slower, especially for curves, corners, and bumps
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 37, Riding With Passengers
+  reason: Additional weight changes handling and requires more margin.
+- question: 'With a passenger, you should begin slowing:'
+  choices:
+  - Later than when riding alone
+  - At the same point regardless of load
+  - Earlier than when riding alone
+  answer: Earlier than when riding alone
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 37, Riding With Passengers
+  reason: Added mass increases stopping distance.
+- question: 'With a passenger, you should maintain:'
+  choices:
+  - A larger following distance
+  - A smaller following distance
+  - No following distance if traffic is slow
+  answer: A larger following distance
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 37, Riding With Passengers
+  reason: More weight requires more stopping room.
+- question: 'When crossing, entering, or merging into traffic with a passenger, wait for:'
+  choices:
+  - Smaller gaps
+  - Larger gaps than you would when riding alone
+  - No gap if you use the horn
+  answer: Larger gaps than you would when riding alone
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 37, Riding With Passengers
+  reason: Acceleration is reduced with added passenger weight.
+- question: 'A child passenger must be able to:'
+  choices:
+  - Reach the handlebars
+  - Place both feet on the ground
+  - Reach the passenger footrests
+  answer: Reach the passenger footrests
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 38, Child Passengers
+  reason: The handbook requires a child's feet to reach the passenger footrests.
+- question: Which helmet is recommended for a child passenger?
+  choices:
+  - A snug-fitting full-face U.S. DOT-compliant helmet
+  - A bicycle helmet only
+  - No helmet if under 30 mph
+  answer: A snug-fitting full-face U.S. DOT-compliant helmet
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 38, Child Passengers
+  reason: The child-passenger section calls for a properly fitting full-face DOT helmet.
+- question: Which clothing is appropriate for a child passenger?
+  choices:
+  - Shorts and sandals
+  - Long pants, closed-toe footwear, a heavy jacket, and gloves
+  - Loose scarf and open shoes
+  answer: Long pants, closed-toe footwear, a heavy jacket, and gloves
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 38, Child Passengers
+  reason: Protective coverage is emphasized for child passengers.
+- question: If a child cannot reach the footrests, should the child be carried as a passenger?
+  choices:
+  - Yes, if the operator rides slowly
+  - Yes, if the child holds the operator tightly
+  - 'No'
+  answer: 'No'
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 38, Child Passengers
+  reason: Footrest reach is a basic minimum for a stable passenger position.
+- question: Where should cargo weight be kept?
+  choices:
+  - Low
+  - High above the rear rack
+  - As high as possible
+  answer: Low
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 38, Carrying Loads
+  reason: Lower weight helps preserve motorcycle stability.
+- question: Where should cargo be positioned relative to the rear axle?
+  choices:
+  - Far behind the rear axle
+  - Over or in front of the rear axle
+  - On the front fender
+  answer: Over or in front of the rear axle
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 38, Carrying Loads
+  reason: Rearward loading can lighten the front end and contribute to wobble.
+- question: 'Saddlebags should be loaded:'
+  choices:
+  - With all weight on one side
+  - Only on the left side
+  - Evenly on both sides
+  answer: Evenly on both sides
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 38, Carrying Loads
+  reason: Balanced side loads reduce handling asymmetry.
+- question: 'A good way to secure a load is with:'
+  choices:
+  - Elastic cords or a cargo net with multiple attachment points
+  - A single loose rope knot
+  - No restraint if the load is heavy
+  answer: Elastic cords or a cargo net with multiple attachment points
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 38, Carrying Loads
+  reason: Multiple secure attachment points reduce movement.
+- question: Why are ropes less desirable for securing motorcycle cargo?
+  choices:
+  - They always damage paint
+  - They can stretch and knots can loosen
+  - They are illegal in all cases
+  answer: They can stretch and knots can loosen
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 38, Carrying Loads
+  reason: A shifting or falling load can destabilize the motorcycle.
+- question: 'During a trip with cargo, you should:'
+  choices:
+  - Check it only before departure
+  - Ignore minor movement
+  - Stop and check the load often
+  answer: Stop and check the load often
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 38, Carrying Loads
+  reason: Vibration and wind can loosen or shift loads.
+- question: 'A group ride should designate:'
+  choices:
+  - An experienced lead rider and an experienced drag/tail rider
+  - Only a lead rider
+  - A rider who ignores traffic signals to keep the group together
+  answer: An experienced lead rider and an experienced drag/tail rider
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 39, Group Riding
+  reason: The handbook recommends experienced riders at both front and rear.
+- question: 'At a stop sign or traffic signal, group riders must:'
+  choices:
+  - Follow the lead rider through even after the signal changes
+  - Each obey the traffic control device
+  - Ignore the signal if the group would split
+  answer: Each obey the traffic control device
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 39, Group Riding; CVC §21461
+  reason: CVC section 21461 still applies to every rider in a group.
+- question: 'If a riding group has more than about four or five riders, the handbook recommends:'
+  choices:
+  - Riding two abreast
+  - Closing all following gaps
+  - Dividing into two or more smaller groups
+  answer: Dividing into two or more smaller groups
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 39, Keep the Group Small
+  reason: Smaller groups are easier for traffic to pass and less likely to be split by traffic controls.
+- question: 'Before a group ride, riders should be briefed on:'
+  choices:
+  - The route, hand signals, single-file formation, and hazard procedures
+  - Only fuel prices
+  - Only the destination address
+  answer: The route, hand signals, single-file formation, and hazard procedures
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 39, Keep the Group Together
+  reason: A pre-ride briefing reduces confusion during the ride.
+- question: 'The group leader should signal lane changes:'
+  choices:
+  - Only after changing lanes
+  - Early enough for every rider to complete the change safely
+  - Only when the drag rider signals first
+  answer: Early enough for every rider to complete the change safely
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 39, Keep the Group Together
+  reason: Early planning prevents riders from rushing to catch a gap.
+- question: Where should less-experienced riders generally be placed?
+  choices:
+  - At the very back
+  - In the middle only
+  - Near the front, just behind the leader
+  answer: Near the front, just behind the leader
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 39, Keep the Group Together
+  reason: Putting beginners near the front lets experienced riders monitor and prevents them from being pressured by the group.
+- question: Who should set a group ride's pace?
+  choices:
+  - The fastest rider
+  - The last (drag/tail) rider
+  - The rider with the largest motorcycle
+  answer: The last (drag/tail) rider
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 39, Keep the Group Together
+  reason: The handbook says to let the last rider set the pace and to slow the group if someone falls behind.
+- question: 'The normal group formation on a straight road is:'
+  choices:
+  - Side-by-side
+  - Staggered
+  - Single file with no gaps
+  answer: Staggered
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 39, Keep Your Distance
+  reason: Staggered formation maintains spacing while keeping the group compact.
+- question: In staggered formation, the second rider is about how far behind the leader?
+  choices:
+  - Two seconds
+  - Three seconds
+  - One second
+  answer: One second
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 39, Keep Your Distance
+  reason: The second rider is one second back in the opposite lane track.
+- question: In staggered formation, the third rider is about how far behind the leader?
+  choices:
+  - Two seconds
+  - One second
+  - Four seconds
+  answer: Two seconds
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 39, Keep Your Distance
+  reason: Riders in the same track maintain about two seconds.
+- question: Should a group ride side-by-side?
+  choices:
+  - Yes, on straight roads
+  - 'No'
+  - Yes, if both riders are experienced
+  answer: 'No'
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 40, Keep Your Distance
+  reason: Side-by-side riding removes escape room and is not recommended.
+- question: 'When passing in a group, riders should generally pass:'
+  choices:
+  - All at once
+  - Two abreast
+  - One at a time
+  answer: One at a time
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 40, Keep Your Distance
+  reason: Individual passes give each rider room to evaluate and complete the maneuver.
+- question: When should a group change from staggered to single-file formation?
+  choices:
+  - For curves, turns, and entering or leaving a highway
+  - Only while stopped
+  - Never
+  answer: For curves, turns, and entering or leaving a highway
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 40, Keep Your Distance
+  reason: Single file gives each rider a full lane path where line choice is important.
+- question: 'Even one alcoholic drink can:'
+  choices:
+  - Have no effect until the legal BAC limit
+  - Significantly affect riding performance
+  - Improve reaction time
+  answer: Significantly affect riding performance
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 41, Being in Shape to Ride
+  reason: The handbook says even one drink can materially impair performance.
+- question: 'BAC means:'
+  choices:
+  - The number of drinks purchased
+  - The time since a rider last ate
+  - The amount of alcohol in relation to blood in the body
+  answer: The amount of alcohol in relation to blood in the body
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 41, Blood Alcohol Concentration
+  reason: BAC is blood alcohol concentration.
+- question: 'The body generally eliminates alcohol at about:'
+  choices:
+  - Almost one drink per hour
+  - Four drinks per hour
+  - One drink every ten minutes
+  answer: Almost one drink per hour
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 41, Blood Alcohol Concentration
+  reason: The handbook gives an approximate elimination rate of almost one drink per hour.
+- question: Which factors can affect BAC?
+  choices:
+  - Helmet color only
+  - How much and how quickly you drink and your body weight
+  - Motorcycle engine size
+  answer: How much and how quickly you drink and your body weight
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 41, Blood Alcohol Concentration
+  reason: Amount, rate of consumption, and body weight are major factors identified by the handbook.
+- question: 'If you consume two drinks in one hour, the handbook says that at the end of the hour:'
+  choices:
+  - No alcohol will remain
+  - Exactly two drinks will always remain
+  - At least one drink will remain in your bloodstream
+  answer: At least one drink will remain in your bloodstream
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 42, Blood Alcohol Concentration
+  reason: The body generally cannot eliminate two drinks in one hour.
+- question: 'For a driver age 21 or older, the illegal BAC threshold stated in the handbook is:'
+  choices:
+  - 0.08% or more
+  - 0.05% or more
+  - 0.10% or more
+  answer: 0.08% or more
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 42, GET A DUI - LOSE YOUR LICENSE!
+  reason: The handbook gives 0.08 percent for noncommercial drivers age 21 and older.
+- question: 'For a person under age 21, California''s zero-tolerance BAC threshold is:'
+  choices:
+  - 0.08% or above
+  - 0.01% or above
+  - 0.04% or above
+  answer: 0.01% or above
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 42, GET A DUI - LOSE YOUR LICENSE!
+  reason: The handbook states 0.01 percent or above for drivers under 21.
+- question: 'For a commercial vehicle driver, the BAC threshold shown in the handbook is:'
+  choices:
+  - 0.08% or more
+  - 0.01% or more
+  - 0.04% or more
+  answer: 0.04% or more
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 42, GET A DUI - LOSE YOUR LICENSE!
+  reason: The BAC summary lists 0.04 percent for commercial vehicle drivers.
+- question: 'In the handbook''s BAC table, one standard drink is:'
+  choices:
+  - 1.5 oz of 80-proof liquor, 12 oz of 5% beer, or 5 oz of 12% wine
+  - 2 oz liquor, 16 oz beer, or 8 oz wine
+  - 1 oz liquor, 6 oz beer, or 3 oz wine
+  answer: 1.5 oz of 80-proof liquor, 12 oz of 5% beer, or 5 oz of 12% wine
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 42, GET A DUI - LOSE YOUR LICENSE!
+  reason: Those quantities are the table's standard-drink equivalents.
+- question: 'The handbook''s BAC table says to subtract approximately:'
+  choices:
+  - 0.02% for every 10 minutes
+  - 0.01% for each 40 minutes of drinking
+  - 0.05% for every hour
+  answer: 0.01% for each 40 minutes of drinking
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 42, GET A DUI - LOSE YOUR LICENSE!
+  reason: That is the adjustment printed with the handbook's estimation table; it is only an estimate.
+- question: 'For determining whether you are legally over the BAC limit, your appearance of sobriety:'
+  choices:
+  - Always controls over chemical testing
+  - Is the only factor considered
+  - Does not override a breath or blood test result
+  answer: Does not override a breath or blood test result
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 43, Alcohol and the Law
+  reason: The handbook emphasizes the measured breath/blood alcohol level.
+- question: 'The safest rule if you plan to ride is:'
+  choices:
+  - Do not drink alcohol
+  - Drink only beer
+  - Stop drinking 15 minutes before riding
+  answer: Do not drink alcohol
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 43, Minimize the Risks
+  reason: The handbook's risk-minimization guidance is to separate drinking and riding entirely.
+- question: 'If you have been drinking, you should:'
+  choices:
+  - Ride only on surface streets
+  - Not ride your motorcycle
+  - Ride more slowly in the right lane
+  answer: Not ride your motorcycle
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 43, Minimize the Risks
+  reason: The handbook directs riders who have been drinking not to ride.
+- question: Experienced riders seldom ride more than about how many hours per day?
+  choices:
+  - Two hours
+  - Twelve hours
+  - Six hours
+  answer: Six hours
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 43, Fatigue
+  reason: The fatigue section gives about six hours per day as a typical upper amount for experienced riders.
+- question: 'On a long trip, you should stop and get off the motorcycle at least every:'
+  choices:
+  - Two hours
+  - Four hours
+  - Six hours
+  answer: Two hours
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 43, Fatigue
+  reason: The handbook recommends a rest break at least every two hours.
+- question: Why should you avoid artificial stimulants for fatigue management?
+  choices:
+  - They guarantee a safe alert state
+  - They can lead to extreme fatigue or depression as they wear off
+  - They replace the need for rest
+  answer: They can lead to extreme fatigue or depression as they wear off
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 43, Fatigue
+  reason: The handbook warns that stimulant effects can rebound and reduce concentration.
+- question: 'If you are tired, the handbook recommends:'
+  choices:
+  - Ride faster to shorten the trip
+  - Use only the rear brake
+  - Avoid riding
+  answer: Avoid riding
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 43, Fatigue
+  reason: Fatigue reduces control and concentration.
+- question: 'California financial-responsibility rules apply to:'
+  choices:
+  - Motorcycle owners and operators
+  - Cars only
+  - Motorcycles over 500 cc only
+  answer: Motorcycle owners and operators
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 44, Motorcycle Insurance Facts; SR-1 reporting rule
+  reason: The Vehicle Code financial-responsibility provisions apply to motorcycles.
+- question: 'A collision must be reported to DMV when property damage to one person exceeds:'
+  choices:
+  - $750
+  - $1,000
+  - $2,500
+  answer: $1,000
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 44, Motorcycle Insurance Facts; SR-1 reporting rule
+  reason: The current handbook uses more than $1,000 as the property-damage reporting threshold.
+- question: 'A collision involving any injury, even slight, must be reported to DMV within:'
+  choices:
+  - 24 hours
+  - 30 days
+  - 10 days
+  answer: 10 days
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 44, Motorcycle Insurance Facts; SR-1 reporting rule
+  reason: The SR-1 reporting rule applies to injury collisions and requires filing within 10 days.
+- question: Which form is used for the DMV collision report?
+  choices:
+  - SR-1
+  - DL 389
+  - REG 343
+  answer: SR-1
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 44, Motorcycle Insurance Facts; SR-1 reporting rule
+  reason: The Report of Traffic Accident Occurring in California is form SR-1.
+- question: Will CHP or the police file the SR-1 for you?
+  choices:
+  - Yes, always
+  - 'No'
+  - Only if property damage exceeds $1,000
+  answer: 'No'
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 44, Motorcycle Insurance Facts; SR-1 reporting rule
+  reason: The rider, insurer, broker, or legal representative is responsible; law enforcement does not make the DMV SR-1 report.
+- question: 'Failure to make a required DMV collision report may result in:'
+  choices:
+  - Automatic motorcycle registration renewal
+  - A waiver of insurance requirements
+  - Driver-license suspension
+  answer: Driver-license suspension
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 44, Motorcycle Insurance Facts; SR-1 reporting rule
+  reason: The handbook warns that the driver's license may be suspended.
+- question: 'Before buying or riding a motorcycle, the handbook recommends:'
+  choices:
+  - Checking with your insurance company about coverage
+  - Assuming car coverage automatically applies
+  - Waiting until after a collision to ask
+  answer: Checking with your insurance company about coverage
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 44, Motorcycle Insurance Facts; SR-1 reporting rule
+  reason: Motorcycle coverage should be confirmed beforehand.
+- question: 'Willfully fleeing or attempting to evade a peace officer performing duties is:'
+  choices:
+  - A parking infraction only
+  - A misdemeanor punishable by up to one year in county jail
+  - Legal if no one is injured
+  answer: A misdemeanor punishable by up to one year in county jail
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 44, Evading a Peace Officer; CVC §§2800.1, 2800.3
+  reason: CVC section 2800.1 establishes the misdemeanor and maximum county-jail term.
+- question: 'If serious bodily injury is caused during a police pursuit, possible state-prison terms include:'
+  choices:
+  - One, two, or three months
+  - Ten, fifteen, or twenty years only
+  - Three, five, or seven years
+  answer: Three, five, or seven years
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 44, Evading a Peace Officer; CVC §§2800.1, 2800.3
+  reason: The handbook lists 3, 5, or 7 years under CVC section 2800.3(a).
+- question: 'For serious bodily injury during a police pursuit, the handbook lists a possible fine of:'
+  choices:
+  - $2,000 to $10,000
+  - $100 to $500
+  - $20,000 to $50,000
+  answer: $2,000 to $10,000
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 44, Evading a Peace Officer; CVC §§2800.1, 2800.3
+  reason: The listed fine range is $2,000 through $10,000.
+- question: 'A conviction for causing a death during a police pursuit can carry state-prison terms of:'
+  choices:
+  - One, two, or three years
+  - Four, six, or ten years
+  - Only life imprisonment
+  answer: Four, six, or ten years
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 44, Evading a Peace Officer; CVC §§2800.1, 2800.3
+  reason: CVC section 2800.3(b), as summarized, lists 4, 6, or 10 years.
+- question: 'Before riding on public off-highway land, you should:'
+  choices:
+  - Assume all trails are open
+  - Create your own route
+  - Obtain maps/regulations and learn the applicable rules
+  answer: Obtain maps/regulations and learn the applicable rules
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 45, Tread Lightly!
+  reason: The Tread Lightly section directs riders to agency maps and regulations.
+- question: 'To reduce environmental damage, avoid:'
+  choices:
+  - Running over young trees, shrubs, and grasses
+  - Existing durable roads
+  - Marked legal OHV routes
+  answer: Running over young trees, shrubs, and grasses
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 45, Tread Lightly!
+  reason: Young vegetation can be damaged or killed by vehicle travel.
+- question: 'You should stay off:'
+  choices:
+  - All dry roads
+  - Soft, wet roads and trails that are easily torn up
+  - All paved roads
+  answer: Soft, wet roads and trails that are easily torn up
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 45, Tread Lightly!
+  reason: Soft wet surfaces are readily damaged by vehicle tires.
+- question: 'Around meadows, steep hillsides, stream banks, and lake shores, you should:'
+  choices:
+  - Ride directly through the softest ground
+  - Cut new trails
+  - Travel around sensitive areas rather than scar them with churning wheels
+  answer: Travel around sensitive areas rather than scar them with churning wheels
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 45, Tread Lightly!
+  reason: The handbook asks riders to avoid easily scarred terrain.
+- question: Should you create a new road/trail or cut across a switchback?
+  choices:
+  - 'No'
+  - Yes, if it is shorter
+  - Yes, if no one else is present
+  answer: 'No'
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 45, Tread Lightly!
+  reason: The Tread Lightly guidance says not to pioneer routes or shortcut switchbacks.
+- question: 'When wildlife is rearing young or short of food, you should:'
+  choices:
+  - Approach closely for photographs
+  - Stay away to avoid adding stress
+  - Rev the engine to move them
+  answer: Stay away to avoid adding stress
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 45, Tread Lightly!
+  reason: Stress can use limited energy reserves.
+- question: 'Gate closures and regulatory signs on public lands should be:'
+  choices:
+  - Ignored by motorcycles
+  - Followed only on weekends
+  - Obeyed
+  answer: Obeyed
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 45, Tread Lightly!
+  reason: The handbook explicitly directs riders to obey closures and signs.
+- question: 'Designated wilderness areas should be:'
+  choices:
+  - Avoided; know their boundaries
+  - Used as shortcuts
+  - Entered whenever a trail is visible
+  answer: Avoided; know their boundaries
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 45, Tread Lightly!
+  reason: Motorized riding is not appropriate in designated wilderness areas.
+- question: 'Before crossing private land, you should:'
+  choices:
+  - Assume motorcycle access is permitted
+  - Get the landowner's permission
+  - Enter only at night
+  answer: Get the landowner's permission
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 45, Tread Lightly!
+  reason: The handbook directs riders to respect landowner rights and obtain permission.
+- question: 'Motorcycle knowledge-test questions are based on:'
+  choices:
+  - Only the California Motorcycle Handbook
+  - Only the owner's manual for your motorcycle
+  - Both the California Motorcycle Handbook and the California Driver's Handbook
+  answer: Both the California Motorcycle Handbook and the California Driver's Handbook
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 3, Earning Your License
+  reason: DMV states that motorcycle knowledge questions draw from both handbooks.
+- question: 'The DMV motorcycle skills test may be conducted:'
+  choices:
+  - In actual traffic or in a controlled off-street area
+  - Only on a freeway
+  - Only inside a classroom
+  answer: In actual traffic or in a controlled off-street area
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 3, Earning Your License
+  reason: The handbook states the skills test may use either an actual-traffic environment or a controlled off-street area.
+- question: 'On the skills course, the ''tracking path'' means:'
+  choices:
+  - Only the painted centerline
+  - The area within and including the tracking lines
+  - Any part of the parking lot
+  answer: The area within and including the tracking lines
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 7, Motorcycle Skills Test
+  reason: The handbook defines the tracking path as the area within and including the tracking lines.
+- question: Compared with not wearing a U.S. DOT-compliant motorcycle helmet, the handbook says a rider wearing one is about
+    how much more likely to survive a head injury?
+  choices:
+  - Twice as likely
+  - Ten times more likely
+  - Three times more likely
+  answer: Three times more likely
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 9, Helmet Use; CVC §27803 / FMVSS 218 where applicable
+  reason: The current handbook states that a DOT-compliant helmet makes a rider three times more likely to survive a head
+    injury.
+- question: Can an owner decorate a U.S. DOT-compliant helmet with stick-on items without automatically changing its safety
+    properties?
+  choices:
+  - 'Yes'
+  - No, any decal makes it noncompliant
+  - Only if the decal covers the DOT lettering
+  answer: 'Yes'
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 9, Helmet Use; CVC §27803 / FMVSS 218 where applicable
+  reason: The handbook says owner-added decorations such as decals do not by themselves affect the helmet's safety properties.
+- question: Which helmet style gives the best coverage and protection according to the handbook?
+  choices:
+  - A half-shell helmet
+  - A full-face helmet with a lock-in visor
+  - A novelty helmet
+  answer: A full-face helmet with a lock-in visor
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 9, Helmet Selection; CVC §27803 / FMVSS 218 where applicable
+  reason: Of the listed helmet types, the handbook identifies a full-face helmet with a lock-in visor as providing the best
+    coverage.
+- question: Which four helmet types does the handbook list?
+  choices:
+  - Open-face, racing, bicycle, and ski
+  - Half shell, bicycle, novelty, and construction
+  - Half shell, three-quarters, modular, and full-face
+  answer: Half shell, three-quarters, modular, and full-face
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 9, Helmet Selection; CVC §27803 / FMVSS 218 where applicable
+  reason: The helmet-selection section lists these four motorcycle helmet styles.
+- question: 'The DOT lettering on a compliant helmet should be:'
+  choices:
+  - Manufacturer-applied and not an easily removed stick-on label
+  - A removable sticker added by the rider
+  - Written on with a marker
+  answer: Manufacturer-applied and not an easily removed stick-on label
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 9, Helmet Selection; CVC §27803 / FMVSS 218 where applicable
+  reason: The handbook says compliant DOT lettering is manufacturer-applied and should not be a removable stick-on label.
+- question: What should you inspect on the kickstand before riding?
+  choices:
+  - Only paint condition
+  - Cracks, bent springs, and enough tension to hold position
+  - Only the rubber foot
+  answer: Cracks, bent springs, and enough tension to hold position
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 12, Check Your Motorcycle
+  reason: The pre-ride checklist specifically includes kickstand condition and spring/tension.
+- question: Once seated on the motorcycle, how should the clutch feel?
+  choices:
+  - Loose and jerky
+  - Completely disconnected
+  - Tight and smooth
+  answer: Tight and smooth
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 12, Check Your Motorcycle
+  reason: The handbook says the clutch should operate smoothly and feel tight.
+- question: How should the front and rear brake controls feel when fully applied?
+  choices:
+  - Firm and able to hold the motorcycle
+  - Soft and unable to hold position
+  - Loose enough to touch the grip or stop without resistance
+  answer: Firm and able to hold the motorcycle
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 13, Check Your Motorcycle
+  reason: The pre-start check says each brake should feel firm and hold the motorcycle.
+- question: 'Before starting out, you should verify that:'
+  choices:
+  - The horn is disconnected
+  - The horn works
+  - Only the passenger can operate the horn
+  answer: The horn works
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 13, Check Your Motorcycle
+  reason: Horn operation is part of the pre-start check.
+- question: 'Your riding posture should let you use your arms primarily to:'
+  choices:
+  - Support all of your body weight
+  - Lock the handlebars in place
+  - Control the motorcycle rather than hold yourself up
+  answer: Control the motorcycle rather than hold yourself up
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 14, Body Position
+  reason: The handbook's posture guidance keeps the rider supported by the seat/core so the arms remain available for control.
+- question: 'The clutch friction zone is:'
+  choices:
+  - The range between fully engaged and fully released
+  - The point where the clutch is fully released only
+  - The area of the rear tire touching the road
+  answer: The range between fully engaged and fully released
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 16, U-turns
+  reason: Using the clutch within this range gives finer low-speed power control.
+- question: 'For balance in a tight U-turn, if needed you may:'
+  choices:
+  - Take both feet off the footrests
+  - Apply weight to the outside footrest
+  - Apply weight only to the inside handlebar
+  answer: Apply weight to the outside footrest
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 16, U-turns
+  reason: The handbook says outside-footrest pressure can help equalize balance.
+- question: 'If your motorcycle takes longer than normal to stop, you should:'
+  choices:
+  - Reduce your following distance
+  - Ride beside the vehicle ahead
+  - Increase your following distance
+  answer: Increase your following distance
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 18, Following Another Vehicle
+  reason: A longer stopping requirement calls for a larger space cushion.
+- question: 'While passing another vehicle, you should move through its blind spot:'
+  choices:
+  - As quickly as practical while remaining within the speed limit
+  - As slowly as possible
+  - By riding beside it for several seconds
+  answer: As quickly as practical while remaining within the speed limit
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 19, Passing
+  reason: The handbook recommends minimizing time in the driver's blind spot while still obeying the speed limit.
+- question: 'If a parked vehicle may pull into your path, you should:'
+  choices:
+  - Accelerate past without changing position
+  - Slow down or change lanes to create room
+  - Ride closer to the vehicle
+  answer: Slow down or change lanes to create room
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 24, Passing Parked Vehicles
+  reason: Creating space reduces the conflict if the driver pulls away from the curb.
+- question: 'If a driver appears likely to make a sudden U-turn, the handbook recommends:'
+  choices:
+  - Accelerate to pass before the U-turn
+  - Move into the opposing lane without checking
+  - Slow down, get the driver's attention, use the horn, and proceed cautiously
+  answer: Slow down, get the driver's attention, use the horn, and proceed cautiously
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 24, Passing Parked Vehicles
+  reason: Sudden U-turns are identified as particularly dangerous around parked vehicles.
+- question: Where can reflective material on a helmet be especially useful?
+  choices:
+  - On the sides as well as where approaching and following drivers can see it
+  - Only on the inside liner
+  - Only under the chin where no driver can see it
+  answer: On the sides as well as where approaching and following drivers can see it
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 25, Increasing Visibility - Clothing
+  reason: The handbook notes that reflective material helps from the side, front, and rear.
+- question: 'For conspicuity, the handbook recommends keeping:'
+  choices:
+  - Only parking lights on
+  - The headlight and running lights, if equipped, on
+  - All lights off during daylight
+  answer: The headlight and running lights, if equipped, on
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 25, Headlight
+  reason: Continuous lighting makes a motorcycle easier for others to notice.
+- question: 'A passenger should tighten their hold when you:'
+  choices:
+  - Reach a long straight road
+  - Stop at a fuel station only
+  - Approach surface problems, start from a stop, or warn of a sudden move
+  answer: Approach surface problems, start from a stop, or warn of a sudden move
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 38, Riding With Passengers
+  reason: These are the three situations specifically listed for the passenger to brace more firmly.
+- question: With a passenger, how does the motorcycle generally respond?
+  choices:
+  - More slowly
+  - Faster to every steering and braking input
+  - Exactly the same as unloaded
+  answer: More slowly
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 38, Riding With Passengers
+  reason: Added passenger weight slows acceleration and increases stopping distance.
+- question: 'The handbook notes that child-passenger restraint systems:'
+  choices:
+  - Are prohibited in California
+  - Are available to secure a child to the rider by a belt or harness
+  - Replace the need for passenger footrests
+  answer: Are available to secure a child to the rider by a belt or harness
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 38, Child Passengers
+  reason: The section notes that belt/harness systems exist, while also requiring proper passenger equipment and precautions.
+- question: Why should a tank bag containing hard or sharp objects be used cautiously?
+  choices:
+  - It makes the rear brake stronger
+  - It changes the legal speed limit
+  - It must not interfere with the handlebars or controls
+  answer: It must not interfere with the handlebars or controls
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 38, Carrying Loads
+  reason: Forward loading is useful, but the handbook warns that a tank bag must not obstruct steering or controls.
+- question: 'A load placed behind the rear axle can:'
+  choices:
+  - Affect turning and braking and contribute to wobble
+  - Improve front-wheel traction in every condition
+  - Eliminate the need to secure the load
+  answer: Affect turning and braking and contribute to wobble
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 38, Carrying Loads
+  reason: Rearward weight shifts balance and can destabilize the motorcycle.
+- question: Why should elastic cargo restraints have more than one attachment point per side?
+  choices:
+  - They increase engine power
+  - They are more secure and reduce the chance the load will shift
+  - They allow the load to hang near the chain
+  answer: They are more secure and reduce the chance the load will shift
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 38, Carrying Loads
+  reason: Multiple attachment points better control the load.
+- question: If a rider falls behind during a group ride, what should the group do?
+  choices:
+  - Make the trailing rider speed up
+  - Continue at the same pace without monitoring anyone behind
+  - Slow down a little so the group can stay together
+  answer: Slow down a little so the group can stay together
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 39, Keep the Group Together
+  reason: The handbook says riders should monitor behind them and the group should slow if someone falls back.
+- question: 'For a long group ride, the group should:'
+  choices:
+  - Make sure everyone knows the route and plan frequent stops
+  - Keep the route secret until each turn
+  - Avoid all planned stops
+  answer: Make sure everyone knows the route and plan frequent stops
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 39, Keep the Group Together
+  reason: Route knowledge and planned stops reduce the need for riders to hurry or make abrupt decisions.
+- question: 'After the lead rider passes a vehicle in staggered formation, the leader should:'
+  choices:
+  - Return immediately to the right portion of the lane
+  - Return to the left portion of the lane and open room for the next rider
+  - Stop on the shoulder
+  answer: Return to the left portion of the lane and open room for the next rider
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 40, Keep Your Distance
+  reason: The handbook says returning to the left track preserves the pre-pass formation and discourages the next rider from
+    cutting back too soon.
+- question: 'The handbook''s ''one drink'' equivalents can change when:'
+  choices:
+  - Riding a motorcycle instead of driving a car
+  - Wearing a full-face helmet
+  - Drinking certain stronger beverages or when factors such as an empty stomach, fatigue, illness, emotion, medicines, or
+    drugs are involved
+  answer: Drinking certain stronger beverages or when factors such as an empty stomach, fatigue, illness, emotion, medicines,
+    or drugs are involved
+  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 41, Blood Alcohol Concentration
+  reason: The handbook warns that beverage strength and personal/physiological conditions can affect alcohol effects.
