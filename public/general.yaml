@@ -1,0 +1,2563 @@
+- question: 'Provisional driver under 18: restricted driving hours during first 12 months?'
+  choices:
+  - 11 p.m.–5 a.m.
+  - 10 p.m.–6 a.m.
+  - Midnight–4 a.m.
+  answer: 11 p.m.–5 a.m.
+  reference: §2 p.2
+  reason: The restriction is 11 p.m. to 5 a.m.
+- question: 'Provisional driver: restricted passenger age?'
+  choices:
+  - Under 20
+  - Under 18
+  - Under 21
+  answer: Under 20
+  reference: §2 p.2
+  reason: Passengers under 20 are restricted unless a qualifying adult is present.
+- question: Qualifying supervising California-licensed driver minimum age?
+  choices:
+  - '25'
+  - '21'
+  - '30'
+  answer: '25'
+  reference: §2 p.2
+  reason: Minimum age is 25.
+- question: Medical exception note must be signed by?
+  choices:
+  - Physician
+  - Parent only
+  - Employer
+  answer: Physician
+  reference: §2 p.2
+  reason: A physician must sign the medical-need note.
+- question: Illegal headset/earplug use while driving?
+  choices:
+  - Covering both ears
+  - Covering one ear
+  - Using one hearing aid
+  answer: Covering both ears
+  reference: §3 p.3
+  reason: Both ears may not be covered.
+- question: Physician reporting threshold for certain driving-affecting conditions?
+  choices:
+  - Age 14
+  - Age 12
+  - Age 16
+  answer: Age 14
+  reference: §3 p.3
+  reason: The handbook gives age 14.
+- question: Normal turn-signal distance?
+  choices:
+  - At least 100 feet
+  - 50 feet
+  - 200 feet
+  answer: At least 100 feet
+  reference: §3 p.4
+  reason: Signal at least 100 feet before turning.
+- question: Freeway lane-change signal duration?
+  choices:
+  - At least 5 seconds
+  - 3 seconds
+  - 10 seconds
+  answer: At least 5 seconds
+  reference: §3 p.4
+  reason: Signal at least five seconds.
+- question: Horn on narrow mountain road when visibility is less than?
+  choices:
+  - 200 feet
+  - 100 feet
+  - 500 feet
+  answer: 200 feet
+  reference: §3 p.4
+  reason: Use the horn if you cannot see at least 200 feet ahead.
+- question: Dim high beams for oncoming vehicle within?
+  choices:
+  - 500 feet
+  - 300 feet
+  - 700 feet
+  answer: 500 feet
+  reference: §3 p.4
+  reason: Oncoming threshold is 500 feet.
+- question: Dim high beams when following within?
+  choices:
+  - 300 feet
+  - 200 feet
+  - 500 feet
+  answer: 300 feet
+  reference: §3 p.4
+  reason: Following threshold is 300 feet.
+- question: Headlights required if too dark to see from?
+  choices:
+  - 1,000 feet
+  - 500 feet
+  - 1,500 feet
+  answer: 1,000 feet
+  reference: §3 p.4
+  reason: The visibility threshold is 1,000 feet.
+- question: Headlights begin when?
+  choices:
+  - 30 minutes after sunset
+  - At sunset
+  - 1 hour after sunset
+  answer: 30 minutes after sunset
+  reference: §3 p.4
+  reason: Required beginning 30 minutes after sunset.
+- question: Headlights remain on until?
+  choices:
+  - 30 minutes before sunrise
+  - Sunrise
+  - 1 hour before sunrise
+  answer: 30 minutes before sunrise
+  reference: §3 p.4
+  reason: Required until 30 minutes before sunrise.
+- question: 'Wipers required by rain/fog/snow: which lights?'
+  choices:
+  - Low-beam headlights
+  - Parking lights only
+  - High beams
+  answer: Low-beam headlights
+  reference: §3 p.4
+  reason: Low beams are required in these conditions.
+- question: Two double-yellow sets spaced 2+ feet apart mean?
+  choices:
+  - Barrier
+  - Passing lane
+  - HOV entrance
+  answer: Barrier
+  reference: §4 p.6
+  reason: They form a barrier.
+- question: May you change lanes across double solid white lines?
+  choices:
+  - 'No'
+  - Yes, to pass
+  - Yes, below 25 mph
+  answer: 'No'
+  reference: §4 p.7
+  reason: Wait for a broken white line.
+- question: Far-left lane number?
+  choices:
+  - Number 1
+  - Number 0
+  - Number 2
+  answer: Number 1
+  reference: §4 p.7
+  reason: The far-left lane is Number 1.
+- question: Motorcycle HOV use?
+  choices:
+  - Allowed unless otherwise posted
+  - Only with passenger
+  - Never
+  answer: Allowed unless otherwise posted
+  reference: §4 p.8
+  reason: Motorcycles generally may use HOV lanes.
+- question: Maximum travel in center left-turn lane?
+  choices:
+  - 200 feet
+  - 100 feet
+  - 300 feet
+  answer: 200 feet
+  reference: §4 p.9
+  reason: Maximum is 200 feet.
+- question: Slow vehicle turnout threshold on two-lane road?
+  choices:
+  - 5 or more following vehicles
+  - 3 or more
+  - 7 or more
+  answer: 5 or more following vehicles
+  reference: §4 p.9
+  reason: Use a turnout when five or more vehicles follow.
+- question: Enter bike lane for a turn within?
+  choices:
+  - 200 feet
+  - 100 feet
+  - 300 feet
+  answer: 200 feet
+  reference: §4 pp.9-11
+  reason: Entry is permitted within 200 feet of the turn.
+- question: Minimum cyclist clearance when unable to change lanes?
+  choices:
+  - 3 feet
+  - 2 feet
+  - 4 feet
+  answer: 3 feet
+  reference: §4 p.11
+  reason: At least three feet.
+- question: Normal right turn ends in?
+  choices:
+  - Rightmost lane
+  - Any open lane
+  - Leftmost lane
+  answer: Rightmost lane
+  reference: §4 p.11
+  reason: Begin and end near the right edge.
+- question: Right on red requires?
+  choices:
+  - Complete stop unless prohibited
+  - Slow to 5 mph
+  - No stop if clear
+  answer: Complete stop unless prohibited
+  reference: §4 p.11
+  reason: A complete stop is required.
+- question: Right turn at red arrow?
+  choices:
+  - Wait until signal permits
+  - Allowed after stop
+  - Allowed if no pedestrians
+  answer: Wait until signal permits
+  reference: §4 p.11
+  reason: A red arrow prohibits the turn.
+- question: While waiting to turn left, wheels should point?
+  choices:
+  - Straight ahead
+  - Left
+  - Right
+  answer: Straight ahead
+  reference: §4 p.12
+  reason: Straight wheels reduce rear-end push risk.
+- question: Left on red may be legal from?
+  choices:
+  - One-way to one-way
+  - Two-way to one-way
+  - Any street to one-way
+  answer: One-way to one-way
+  reference: §4 p.13
+  reason: Allowed one-way to one-way unless prohibited.
+- question: 'Residential U-turn: no approaching vehicle within?'
+  choices:
+  - 200 feet
+  - 100 feet
+  - 300 feet
+  answer: 200 feet
+  reference: §4 p.13
+  reason: The clear-distance rule is 200 feet.
+- question: U-turn visibility required in each direction?
+  choices:
+  - 200 feet
+  - 100 feet
+  - 500 feet
+  answer: 200 feet
+  reference: §4 p.13
+  reason: Do not U-turn with less than 200 feet visibility.
+- question: U-turn on one-way street?
+  choices:
+  - Prohibited
+  - Allowed at intersection
+  - Allowed if clear
+  answer: Prohibited
+  reference: §4 p.13
+  reason: One-way streets prohibit U-turns.
+- question: Highway entry speed?
+  choices:
+  - At or near traffic speed
+  - 15 mph below traffic
+  - Faster than traffic
+  answer: At or near traffic speed
+  reference: §4 p.15
+  reason: Merge at or near traffic speed.
+- question: Basic highway merge following interval?
+  choices:
+  - 3 seconds
+  - 1 second
+  - 6 seconds
+  answer: 3 seconds
+  reference: §4 p.16
+  reason: Use three seconds.
+- question: Freeway exit signal timing?
+  choices:
+  - 5 seconds/about 400 feet
+  - 3 seconds/about 200 feet
+  - 10 seconds/about 1,000 feet
+  answer: 5 seconds/about 400 feet
+  reference: §4 p.16
+  reason: The handbook gives five seconds/about 400 feet.
+- question: City-street entry gap?
+  choices:
+  - About 150 feet
+  - 75 feet
+  - 300 feet
+  answer: About 150 feet
+  reference: §4 p.16
+  reason: Half a city block is about 150 feet.
+- question: Highway entry gap?
+  choices:
+  - About 300 feet
+  - 150 feet
+  - 600 feet
+  answer: About 300 feet
+  reference: §4 p.16
+  reason: A full highway block is about 300 feet.
+- question: Safe passing visibility near hill/curve?
+  choices:
+  - At least one-third mile
+  - One-quarter mile
+  - One mile
+  answer: At least one-third mile
+  reference: §4 p.17
+  reason: The guideline is one-third mile.
+- question: No passing within what distance of intersection/bridge/tunnel/rail crossing?
+  choices:
+  - 100 feet
+  - 50 feet
+  - 200 feet
+  answer: 100 feet
+  reference: §4 p.17
+  reason: The distance is 100 feet.
+- question: Drive off pavement to pass?
+  choices:
+  - Never
+  - Below 25 mph only
+  - If shoulder clear
+  answer: Never
+  reference: §4 p.17
+  reason: Never leave the paved/main-traveled roadway to pass.
+- question: Parallel-parking space extra length?
+  choices:
+  - At least 3 feet
+  - 1 foot
+  - 6 feet
+  answer: At least 3 feet
+  reference: §4 p.18
+  reason: Find a space at least three feet longer.
+- question: Parallel-parking side gap before backing?
+  choices:
+  - About 2 feet
+  - 1 foot
+  - 4 feet
+  answer: About 2 feet
+  reference: §4 p.18
+  reason: Leave about two feet.
+- question: Parallel-parking backing angle?
+  choices:
+  - About 45°
+  - 30°
+  - 60°
+  answer: About 45°
+  reference: §4 p.18
+  reason: Back at about 45 degrees.
+- question: Maximum curb distance after parallel parking?
+  choices:
+  - 18 inches
+  - 6 inches
+  - 36 inches
+  answer: 18 inches
+  reference: §4 p.18
+  reason: Park within 18 inches.
+- question: No parking within fire hydrant distance?
+  choices:
+  - 15 feet
+  - 10 feet
+  - 20 feet
+  answer: 15 feet
+  reference: §4 Parking
+  reason: The standard distance is 15 feet.
+- question: No parking within ordinary crosswalk distance?
+  choices:
+  - 20 feet
+  - 10 feet
+  - 30 feet
+  answer: 20 feet
+  reference: §4 p.23
+  reason: The handbook gives 20 feet.
+- question: 'Crosswalk with curb extension: no-parking distance?'
+  choices:
+  - 15 feet
+  - 10 feet
+  - 20 feet
+  answer: 15 feet
+  reference: §4 p.23
+  reason: The curb-extension distance is 15 feet.
+- question: Freeway-stopped vehicle may be removed after more than?
+  choices:
+  - 4 hours
+  - 2 hours
+  - 8 hours
+  answer: 4 hours
+  reference: §4 p.24
+  reason: The handbook gives four hours.
+- question: Flashing red signal means?
+  choices:
+  - Stop, then proceed when safe
+  - Slow and proceed
+  - Yield without stopping
+  answer: Stop, then proceed when safe
+  reference: §5 p.27
+  reason: Treat it like a stop sign.
+- question: Flashing yellow signal means?
+  choices:
+  - Slow and proceed with caution
+  - Stop completely
+  - Speed up
+  answer: Slow and proceed with caution
+  reference: §5 Traffic Signals
+  reason: Proceed cautiously.
+- question: Solid yellow signal means?
+  choices:
+  - Stop if you can safely
+  - Speed up
+  - Always continue
+  answer: Stop if you can safely
+  reference: §5 p.27
+  reason: Yellow warns red is imminent.
+- question: Red arrow means?
+  choices:
+  - Stop; do not turn until permitted
+  - Turn after yielding
+  - Treat as flashing red
+  answer: Stop; do not turn until permitted
+  reference: §5 p.27
+  reason: A red arrow prohibits the indicated turn.
+- question: 'Uncontrolled intersection simultaneous arrival: yield to?'
+  choices:
+  - Road user on your right
+  - Road user on your left
+  - Larger vehicle
+  answer: Road user on your right
+  reference: §5 p.31
+  reason: Yield to the right.
+- question: 'Uncontrolled T intersection: who has priority?'
+  choices:
+  - Traffic on through road
+  - Traffic on terminating road
+  - Left-turning traffic
+  answer: Traffic on through road
+  reference: §5 p.31
+  reason: Through-road traffic has right-of-way.
+- question: Green light but intersection blocked?
+  choices:
+  - Wait until you can completely cross
+  - Enter and wait
+  - Use shoulder
+  answer: Wait until you can completely cross
+  reference: §5 p.31
+  reason: Do not block the intersection.
+- question: Roundabout direction?
+  choices:
+  - Counterclockwise
+  - Clockwise
+  - Either
+  answer: Counterclockwise
+  reference: §5 p.32
+  reason: Traffic circulates counterclockwise.
+- question: 'Entering roundabout: yield to?'
+  choices:
+  - Traffic already circulating
+  - Traffic behind you
+  - Only pedestrians
+  answer: Traffic already circulating
+  reference: §5 p.32
+  reason: Circulating traffic has priority.
+- question: Missed roundabout exit?
+  choices:
+  - Continue around
+  - Stop and reverse
+  - U-turn inside
+  answer: Continue around
+  reference: §5 p.32
+  reason: Continue around to the exit again.
+- question: Guide dog/white cane pedestrian right-of-way?
+  choices:
+  - At all times
+  - Marked crosswalks only
+  - Green signal only
+  answer: At all times
+  reference: §5 p.33
+  reason: They have right-of-way at all times.
+- question: 'Steep narrow road: which vehicle has right-of-way?'
+  choices:
+  - Uphill-facing vehicle
+  - Downhill-facing vehicle
+  - Larger vehicle
+  answer: Uphill-facing vehicle
+  reference: §5 p.33
+  reason: The downhill-facing vehicle should back up.
+- question: Cannot see truck side mirrors means?
+  choices:
+  - Truck driver cannot see you
+  - Truck driver can see you
+  - You are outside blind spot
+  answer: Truck driver cannot see you
+  reference: §5 p.33
+  reason: You are likely in the No Zone.
+- question: Passenger car stopping distance at 55 mph?
+  choices:
+  - About 300 feet
+  - 200 feet
+  - 400 feet
+  answer: About 300 feet
+  reference: §5 p.36
+  reason: The handbook gives about 300 feet.
+- question: Large vehicle stopping distance at 55 mph?
+  choices:
+  - Up to 400 feet
+  - 250 feet
+  - 300 feet
+  answer: Up to 400 feet
+  reference: §5 p.36
+  reason: A large vehicle may need up to 400 feet.
+- question: Slow-moving vehicle emblem generally means speed of?
+  choices:
+  - 25 mph or less
+  - 35 mph or less
+  - 45 mph or less
+  answer: 25 mph or less
+  reference: §5 p.39
+  reason: The emblem is associated with 25 mph or less.
+- question: Cyclist passing clearance if unable to change lanes?
+  choices:
+  - At least 3 feet
+  - 2 feet
+  - 5 feet
+  answer: At least 3 feet
+  reference: §5 p.40
+  reason: At least three feet.
+- question: Towing vehicle lane?
+  choices:
+  - Far-right/marked slow lane
+  - Far-left lane
+  - Any lane
+  answer: Far-right/marked slow lane
+  reference: §5 p.41
+  reason: Towing vehicles use the right/slow lane.
+- question: With 4+ lanes one direction, towing vehicle may use?
+  choices:
+  - Two rightmost lanes
+  - Any two lanes
+  - Two leftmost lanes
+  answer: Two rightmost lanes
+  reference: §5 p.41
+  reason: Restricted to the two rightmost lanes.
+- question: School-zone speed with children present?
+  choices:
+  - 25 mph within 500 feet
+  - 15 mph within 1,000 feet
+  - 35 mph within 500 feet
+  answer: 25 mph within 500 feet
+  reference: §5 p.41
+  reason: Generally 25 mph within 500 feet.
+- question: Some school zones may be as low as?
+  choices:
+  - 15 mph
+  - 10 mph
+  - 20 mph
+  answer: 15 mph
+  reference: §5 p.41
+  reason: Some are posted 15 mph.
+- question: School bus flashing yellow lights mean?
+  choices:
+  - Slow and prepare to stop
+  - Stop immediately
+  - Pass cautiously
+  answer: Slow and prepare to stop
+  reference: §5 p.41
+  reason: Yellow warns the bus is preparing to stop.
+- question: School bus flashing red lights mean?
+  choices:
+  - Stop until lights stop and children are safe
+  - Slow to 15 mph
+  - Pass on left
+  answer: Stop until lights stop and children are safe
+  reference: §5 pp.41-42
+  reason: Drivers generally must stop.
+- question: School-bus stop violation fine may be up to?
+  choices:
+  - $1,000
+  - $500
+  - $2,500
+  answer: $1,000
+  reference: §5 p.42
+  reason: The handbook states up to $1,000.
+- question: School-bus stop violation suspension may be up to?
+  choices:
+  - 1 year
+  - 30 days
+  - 4 years
+  answer: 1 year
+  reference: §5 p.42
+  reason: The handbook states one year.
+- question: Blind-intersection speed limit?
+  choices:
+  - 15 mph
+  - 20 mph
+  - 25 mph
+  answer: 15 mph
+  reference: §5 p.42
+  reason: The limit is 15 mph.
+- question: Maximum width in definition of an alley?
+  choices:
+  - 25 feet
+  - 20 feet
+  - 30 feet
+  answer: 25 feet
+  reference: §5 p.42
+  reason: An alley is no wider than 25 feet.
+- question: Alley speed limit?
+  choices:
+  - 15 mph
+  - 10 mph
+  - 25 mph
+  answer: 15 mph
+  reference: §5 p.42
+  reason: The limit is 15 mph.
+- question: Limited-visibility railroad crossing speed?
+  choices:
+  - 15 mph within 100 feet
+  - 25 mph within 100 feet
+  - 15 mph within 200 feet
+  answer: 15 mph within 100 feet
+  reference: §5 p.42
+  reason: 15 mph within 100 feet applies when visibility is limited.
+- question: Railroad limited-visibility threshold?
+  choices:
+  - Cannot see 400 feet both ways
+  - Cannot see 200 feet
+  - Cannot see 500 feet
+  answer: Cannot see 400 feet both ways
+  reference: §5 p.42
+  reason: The threshold is 400 feet.
+- question: When warned a train is coming, minimum stop distance from nearest track?
+  choices:
+  - 15 feet
+  - 10 feet
+  - 25 feet
+  answer: 15 feet
+  reference: §5 p.42
+  reason: Stop at least 15 feet away.
+- question: Default business/residential district speed?
+  choices:
+  - 25 mph
+  - 20 mph
+  - 35 mph
+  answer: 25 mph
+  reference: §5 p.43
+  reason: Unless posted otherwise, 25 mph.
+- question: Animal dumping/abandonment highway fine up to?
+  choices:
+  - $1,000
+  - $500
+  - $5,000
+  answer: $1,000
+  reference: §5 p.43
+  reason: The handbook states up to $1,000.
+- question: How far ahead should you scan?
+  choices:
+  - At least 10 seconds
+  - 5 seconds
+  - 20 seconds
+  answer: At least 10 seconds
+  reference: §6 p.47
+  reason: Scan at least 10 seconds ahead.
+- question: Basic safe following interval?
+  choices:
+  - 3 seconds
+  - 2 seconds
+  - 5 seconds
+  answer: 3 seconds
+  reference: §6 p.47
+  reason: Use the three-second rule.
+- question: 'Tailgater behind you: best response when safe?'
+  choices:
+  - Move right and let them pass
+  - Brake-check
+  - Speed up indefinitely
+  answer: Move right and let them pass
+  reference: §6 p.47
+  reason: Maintain course/speed then move right.
+- question: 'Slippery skid: first action?'
+  choices:
+  - Ease off accelerator
+  - Brake hard
+  - Accelerate
+  answer: Ease off accelerator
+  reference: §6 p.50
+  reason: Slowly remove your foot from accelerator.
+- question: 'Slippery skid: braking?'
+  choices:
+  - Avoid brakes
+  - Pump rapidly
+  - Parking brake
+  answer: Avoid brakes
+  reference: §6 p.50
+  reason: The handbook says do not use brakes.
+- question: Skid steering direction?
+  choices:
+  - Direction of skid
+  - Opposite skid
+  - Always straight
+  answer: Direction of skid
+  reference: §6 p.50
+  reason: Steer in the direction of the skid.
+- question: Four-wheel ABS emergency braking?
+  choices:
+  - Firm pedal pressure
+  - Pump rapidly
+  - Parking brake only
+  answer: Firm pedal pressure
+  reference: §6 p.50
+  reason: Use firm pressure with four-wheel ABS.
+- question: Heavy fog headlights?
+  choices:
+  - Low beams
+  - High beams
+  - Parking lights only
+  answer: Low beams
+  reference: §6 p.53
+  reason: High beams reflect glare.
+- question: Fog speed rule?
+  choices:
+  - Be able to stop within visible distance
+  - Always maintain posted limit
+  - Match fastest traffic
+  answer: Be able to stop within visible distance
+  reference: §6 p.53
+  reason: You must be able to stop in visible space.
+- question: Driver may be ticketed for unbelted passenger under age?
+  choices:
+  - '16'
+  - '18'
+  - '21'
+  answer: '16'
+  reference: §6 p.54
+  reason: Driver responsibility applies under 16.
+- question: Rear-facing threshold described for child under 2 also includes under?
+  choices:
+  - 40 lb and 3 ft 4 in
+  - 50 lb and 4 ft
+  - 30 lb and 3 ft
+  answer: 40 lb and 3 ft 4 in
+  reference: §6 p.54
+  reason: The handbook lists under 40 lb and under 3 ft 4 in.
+- question: Child under 8 or shorter than what height generally needs child restraint in rear seat?
+  choices:
+  - 4 ft 9 in
+  - 4 ft 6 in
+  - 5 ft
+  answer: 4 ft 9 in
+  reference: §6 p.54
+  reason: The threshold is 4 ft 9 in.
+- question: Minimum recommended driver distance from airbag cover?
+  choices:
+  - 10 inches
+  - 6 inches
+  - 18 inches
+  answer: 10 inches
+  reference: §6 p.55
+  reason: Sit at least 10 inches away if control can be maintained.
+- question: Child age 6 or younger may be left with a supervisor at least?
+  choices:
+  - 12 years old
+  - 10 years old
+  - 16 years old
+  answer: 12 years old
+  reference: §6 p.55
+  reason: Supervisor must be at least 12.
+- question: Basic Speed Law means?
+  choices:
+  - Never drive faster than safe for conditions
+  - Always drive exactly the posted limit
+  - Always match traffic speed
+  answer: Never drive faster than safe for conditions
+  reference: §6 p.55
+  reason: Safe speed may be below the posted maximum.
+- question: Typical maximum on most California highways unless posted?
+  choices:
+  - 65 mph
+  - 55 mph
+  - 70 mph
+  answer: 65 mph
+  reference: §6 p.55
+  reason: The handbook gives 65 mph.
+- question: Two-lane undivided highway maximum unless posted?
+  choices:
+  - 55 mph
+  - 65 mph
+  - 45 mph
+  answer: 55 mph
+  reference: §6 p.55
+  reason: The handbook gives 55 mph.
+- question: Vehicle towing a trailer maximum unless posted otherwise?
+  choices:
+  - 55 mph
+  - 65 mph
+  - 70 mph
+  answer: 55 mph
+  reference: §6 p.55
+  reason: Towing vehicles are limited to 55 mph.
+- question: 'Wheels drift off pavement: first control action?'
+  choices:
+  - Grip steering wheel firmly
+  - Turn sharply back
+  - Brake hard
+  answer: Grip steering wheel firmly
+  reference: §6 p.56
+  reason: Grip firmly, ease off accelerator, brake gently, then return carefully.
+- question: 'Disabled on freeway: assistance number noted by handbook?'
+  choices:
+  - '511'
+  - '311'
+  - '811'
+  answer: '511'
+  reference: §6 p.56
+  reason: The handbook directs drivers to dial 511 or use a call box.
+- question: One standard drink of 80-proof liquor in the BAC table equals?
+  choices:
+  - 1.5 oz
+  - 1 oz
+  - 2.5 oz
+  answer: 1.5 oz
+  reference: §7 p.57
+  reason: The table defines one liquor drink as 1.5 oz of 80-proof liquor.
+- question: One standard beer in the BAC table equals?
+  choices:
+  - 12 oz at 5%
+  - 16 oz at 5%
+  - 8 oz at 8%
+  answer: 12 oz at 5%
+  reference: §7 p.57
+  reason: The table uses 12 oz of 5% beer.
+- question: One standard wine serving in the BAC table equals?
+  choices:
+  - 5 oz at 12%
+  - 8 oz at 12%
+  - 4 oz at 20%
+  answer: 5 oz at 12%
+  reference: §7 p.57
+  reason: The table uses 5 oz of 12% wine.
+- question: BAC table adjustment for elapsed time?
+  choices:
+  - Subtract 0.01% per 40 minutes
+  - Subtract 0.01% per hour
+  - Subtract 0.02% per 40 minutes
+  answer: Subtract 0.01% per 40 minutes
+  reference: §7 p.57
+  reason: The handbook table says subtract 0.01% per 40 minutes.
+- question: California implied-consent testing after DUI suspicion may include?
+  choices:
+  - Breath, blood, or urine
+  - Vision test only
+  - Road test only
+  answer: Breath, blood, or urine
+  reference: §7 p.60
+  reason: Driving in California implies consent to chemical testing under the described circumstances.
+- question: Refusing required DUI chemical testing can cause DMV to?
+  choices:
+  - Suspend or revoke driving privilege
+  - Issue only a warning
+  - Require only a written test
+  answer: Suspend or revoke driving privilege
+  reference: §7 p.60
+  reason: Refusal can result in suspension or revocation.
+- question: A DUI conviction remains on the driver record for?
+  choices:
+  - 10 years
+  - 5 years
+  - 7 years
+  answer: 10 years
+  reference: §7 p.60
+  reason: All DUI convictions remain for 10 years.
+- question: Under 21, alcohol inside a vehicle generally requires an accompanying person at least?
+  choices:
+  - 21 years old
+  - 18 years old
+  - 25 years old
+  answer: 21 years old
+  reference: §7 p.60
+  reason: The accompanying person generally must be 21 or older.
+- question: Under-21 alcohol vehicle impound may last up to?
+  choices:
+  - 30 days
+  - 10 days
+  - 90 days
+  answer: 30 days
+  reference: §7 p.60
+  reason: Law enforcement may impound the vehicle for up to 30 days.
+- question: Under-21 alcohol violation can suspend a license for?
+  choices:
+  - 1 year
+  - 30 days
+  - 4 years
+  answer: 1 year
+  reference: §7 pp.60-61
+  reason: The court may suspend for one year.
+- question: Minimum liability coverage for one death/injury?
+  choices:
+  - $30,000
+  - $15,000
+  - $60,000
+  answer: $30,000
+  reference: §8 p.61
+  reason: Current handbook minimum is $30,000.
+- question: Minimum liability coverage for death/injury to more than one person?
+  choices:
+  - $60,000
+  - $30,000
+  - $100,000
+  answer: $60,000
+  reference: §8 p.61
+  reason: Current handbook minimum is $60,000.
+- question: Minimum property-damage liability coverage?
+  choices:
+  - $15,000
+  - $5,000
+  - $30,000
+  answer: $15,000
+  reference: §8 p.61
+  reason: Current handbook minimum is $15,000.
+- question: Collision without proper insurance can suspend driving privilege up to?
+  choices:
+  - 4 years
+  - 1 year
+  - 10 years
+  answer: 4 years
+  reference: §8 p.61
+  reason: The handbook states up to four years.
+- question: During the last three years of that suspension, reinstatement may require maintaining?
+  choices:
+  - SR-22/SR-1P proof
+  - Only vehicle registration
+  - A passport
+  answer: SR-22/SR-1P proof
+  reference: §8 p.61
+  reason: Proof of insurance must be filed and maintained.
+- question: After a collision with injury, call?
+  choices:
+  - 911 immediately
+  - DMV first
+  - Insurance only
+  answer: 911 immediately
+  reference: §8 p.62
+  reason: Call 911 right away if anyone is hurt.
+- question: Collision with injury or death must be reported to law enforcement within?
+  choices:
+  - 24 hours
+  - 10 days
+  - 72 hours
+  answer: 24 hours
+  reference: §8 p.62
+  reason: The law-enforcement report deadline is 24 hours.
+- question: DMV SR-1 collision report deadline?
+  choices:
+  - 10 days
+  - 24 hours
+  - 30 days
+  answer: 10 days
+  reference: §8 p.62
+  reason: Qualifying collisions must be reported to DMV within 10 days.
+- question: DMV collision reporting property-damage threshold?
+  choices:
+  - More than $1,000
+  - At least $500
+  - More than $5,000
+  answer: More than $1,000
+  reference: §8 p.62
+  reason: The current handbook says more than $1,000.
+- question: Does a minor injury trigger DMV collision reporting?
+  choices:
+  - 'Yes'
+  - No, only hospitalization
+  - Only if driver was at fault
+  answer: 'Yes'
+  reference: §8 p.62
+  reason: Any injury or death triggers reporting, even minor injury.
+- question: Does a qualifying collision on private property require SR-1 reporting?
+  choices:
+  - 'Yes'
+  - 'No'
+  - Only if police respond
+  answer: 'Yes'
+  reference: §8 p.62
+  reason: The reporting rule also applies on private property.
+- question: Who must file the SR-1 for a qualifying collision?
+  choices:
+  - Each driver or representative
+  - Only the at-fault driver
+  - Law enforcement automatically
+  answer: Each driver or representative
+  reference: §8 p.62
+  reason: Each driver is responsible; law enforcement does not file it for you.
+- question: Failure to file a required SR-1 can result in?
+  choices:
+  - Suspension of driving privilege
+  - Only a warning
+  - Vehicle title cancellation only
+  answer: Suspension of driving privilege
+  reference: §8 p.62
+  reason: The handbook states driving privilege will be suspended.
+- question: If you hit an unattended parked vehicle and cannot find the owner, you should?
+  choices:
+  - Leave identifying contact information and report the collision
+  - Leave without a note
+  - Wait exactly 24 hours
+  answer: Leave identifying contact information and report the collision
+  reference: §8 p.62
+  reason: Leave a securely attached note and report the collision.
+- question: If you injure an animal with your vehicle, you should?
+  choices:
+  - Call humane society or law enforcement
+  - Move the animal yourself
+  - Leave if traffic is heavy
+  answer: Call humane society or law enforcement
+  reference: §8 p.62
+  reason: Call for help and do not try to move an injured animal.
+- question: A hit-and-run is?
+  choices:
+  - Failing to stop or leaving a collision scene
+  - Reporting a collision late
+  - Driving without collision coverage
+  answer: Failing to stop or leaving a collision scene
+  reference: §8 p.62
+  reason: Drivers involved in collisions must stop.
+- question: At a law-enforcement stop, driver must produce?
+  choices:
+  - License, insurance, and registration
+  - Passport and birth certificate
+  - Only license
+  answer: License, insurance, and registration
+  reference: §4 pp.24-25
+  reason: The handbook lists all three documents.
+- question: During a traffic stop, an officer may require occupants to?
+  choices:
+  - Exit or remain inside the vehicle
+  - Always exit immediately without instruction
+  - Refuse all instructions
+  answer: Exit or remain inside the vehicle
+  reference: §4 p.25
+  reason: Drivers and passengers must comply with lawful directions to exit or remain.
+- question: When an officer signals you to stop, acknowledge by using?
+  choices:
+  - Right turn signal
+  - Hazard lights only
+  - Left turn signal
+  answer: Right turn signal
+  reference: §4 p.24
+  reason: The handbook instructs use of the right turn signal.
+- question: At a traffic stop, pull over preferably to?
+  choices:
+  - The right shoulder
+  - The center divider
+  - The left lane
+  answer: The right shoulder
+  reference: §4 p.24
+  reason: Move completely onto the right shoulder.
+- question: When parking downhill with a curb, front wheels should point?
+  choices:
+  - Toward the curb
+  - Away from curb
+  - Straight
+  answer: Toward the curb
+  reference: §4 Parking
+  reason: This helps prevent rolling into traffic.
+- question: When parking uphill with a curb, front wheels should point?
+  choices:
+  - Away from curb
+  - Toward curb
+  - Straight
+  answer: Away from curb
+  reference: §4 Parking
+  reason: Turn away so rollback catches the curb.
+- question: A red curb means?
+  choices:
+  - No stopping, standing, or parking
+  - Passenger loading
+  - Disabled parking
+  answer: No stopping, standing, or parking
+  reference: §4 Parking
+  reason: Red prohibits stopping, standing, and parking.
+- question: A blue curb means?
+  choices:
+  - Disabled placard/plate parking
+  - Freight loading only
+  - No parking
+  answer: Disabled placard/plate parking
+  reference: §4 Parking
+  reason: Blue is reserved for disabled parking.
+- question: A white curb generally means?
+  choices:
+  - Passenger loading/unloading or mail
+  - No stopping
+  - Long-term parking
+  answer: Passenger loading/unloading or mail
+  reference: §4 Parking
+  reason: White is for brief passenger/mail purposes as posted.
+- question: A yellow curb generally means?
+  choices:
+  - Loading/unloading for posted time
+  - Disabled parking
+  - No stopping at any time
+  answer: Loading/unloading for posted time
+  reference: §4 Parking
+  reason: Yellow is for loading/unloading subject to local signs/times.
+- question: A green curb generally means?
+  choices:
+  - Limited-time parking
+  - No parking
+  - Bus only
+  answer: Limited-time parking
+  reference: §4 Parking
+  reason: Green indicates limited-time parking.
+- question: When being passed, you should?
+  choices:
+  - Maintain lane position and speed
+  - Speed up
+  - Move onto shoulder
+  answer: Maintain lane position and speed
+  reference: §4 p.17
+  reason: Allow the pass; do not increase speed.
+- question: Passing on the right may be legal on an open highway when?
+  choices:
+  - Two or more lanes go your direction
+  - Only one lane exists
+  - You must use the shoulder
+  answer: Two or more lanes go your direction
+  reference: §4 p.17
+  reason: One permitted case is two or more same-direction lanes.
+- question: A vehicle ahead signals left; passing it on the left is?
+  choices:
+  - Unsafe and should not be done
+  - Always required
+  - Legal if you honk
+  answer: Unsafe and should not be done
+  reference: §4 p.17
+  reason: Never pass on the left of a vehicle signaling a left turn.
+- question: When merging across several lanes, you should?
+  choices:
+  - Cross one lane at a time
+  - Cross all lanes in one movement
+  - Stop between lanes
+  answer: Cross one lane at a time
+  reference: §4 p.16
+  reason: Signal and cross lanes one at a time.
+- question: At a limit line, stop?
+  choices:
+  - Before the line
+  - With front wheels over it
+  - After the crosswalk
+  answer: Before the line
+  reference: §4 p.14
+  reason: Stop behind the limit line.
+- question: 'No limit line but crosswalk present: stop?'
+  choices:
+  - Before entering crosswalk
+  - In the middle of crosswalk
+  - After crosswalk
+  answer: Before entering crosswalk
+  reference: §4 p.14
+  reason: Stop before the crosswalk.
+- question: 'No limit line or crosswalk: stop?'
+  choices:
+  - Before entering intersection
+  - After entering intersection
+  - At nearest driveway
+  answer: Before entering intersection
+  reference: §4 p.14
+  reason: Stop before entering the intersection.
+- question: A dedicated right-turn lane that does not merge may allow a turn without stopping unless?
+  choices:
+  - A signal/sign controls that lane
+  - Main through-light is red
+  - There are no cars
+  answer: A signal/sign controls that lane
+  reference: §4 p.15
+  reason: Obey any signal or sign governing the dedicated lane.
+- question: Public transit bus lane may be crossed to?
+  choices:
+  - Make a right turn
+  - Pass traffic
+  - Park briefly
+  answer: Make a right turn
+  reference: §4 p.14
+  reason: Crossing is allowed for a right turn.
+- question: At a railroad crossing, lowered gates may be driven around?
+  choices:
+  - Never
+  - If no train is visible
+  - After 30 seconds
+  answer: Never
+  reference: §5 p.42
+  reason: Never go under or around lowered gates.
+- question: After railroad red lights stop?
+  choices:
+  - Proceed only when safe
+  - Proceed while lights still flash if gate rises
+  - Always wait five minutes
+  answer: Proceed only when safe
+  reference: §5 p.42
+  reason: Do not cross until flashing red lights stop and it is safe.
+- question: If there is not enough room beyond railroad tracks?
+  choices:
+  - Do not begin crossing
+  - Stop on tracks
+  - Follow vehicle ahead onto tracks
+  answer: Do not begin crossing
+  reference: §5 p.42
+  reason: Never stop on railroad tracks.
+- question: School bus opposite side of divided/multilane highway with 2+ lanes each direction?
+  choices:
+  - You generally do not need to stop
+  - You always must stop
+  - You must stop only at night
+  answer: You generally do not need to stop
+  reference: §5 p.42
+  reason: The handbook gives this exception.
+- question: Move-over law applies to stationary emergency/tow/road-work vehicles with warning lights?
+  choices:
+  - 'Yes'
+  - 'No'
+  - Only at night
+  answer: 'Yes'
+  reference: §5 p.41
+  reason: Drivers must move over and slow down.
+- question: Hazardous-load placard vehicles must do what before railroad tracks?
+  choices:
+  - Stop
+  - Accelerate
+  - Use hazard lights only
+  answer: Stop
+  reference: §5 p.41
+  reason: Placarded hazardous-load vehicles must stop.
+- question: Driving in heavy fog with only parking/fog lights is?
+  choices:
+  - Not recommended/insufficient; use low beams
+  - Required
+  - Best practice
+  answer: Not recommended/insufficient; use low beams
+  reference: §6 p.53
+  reason: The handbook says never drive using only parking or fog lights.
+- question: A rear-facing child restraint may be placed in front of an active airbag?
+  choices:
+  - 'No'
+  - 'Yes'
+  - Only at night
+  answer: 'No'
+  reference: §6 p.54
+  reason: A rear-facing child may not ride in the front seat of an airbag-equipped vehicle.
+- question: Leaving a child age 6 or younger unattended is generally?
+  choices:
+  - Illegal
+  - Legal for 30 minutes
+  - Legal with windows open
+  answer: Illegal
+  reference: §6 p.55
+  reason: A child six or younger cannot be left unattended.
+- question: If hazards exist on both sides, you should?
+  choices:
+  - Handle one hazard at a time and give more space to the greater danger
+  - Split the difference at full speed
+  - Stop in your lane
+  answer: Handle one hazard at a time and give more space to the greater danger
+  reference: §6 p.55
+  reason: The handbook advises taking one danger at a time.
+- question: A collision report added to your DMV record depends on fault?
+  choices:
+  - 'No'
+  - Yes, only at-fault collisions
+  - Only if cited
+  answer: 'No'
+  reference: §8 p.63
+  reason: Qualifying collisions are recorded regardless of fault.
+- question: 'Which answer correctly applies the California rule tested here: Provisional driver under 18: restricted driving
+    hours during first 12 months?'
+  choices:
+  - 10 p.m.–6 a.m.
+  - 11 p.m.–5 a.m.
+  - Midnight–4 a.m.
+  answer: 11 p.m.–5 a.m.
+  reference: §2 p.2
+  reason: The restriction is 11 p.m. to 5 a.m.
+- question: 'Which answer correctly applies the California rule tested here: Provisional driver: restricted passenger age?'
+  choices:
+  - Under 18
+  - Under 20
+  - Under 21
+  answer: Under 20
+  reference: §2 p.2
+  reason: Passengers under 20 are restricted unless a qualifying adult is present.
+- question: 'Which answer correctly applies the California rule tested here: Qualifying supervising California-licensed driver
+    minimum age?'
+  choices:
+  - '21'
+  - '25'
+  - '30'
+  answer: '25'
+  reference: §2 p.2
+  reason: Minimum age is 25.
+- question: 'Which answer correctly applies the California rule tested here: Medical exception note must be signed by?'
+  choices:
+  - Parent only
+  - Physician
+  - Employer
+  answer: Physician
+  reference: §2 p.2
+  reason: A physician must sign the medical-need note.
+- question: 'Which answer correctly applies the California rule tested here: Illegal headset/earplug use while driving?'
+  choices:
+  - Covering one ear
+  - Covering both ears
+  - Using one hearing aid
+  answer: Covering both ears
+  reference: §3 p.3
+  reason: Both ears may not be covered.
+- question: 'Which answer correctly applies the California rule tested here: Physician reporting threshold for certain driving-affecting
+    conditions?'
+  choices:
+  - Age 12
+  - Age 14
+  - Age 16
+  answer: Age 14
+  reference: §3 p.3
+  reason: The handbook gives age 14.
+- question: 'Which answer correctly applies the California rule tested here: Normal turn-signal distance?'
+  choices:
+  - 50 feet
+  - At least 100 feet
+  - 200 feet
+  answer: At least 100 feet
+  reference: §3 p.4
+  reason: Signal at least 100 feet before turning.
+- question: 'Which answer correctly applies the California rule tested here: Freeway lane-change signal duration?'
+  choices:
+  - 3 seconds
+  - At least 5 seconds
+  - 10 seconds
+  answer: At least 5 seconds
+  reference: §3 p.4
+  reason: Signal at least five seconds.
+- question: 'Which answer correctly applies the California rule tested here: Horn on narrow mountain road when visibility
+    is less than?'
+  choices:
+  - 100 feet
+  - 200 feet
+  - 500 feet
+  answer: 200 feet
+  reference: §3 p.4
+  reason: Use the horn if you cannot see at least 200 feet ahead.
+- question: 'Which answer correctly applies the California rule tested here: Dim high beams for oncoming vehicle within?'
+  choices:
+  - 300 feet
+  - 500 feet
+  - 700 feet
+  answer: 500 feet
+  reference: §3 p.4
+  reason: Oncoming threshold is 500 feet.
+- question: 'Which answer correctly applies the California rule tested here: Dim high beams when following within?'
+  choices:
+  - 200 feet
+  - 300 feet
+  - 500 feet
+  answer: 300 feet
+  reference: §3 p.4
+  reason: Following threshold is 300 feet.
+- question: 'Which answer correctly applies the California rule tested here: Headlights required if too dark to see from?'
+  choices:
+  - 500 feet
+  - 1,000 feet
+  - 1,500 feet
+  answer: 1,000 feet
+  reference: §3 p.4
+  reason: The visibility threshold is 1,000 feet.
+- question: 'Which answer correctly applies the California rule tested here: Headlights begin when?'
+  choices:
+  - At sunset
+  - 30 minutes after sunset
+  - 1 hour after sunset
+  answer: 30 minutes after sunset
+  reference: §3 p.4
+  reason: Required beginning 30 minutes after sunset.
+- question: 'Which answer correctly applies the California rule tested here: Headlights remain on until?'
+  choices:
+  - Sunrise
+  - 30 minutes before sunrise
+  - 1 hour before sunrise
+  answer: 30 minutes before sunrise
+  reference: §3 p.4
+  reason: Required until 30 minutes before sunrise.
+- question: 'Which answer correctly applies the California rule tested here: Wipers required by rain/fog/snow: which lights?'
+  choices:
+  - Parking lights only
+  - Low-beam headlights
+  - High beams
+  answer: Low-beam headlights
+  reference: §3 p.4
+  reason: Low beams are required in these conditions.
+- question: 'Which answer correctly applies the California rule tested here: Two double-yellow sets spaced 2+ feet apart mean?'
+  choices:
+  - Passing lane
+  - Barrier
+  - HOV entrance
+  answer: Barrier
+  reference: §4 p.6
+  reason: They form a barrier.
+- question: 'Which answer correctly applies the California rule tested here: May you change lanes across double solid white
+    lines?'
+  choices:
+  - Yes, to pass
+  - 'No'
+  - Yes, below 25 mph
+  answer: 'No'
+  reference: §4 p.7
+  reason: Wait for a broken white line.
+- question: 'Which answer correctly applies the California rule tested here: Far-left lane number?'
+  choices:
+  - Number 0
+  - Number 1
+  - Number 2
+  answer: Number 1
+  reference: §4 p.7
+  reason: The far-left lane is Number 1.
+- question: 'Which answer correctly applies the California rule tested here: Motorcycle HOV use?'
+  choices:
+  - Only with passenger
+  - Allowed unless otherwise posted
+  - Never
+  answer: Allowed unless otherwise posted
+  reference: §4 p.8
+  reason: Motorcycles generally may use HOV lanes.
+- question: 'Which answer correctly applies the California rule tested here: Maximum travel in center left-turn lane?'
+  choices:
+  - 100 feet
+  - 200 feet
+  - 300 feet
+  answer: 200 feet
+  reference: §4 p.9
+  reason: Maximum is 200 feet.
+- question: 'Which answer correctly applies the California rule tested here: Slow vehicle turnout threshold on two-lane road?'
+  choices:
+  - 3 or more
+  - 5 or more following vehicles
+  - 7 or more
+  answer: 5 or more following vehicles
+  reference: §4 p.9
+  reason: Use a turnout when five or more vehicles follow.
+- question: 'Which answer correctly applies the California rule tested here: Enter bike lane for a turn within?'
+  choices:
+  - 100 feet
+  - 200 feet
+  - 300 feet
+  answer: 200 feet
+  reference: §4 pp.9-11
+  reason: Entry is permitted within 200 feet of the turn.
+- question: 'Which answer correctly applies the California rule tested here: Minimum cyclist clearance when unable to change
+    lanes?'
+  choices:
+  - 2 feet
+  - 3 feet
+  - 4 feet
+  answer: 3 feet
+  reference: §4 p.11
+  reason: At least three feet.
+- question: 'Which answer correctly applies the California rule tested here: Normal right turn ends in?'
+  choices:
+  - Any open lane
+  - Rightmost lane
+  - Leftmost lane
+  answer: Rightmost lane
+  reference: §4 p.11
+  reason: Begin and end near the right edge.
+- question: 'Which answer correctly applies the California rule tested here: Right on red requires?'
+  choices:
+  - Slow to 5 mph
+  - Complete stop unless prohibited
+  - No stop if clear
+  answer: Complete stop unless prohibited
+  reference: §4 p.11
+  reason: A complete stop is required.
+- question: 'Which answer correctly applies the California rule tested here: Right turn at red arrow?'
+  choices:
+  - Allowed after stop
+  - Wait until signal permits
+  - Allowed if no pedestrians
+  answer: Wait until signal permits
+  reference: §4 p.11
+  reason: A red arrow prohibits the turn.
+- question: 'Which answer correctly applies the California rule tested here: While waiting to turn left, wheels should point?'
+  choices:
+  - Left
+  - Straight ahead
+  - Right
+  answer: Straight ahead
+  reference: §4 p.12
+  reason: Straight wheels reduce rear-end push risk.
+- question: 'Which answer correctly applies the California rule tested here: Left on red may be legal from?'
+  choices:
+  - Two-way to one-way
+  - One-way to one-way
+  - Any street to one-way
+  answer: One-way to one-way
+  reference: §4 p.13
+  reason: Allowed one-way to one-way unless prohibited.
+- question: 'Which answer correctly applies the California rule tested here: Residential U-turn: no approaching vehicle within?'
+  choices:
+  - 100 feet
+  - 200 feet
+  - 300 feet
+  answer: 200 feet
+  reference: §4 p.13
+  reason: The clear-distance rule is 200 feet.
+- question: 'Which answer correctly applies the California rule tested here: U-turn visibility required in each direction?'
+  choices:
+  - 100 feet
+  - 200 feet
+  - 500 feet
+  answer: 200 feet
+  reference: §4 p.13
+  reason: Do not U-turn with less than 200 feet visibility.
+- question: 'Which answer correctly applies the California rule tested here: U-turn on one-way street?'
+  choices:
+  - Allowed at intersection
+  - Prohibited
+  - Allowed if clear
+  answer: Prohibited
+  reference: §4 p.13
+  reason: One-way streets prohibit U-turns.
+- question: 'Which answer correctly applies the California rule tested here: Highway entry speed?'
+  choices:
+  - 15 mph below traffic
+  - At or near traffic speed
+  - Faster than traffic
+  answer: At or near traffic speed
+  reference: §4 p.15
+  reason: Merge at or near traffic speed.
+- question: 'Which answer correctly applies the California rule tested here: Basic highway merge following interval?'
+  choices:
+  - 1 second
+  - 3 seconds
+  - 6 seconds
+  answer: 3 seconds
+  reference: §4 p.16
+  reason: Use three seconds.
+- question: 'Which answer correctly applies the California rule tested here: Freeway exit signal timing?'
+  choices:
+  - 3 seconds/about 200 feet
+  - 5 seconds/about 400 feet
+  - 10 seconds/about 1,000 feet
+  answer: 5 seconds/about 400 feet
+  reference: §4 p.16
+  reason: The handbook gives five seconds/about 400 feet.
+- question: 'Which answer correctly applies the California rule tested here: City-street entry gap?'
+  choices:
+  - 75 feet
+  - About 150 feet
+  - 300 feet
+  answer: About 150 feet
+  reference: §4 p.16
+  reason: Half a city block is about 150 feet.
+- question: 'Which answer correctly applies the California rule tested here: Highway entry gap?'
+  choices:
+  - 150 feet
+  - About 300 feet
+  - 600 feet
+  answer: About 300 feet
+  reference: §4 p.16
+  reason: A full highway block is about 300 feet.
+- question: 'Which answer correctly applies the California rule tested here: Safe passing visibility near hill/curve?'
+  choices:
+  - One-quarter mile
+  - At least one-third mile
+  - One mile
+  answer: At least one-third mile
+  reference: §4 p.17
+  reason: The guideline is one-third mile.
+- question: 'Which answer correctly applies the California rule tested here: No passing within what distance of intersection/bridge/tunnel/rail
+    crossing?'
+  choices:
+  - 50 feet
+  - 100 feet
+  - 200 feet
+  answer: 100 feet
+  reference: §4 p.17
+  reason: The distance is 100 feet.
+- question: 'Which answer correctly applies the California rule tested here: Drive off pavement to pass?'
+  choices:
+  - Below 25 mph only
+  - Never
+  - If shoulder clear
+  answer: Never
+  reference: §4 p.17
+  reason: Never leave the paved/main-traveled roadway to pass.
+- question: 'Which answer correctly applies the California rule tested here: Parallel-parking space extra length?'
+  choices:
+  - 1 foot
+  - At least 3 feet
+  - 6 feet
+  answer: At least 3 feet
+  reference: §4 p.18
+  reason: Find a space at least three feet longer.
+- question: 'Which answer correctly applies the California rule tested here: Parallel-parking side gap before backing?'
+  choices:
+  - 1 foot
+  - About 2 feet
+  - 4 feet
+  answer: About 2 feet
+  reference: §4 p.18
+  reason: Leave about two feet.
+- question: 'Which answer correctly applies the California rule tested here: Parallel-parking backing angle?'
+  choices:
+  - 30°
+  - About 45°
+  - 60°
+  answer: About 45°
+  reference: §4 p.18
+  reason: Back at about 45 degrees.
+- question: 'Which answer correctly applies the California rule tested here: Maximum curb distance after parallel parking?'
+  choices:
+  - 6 inches
+  - 18 inches
+  - 36 inches
+  answer: 18 inches
+  reference: §4 p.18
+  reason: Park within 18 inches.
+- question: 'Which answer correctly applies the California rule tested here: No parking within fire hydrant distance?'
+  choices:
+  - 10 feet
+  - 15 feet
+  - 20 feet
+  answer: 15 feet
+  reference: §4 Parking
+  reason: The standard distance is 15 feet.
+- question: 'Which answer correctly applies the California rule tested here: No parking within ordinary crosswalk distance?'
+  choices:
+  - 10 feet
+  - 20 feet
+  - 30 feet
+  answer: 20 feet
+  reference: §4 p.23
+  reason: The handbook gives 20 feet.
+- question: 'Which answer correctly applies the California rule tested here: Crosswalk with curb extension: no-parking distance?'
+  choices:
+  - 10 feet
+  - 15 feet
+  - 20 feet
+  answer: 15 feet
+  reference: §4 p.23
+  reason: The curb-extension distance is 15 feet.
+- question: 'Which answer correctly applies the California rule tested here: Freeway-stopped vehicle may be removed after
+    more than?'
+  choices:
+  - 2 hours
+  - 4 hours
+  - 8 hours
+  answer: 4 hours
+  reference: §4 p.24
+  reason: The handbook gives four hours.
+- question: 'Which answer correctly applies the California rule tested here: Flashing red signal means?'
+  choices:
+  - Slow and proceed
+  - Stop, then proceed when safe
+  - Yield without stopping
+  answer: Stop, then proceed when safe
+  reference: §5 p.27
+  reason: Treat it like a stop sign.
+- question: 'Which answer correctly applies the California rule tested here: Flashing yellow signal means?'
+  choices:
+  - Stop completely
+  - Slow and proceed with caution
+  - Speed up
+  answer: Slow and proceed with caution
+  reference: §5 Traffic Signals
+  reason: Proceed cautiously.
+- question: 'Which answer correctly applies the California rule tested here: Solid yellow signal means?'
+  choices:
+  - Speed up
+  - Stop if you can safely
+  - Always continue
+  answer: Stop if you can safely
+  reference: §5 p.27
+  reason: Yellow warns red is imminent.
+- question: 'Which answer correctly applies the California rule tested here: Red arrow means?'
+  choices:
+  - Turn after yielding
+  - Stop; do not turn until permitted
+  - Treat as flashing red
+  answer: Stop; do not turn until permitted
+  reference: §5 p.27
+  reason: A red arrow prohibits the indicated turn.
+- question: 'Which answer correctly applies the California rule tested here: Uncontrolled intersection simultaneous arrival:
+    yield to?'
+  choices:
+  - Road user on your left
+  - Road user on your right
+  - Larger vehicle
+  answer: Road user on your right
+  reference: §5 p.31
+  reason: Yield to the right.
+- question: 'Which answer correctly applies the California rule tested here: Uncontrolled T intersection: who has priority?'
+  choices:
+  - Traffic on terminating road
+  - Traffic on through road
+  - Left-turning traffic
+  answer: Traffic on through road
+  reference: §5 p.31
+  reason: Through-road traffic has right-of-way.
+- question: 'Which answer correctly applies the California rule tested here: Green light but intersection blocked?'
+  choices:
+  - Enter and wait
+  - Wait until you can completely cross
+  - Use shoulder
+  answer: Wait until you can completely cross
+  reference: §5 p.31
+  reason: Do not block the intersection.
+- question: 'Which answer correctly applies the California rule tested here: Roundabout direction?'
+  choices:
+  - Clockwise
+  - Counterclockwise
+  - Either
+  answer: Counterclockwise
+  reference: §5 p.32
+  reason: Traffic circulates counterclockwise.
+- question: 'Which answer correctly applies the California rule tested here: Entering roundabout: yield to?'
+  choices:
+  - Traffic behind you
+  - Traffic already circulating
+  - Only pedestrians
+  answer: Traffic already circulating
+  reference: §5 p.32
+  reason: Circulating traffic has priority.
+- question: 'Which answer correctly applies the California rule tested here: Missed roundabout exit?'
+  choices:
+  - Stop and reverse
+  - Continue around
+  - U-turn inside
+  answer: Continue around
+  reference: §5 p.32
+  reason: Continue around to the exit again.
+- question: 'Which answer correctly applies the California rule tested here: Guide dog/white cane pedestrian right-of-way?'
+  choices:
+  - Marked crosswalks only
+  - At all times
+  - Green signal only
+  answer: At all times
+  reference: §5 p.33
+  reason: They have right-of-way at all times.
+- question: 'Which answer correctly applies the California rule tested here: Steep narrow road: which vehicle has right-of-way?'
+  choices:
+  - Downhill-facing vehicle
+  - Uphill-facing vehicle
+  - Larger vehicle
+  answer: Uphill-facing vehicle
+  reference: §5 p.33
+  reason: The downhill-facing vehicle should back up.
+- question: 'Which answer correctly applies the California rule tested here: Cannot see truck side mirrors means?'
+  choices:
+  - Truck driver can see you
+  - Truck driver cannot see you
+  - You are outside blind spot
+  answer: Truck driver cannot see you
+  reference: §5 p.33
+  reason: You are likely in the No Zone.
+- question: 'Which answer correctly applies the California rule tested here: Passenger car stopping distance at 55 mph?'
+  choices:
+  - 200 feet
+  - About 300 feet
+  - 400 feet
+  answer: About 300 feet
+  reference: §5 p.36
+  reason: The handbook gives about 300 feet.
+- question: 'Which answer correctly applies the California rule tested here: Large vehicle stopping distance at 55 mph?'
+  choices:
+  - 250 feet
+  - Up to 400 feet
+  - 300 feet
+  answer: Up to 400 feet
+  reference: §5 p.36
+  reason: A large vehicle may need up to 400 feet.
+- question: 'Which answer correctly applies the California rule tested here: Slow-moving vehicle emblem generally means speed
+    of?'
+  choices:
+  - 35 mph or less
+  - 25 mph or less
+  - 45 mph or less
+  answer: 25 mph or less
+  reference: §5 p.39
+  reason: The emblem is associated with 25 mph or less.
+- question: 'Which answer correctly applies the California rule tested here: Cyclist passing clearance if unable to change
+    lanes?'
+  choices:
+  - 2 feet
+  - At least 3 feet
+  - 5 feet
+  answer: At least 3 feet
+  reference: §5 p.40
+  reason: At least three feet.
+- question: 'Which answer correctly applies the California rule tested here: Towing vehicle lane?'
+  choices:
+  - Far-left lane
+  - Far-right/marked slow lane
+  - Any lane
+  answer: Far-right/marked slow lane
+  reference: §5 p.41
+  reason: Towing vehicles use the right/slow lane.
+- question: 'Which answer correctly applies the California rule tested here: With 4+ lanes one direction, towing vehicle may
+    use?'
+  choices:
+  - Any two lanes
+  - Two rightmost lanes
+  - Two leftmost lanes
+  answer: Two rightmost lanes
+  reference: §5 p.41
+  reason: Restricted to the two rightmost lanes.
+- question: 'Which answer correctly applies the California rule tested here: School-zone speed with children present?'
+  choices:
+  - 15 mph within 1,000 feet
+  - 25 mph within 500 feet
+  - 35 mph within 500 feet
+  answer: 25 mph within 500 feet
+  reference: §5 p.41
+  reason: Generally 25 mph within 500 feet.
+- question: 'Which answer correctly applies the California rule tested here: Some school zones may be as low as?'
+  choices:
+  - 10 mph
+  - 15 mph
+  - 20 mph
+  answer: 15 mph
+  reference: §5 p.41
+  reason: Some are posted 15 mph.
+- question: 'Which answer correctly applies the California rule tested here: School bus flashing yellow lights mean?'
+  choices:
+  - Stop immediately
+  - Slow and prepare to stop
+  - Pass cautiously
+  answer: Slow and prepare to stop
+  reference: §5 p.41
+  reason: Yellow warns the bus is preparing to stop.
+- question: 'Which answer correctly applies the California rule tested here: School bus flashing red lights mean?'
+  choices:
+  - Slow to 15 mph
+  - Stop until lights stop and children are safe
+  - Pass on left
+  answer: Stop until lights stop and children are safe
+  reference: §5 pp.41-42
+  reason: Drivers generally must stop.
+- question: 'Which answer correctly applies the California rule tested here: School-bus stop violation fine may be up to?'
+  choices:
+  - $500
+  - $1,000
+  - $2,500
+  answer: $1,000
+  reference: §5 p.42
+  reason: The handbook states up to $1,000.
+- question: 'Which answer correctly applies the California rule tested here: School-bus stop violation suspension may be up
+    to?'
+  choices:
+  - 30 days
+  - 1 year
+  - 4 years
+  answer: 1 year
+  reference: §5 p.42
+  reason: The handbook states one year.
+- question: 'Which answer correctly applies the California rule tested here: Blind-intersection speed limit?'
+  choices:
+  - 20 mph
+  - 15 mph
+  - 25 mph
+  answer: 15 mph
+  reference: §5 p.42
+  reason: The limit is 15 mph.
+- question: 'Which answer correctly applies the California rule tested here: Maximum width in definition of an alley?'
+  choices:
+  - 20 feet
+  - 25 feet
+  - 30 feet
+  answer: 25 feet
+  reference: §5 p.42
+  reason: An alley is no wider than 25 feet.
+- question: 'Which answer correctly applies the California rule tested here: Alley speed limit?'
+  choices:
+  - 10 mph
+  - 15 mph
+  - 25 mph
+  answer: 15 mph
+  reference: §5 p.42
+  reason: The limit is 15 mph.
+- question: 'Which answer correctly applies the California rule tested here: Limited-visibility railroad crossing speed?'
+  choices:
+  - 25 mph within 100 feet
+  - 15 mph within 100 feet
+  - 15 mph within 200 feet
+  answer: 15 mph within 100 feet
+  reference: §5 p.42
+  reason: 15 mph within 100 feet applies when visibility is limited.
+- question: 'Which answer correctly applies the California rule tested here: Railroad limited-visibility threshold?'
+  choices:
+  - Cannot see 200 feet
+  - Cannot see 400 feet both ways
+  - Cannot see 500 feet
+  answer: Cannot see 400 feet both ways
+  reference: §5 p.42
+  reason: The threshold is 400 feet.
+- question: 'Which answer correctly applies the California rule tested here: When warned a train is coming, minimum stop distance
+    from nearest track?'
+  choices:
+  - 10 feet
+  - 15 feet
+  - 25 feet
+  answer: 15 feet
+  reference: §5 p.42
+  reason: Stop at least 15 feet away.
+- question: 'Which answer correctly applies the California rule tested here: Default business/residential district speed?'
+  choices:
+  - 20 mph
+  - 25 mph
+  - 35 mph
+  answer: 25 mph
+  reference: §5 p.43
+  reason: Unless posted otherwise, 25 mph.
+- question: 'Which answer correctly applies the California rule tested here: Animal dumping/abandonment highway fine up to?'
+  choices:
+  - $500
+  - $1,000
+  - $5,000
+  answer: $1,000
+  reference: §5 p.43
+  reason: The handbook states up to $1,000.
+- question: 'Which answer correctly applies the California rule tested here: How far ahead should you scan?'
+  choices:
+  - 5 seconds
+  - At least 10 seconds
+  - 20 seconds
+  answer: At least 10 seconds
+  reference: §6 p.47
+  reason: Scan at least 10 seconds ahead.
+- question: 'Which answer correctly applies the California rule tested here: Basic safe following interval?'
+  choices:
+  - 2 seconds
+  - 3 seconds
+  - 5 seconds
+  answer: 3 seconds
+  reference: §6 p.47
+  reason: Use the three-second rule.
+- question: 'Which answer correctly applies the California rule tested here: Tailgater behind you: best response when safe?'
+  choices:
+  - Brake-check
+  - Move right and let them pass
+  - Speed up indefinitely
+  answer: Move right and let them pass
+  reference: §6 p.47
+  reason: Maintain course/speed then move right.
+- question: 'Which answer correctly applies the California rule tested here: Slippery skid: first action?'
+  choices:
+  - Brake hard
+  - Ease off accelerator
+  - Accelerate
+  answer: Ease off accelerator
+  reference: §6 p.50
+  reason: Slowly remove your foot from accelerator.
+- question: 'Which answer correctly applies the California rule tested here: Slippery skid: braking?'
+  choices:
+  - Pump rapidly
+  - Avoid brakes
+  - Parking brake
+  answer: Avoid brakes
+  reference: §6 p.50
+  reason: The handbook says do not use brakes.
+- question: 'Which answer correctly applies the California rule tested here: Skid steering direction?'
+  choices:
+  - Opposite skid
+  - Direction of skid
+  - Always straight
+  answer: Direction of skid
+  reference: §6 p.50
+  reason: Steer in the direction of the skid.
+- question: 'Which answer correctly applies the California rule tested here: Four-wheel ABS emergency braking?'
+  choices:
+  - Pump rapidly
+  - Firm pedal pressure
+  - Parking brake only
+  answer: Firm pedal pressure
+  reference: §6 p.50
+  reason: Use firm pressure with four-wheel ABS.
+- question: 'Which answer correctly applies the California rule tested here: Heavy fog headlights?'
+  choices:
+  - High beams
+  - Low beams
+  - Parking lights only
+  answer: Low beams
+  reference: §6 p.53
+  reason: High beams reflect glare.
+- question: 'Which answer correctly applies the California rule tested here: Fog speed rule?'
+  choices:
+  - Always maintain posted limit
+  - Be able to stop within visible distance
+  - Match fastest traffic
+  answer: Be able to stop within visible distance
+  reference: §6 p.53
+  reason: You must be able to stop in visible space.
+- question: 'Which answer correctly applies the California rule tested here: Driver may be ticketed for unbelted passenger
+    under age?'
+  choices:
+  - '18'
+  - '16'
+  - '21'
+  answer: '16'
+  reference: §6 p.54
+  reason: Driver responsibility applies under 16.
+- question: 'Which answer correctly applies the California rule tested here: Rear-facing threshold described for child under
+    2 also includes under?'
+  choices:
+  - 50 lb and 4 ft
+  - 40 lb and 3 ft 4 in
+  - 30 lb and 3 ft
+  answer: 40 lb and 3 ft 4 in
+  reference: §6 p.54
+  reason: The handbook lists under 40 lb and under 3 ft 4 in.
+- question: 'Which answer correctly applies the California rule tested here: Child under 8 or shorter than what height generally
+    needs child restraint in rear seat?'
+  choices:
+  - 4 ft 6 in
+  - 4 ft 9 in
+  - 5 ft
+  answer: 4 ft 9 in
+  reference: §6 p.54
+  reason: The threshold is 4 ft 9 in.
+- question: 'Which answer correctly applies the California rule tested here: Minimum recommended driver distance from airbag
+    cover?'
+  choices:
+  - 6 inches
+  - 10 inches
+  - 18 inches
+  answer: 10 inches
+  reference: §6 p.55
+  reason: Sit at least 10 inches away if control can be maintained.
+- question: 'Which answer correctly applies the California rule tested here: Child age 6 or younger may be left with a supervisor
+    at least?'
+  choices:
+  - 10 years old
+  - 12 years old
+  - 16 years old
+  answer: 12 years old
+  reference: §6 p.55
+  reason: Supervisor must be at least 12.
+- question: 'Which answer correctly applies the California rule tested here: Basic Speed Law means?'
+  choices:
+  - Always drive exactly the posted limit
+  - Never drive faster than safe for conditions
+  - Always match traffic speed
+  answer: Never drive faster than safe for conditions
+  reference: §6 p.55
+  reason: Safe speed may be below the posted maximum.
+- question: 'Which answer correctly applies the California rule tested here: Typical maximum on most California highways unless
+    posted?'
+  choices:
+  - 55 mph
+  - 65 mph
+  - 70 mph
+  answer: 65 mph
+  reference: §6 p.55
+  reason: The handbook gives 65 mph.
+- question: 'Which answer correctly applies the California rule tested here: Two-lane undivided highway maximum unless posted?'
+  choices:
+  - 65 mph
+  - 55 mph
+  - 45 mph
+  answer: 55 mph
+  reference: §6 p.55
+  reason: The handbook gives 55 mph.
+- question: 'Which answer correctly applies the California rule tested here: Vehicle towing a trailer maximum unless posted
+    otherwise?'
+  choices:
+  - 65 mph
+  - 55 mph
+  - 70 mph
+  answer: 55 mph
+  reference: §6 p.55
+  reason: Towing vehicles are limited to 55 mph.
+- question: 'Which answer correctly applies the California rule tested here: Wheels drift off pavement: first control action?'
+  choices:
+  - Turn sharply back
+  - Grip steering wheel firmly
+  - Brake hard
+  answer: Grip steering wheel firmly
+  reference: §6 p.56
+  reason: Grip firmly, ease off accelerator, brake gently, then return carefully.
+- question: 'Which answer correctly applies the California rule tested here: Disabled on freeway: assistance number noted
+    by handbook?'
+  choices:
+  - '311'
+  - '511'
+  - '811'
+  answer: '511'
+  reference: §6 p.56
+  reason: The handbook directs drivers to dial 511 or use a call box.
+- question: 'Which answer correctly applies the California rule tested here: One standard drink of 80-proof liquor in the
+    BAC table equals?'
+  choices:
+  - 1 oz
+  - 1.5 oz
+  - 2.5 oz
+  answer: 1.5 oz
+  reference: §7 p.57
+  reason: The table defines one liquor drink as 1.5 oz of 80-proof liquor.
+- question: 'Which answer correctly applies the California rule tested here: One standard beer in the BAC table equals?'
+  choices:
+  - 16 oz at 5%
+  - 12 oz at 5%
+  - 8 oz at 8%
+  answer: 12 oz at 5%
+  reference: §7 p.57
+  reason: The table uses 12 oz of 5% beer.
+- question: 'Which answer correctly applies the California rule tested here: One standard wine serving in the BAC table equals?'
+  choices:
+  - 8 oz at 12%
+  - 5 oz at 12%
+  - 4 oz at 20%
+  answer: 5 oz at 12%
+  reference: §7 p.57
+  reason: The table uses 5 oz of 12% wine.
+- question: 'Which answer correctly applies the California rule tested here: BAC table adjustment for elapsed time?'
+  choices:
+  - Subtract 0.01% per hour
+  - Subtract 0.01% per 40 minutes
+  - Subtract 0.02% per 40 minutes
+  answer: Subtract 0.01% per 40 minutes
+  reference: §7 p.57
+  reason: The handbook table says subtract 0.01% per 40 minutes.
+- question: 'Which answer correctly applies the California rule tested here: California implied-consent testing after DUI
+    suspicion may include?'
+  choices:
+  - Vision test only
+  - Breath, blood, or urine
+  - Road test only
+  answer: Breath, blood, or urine
+  reference: §7 p.60
+  reason: Driving in California implies consent to chemical testing under the described circumstances.
+- question: 'Which answer correctly applies the California rule tested here: Refusing required DUI chemical testing can cause
+    DMV to?'
+  choices:
+  - Issue only a warning
+  - Suspend or revoke driving privilege
+  - Require only a written test
+  answer: Suspend or revoke driving privilege
+  reference: §7 p.60
+  reason: Refusal can result in suspension or revocation.
+- question: 'Which answer correctly applies the California rule tested here: A DUI conviction remains on the driver record
+    for?'
+  choices:
+  - 5 years
+  - 10 years
+  - 7 years
+  answer: 10 years
+  reference: §7 p.60
+  reason: All DUI convictions remain for 10 years.
+- question: 'Which answer correctly applies the California rule tested here: Under 21, alcohol inside a vehicle generally
+    requires an accompanying person at least?'
+  choices:
+  - 18 years old
+  - 21 years old
+  - 25 years old
+  answer: 21 years old
+  reference: §7 p.60
+  reason: The accompanying person generally must be 21 or older.
+- question: 'Which answer correctly applies the California rule tested here: Under-21 alcohol vehicle impound may last up
+    to?'
+  choices:
+  - 10 days
+  - 30 days
+  - 90 days
+  answer: 30 days
+  reference: §7 p.60
+  reason: Law enforcement may impound the vehicle for up to 30 days.
+- question: 'Which answer correctly applies the California rule tested here: Under-21 alcohol violation can suspend a license
+    for?'
+  choices:
+  - 30 days
+  - 1 year
+  - 4 years
+  answer: 1 year
+  reference: §7 pp.60-61
+  reason: The court may suspend for one year.
+- question: 'Which answer correctly applies the California rule tested here: Minimum liability coverage for one death/injury?'
+  choices:
+  - $15,000
+  - $30,000
+  - $60,000
+  answer: $30,000
+  reference: §8 p.61
+  reason: Current handbook minimum is $30,000.
+- question: 'Which answer correctly applies the California rule tested here: Minimum liability coverage for death/injury to
+    more than one person?'
+  choices:
+  - $30,000
+  - $60,000
+  - $100,000
+  answer: $60,000
+  reference: §8 p.61
+  reason: Current handbook minimum is $60,000.
+- question: 'Which answer correctly applies the California rule tested here: Minimum property-damage liability coverage?'
+  choices:
+  - $5,000
+  - $15,000
+  - $30,000
+  answer: $15,000
+  reference: §8 p.61
+  reason: Current handbook minimum is $15,000.
+- question: 'Which answer correctly applies the California rule tested here: Collision without proper insurance can suspend
+    driving privilege up to?'
+  choices:
+  - 1 year
+  - 4 years
+  - 10 years
+  answer: 4 years
+  reference: §8 p.61
+  reason: The handbook states up to four years.
+- question: 'Which answer correctly applies the California rule tested here: During the last three years of that suspension,
+    reinstatement may require maintaining?'
+  choices:
+  - Only vehicle registration
+  - SR-22/SR-1P proof
+  - A passport
+  answer: SR-22/SR-1P proof
+  reference: §8 p.61
+  reason: Proof of insurance must be filed and maintained.
+- question: 'Which answer correctly applies the California rule tested here: After a collision with injury, call?'
+  choices:
+  - DMV first
+  - 911 immediately
+  - Insurance only
+  answer: 911 immediately
+  reference: §8 p.62
+  reason: Call 911 right away if anyone is hurt.
+- question: 'Which answer correctly applies the California rule tested here: Collision with injury or death must be reported
+    to law enforcement within?'
+  choices:
+  - 10 days
+  - 24 hours
+  - 72 hours
+  answer: 24 hours
+  reference: §8 p.62
+  reason: The law-enforcement report deadline is 24 hours.
+- question: 'Which answer correctly applies the California rule tested here: DMV SR-1 collision report deadline?'
+  choices:
+  - 24 hours
+  - 10 days
+  - 30 days
+  answer: 10 days
+  reference: §8 p.62
+  reason: Qualifying collisions must be reported to DMV within 10 days.
+- question: 'Which answer correctly applies the California rule tested here: DMV collision reporting property-damage threshold?'
+  choices:
+  - At least $500
+  - More than $1,000
+  - More than $5,000
+  answer: More than $1,000
+  reference: §8 p.62
+  reason: The current handbook says more than $1,000.
+- question: 'Which answer correctly applies the California rule tested here: Does a minor injury trigger DMV collision reporting?'
+  choices:
+  - No, only hospitalization
+  - 'Yes'
+  - Only if driver was at fault
+  answer: 'Yes'
+  reference: §8 p.62
+  reason: Any injury or death triggers reporting, even minor injury.
+- question: 'Which answer correctly applies the California rule tested here: Does a qualifying collision on private property
+    require SR-1 reporting?'
+  choices:
+  - 'No'
+  - 'Yes'
+  - Only if police respond
+  answer: 'Yes'
+  reference: §8 p.62
+  reason: The reporting rule also applies on private property.
+- question: 'Which answer correctly applies the California rule tested here: Who must file the SR-1 for a qualifying collision?'
+  choices:
+  - Only the at-fault driver
+  - Each driver or representative
+  - Law enforcement automatically
+  answer: Each driver or representative
+  reference: §8 p.62
+  reason: Each driver is responsible; law enforcement does not file it for you.
+- question: 'Which answer correctly applies the California rule tested here: Failure to file a required SR-1 can result in?'
+  choices:
+  - Only a warning
+  - Suspension of driving privilege
+  - Vehicle title cancellation only
+  answer: Suspension of driving privilege
+  reference: §8 p.62
+  reason: The handbook states driving privilege will be suspended.
+- question: 'Which answer correctly applies the California rule tested here: If you hit an unattended parked vehicle and cannot
+    find the owner, you should?'
+  choices:
+  - Leave without a note
+  - Leave identifying contact information and report the collision
+  - Wait exactly 24 hours
+  answer: Leave identifying contact information and report the collision
+  reference: §8 p.62
+  reason: Leave a securely attached note and report the collision.
+- question: 'Which answer correctly applies the California rule tested here: If you injure an animal with your vehicle, you
+    should?'
+  choices:
+  - Move the animal yourself
+  - Call humane society or law enforcement
+  - Leave if traffic is heavy
+  answer: Call humane society or law enforcement
+  reference: §8 p.62
+  reason: Call for help and do not try to move an injured animal.
+- question: 'Which answer correctly applies the California rule tested here: A hit-and-run is?'
+  choices:
+  - Reporting a collision late
+  - Failing to stop or leaving a collision scene
+  - Driving without collision coverage
+  answer: Failing to stop or leaving a collision scene
+  reference: §8 p.62
+  reason: Drivers involved in collisions must stop.
+- question: 'Which answer correctly applies the California rule tested here: At a law-enforcement stop, driver must produce?'
+  choices:
+  - Passport and birth certificate
+  - License, insurance, and registration
+  - Only license
+  answer: License, insurance, and registration
+  reference: §4 pp.24-25
+  reason: The handbook lists all three documents.
+- question: 'Which answer correctly applies the California rule tested here: During a traffic stop, an officer may require
+    occupants to?'
+  choices:
+  - Always exit immediately without instruction
+  - Exit or remain inside the vehicle
+  - Refuse all instructions
+  answer: Exit or remain inside the vehicle
+  reference: §4 p.25
+  reason: Drivers and passengers must comply with lawful directions to exit or remain.
+- question: 'Which answer correctly applies the California rule tested here: When an officer signals you to stop, acknowledge
+    by using?'
+  choices:
+  - Hazard lights only
+  - Right turn signal
+  - Left turn signal
+  answer: Right turn signal
+  reference: §4 p.24
+  reason: The handbook instructs use of the right turn signal.
+- question: 'Which answer correctly applies the California rule tested here: At a traffic stop, pull over preferably to?'
+  choices:
+  - The center divider
+  - The right shoulder
+  - The left lane
+  answer: The right shoulder
+  reference: §4 p.24
+  reason: Move completely onto the right shoulder.
+- question: 'Which answer correctly applies the California rule tested here: When parking downhill with a curb, front wheels
+    should point?'
+  choices:
+  - Away from curb
+  - Toward the curb
+  - Straight
+  answer: Toward the curb
+  reference: §4 Parking
+  reason: This helps prevent rolling into traffic.
+- question: 'Which answer correctly applies the California rule tested here: When parking uphill with a curb, front wheels
+    should point?'
+  choices:
+  - Toward curb
+  - Away from curb
+  - Straight
+  answer: Away from curb
+  reference: §4 Parking
+  reason: Turn away so rollback catches the curb.
+- question: 'Which answer correctly applies the California rule tested here: A red curb means?'
+  choices:
+  - Passenger loading
+  - No stopping, standing, or parking
+  - Disabled parking
+  answer: No stopping, standing, or parking
+  reference: §4 Parking
+  reason: Red prohibits stopping, standing, and parking.
+- question: 'Which answer correctly applies the California rule tested here: A blue curb means?'
+  choices:
+  - Freight loading only
+  - Disabled placard/plate parking
+  - No parking
+  answer: Disabled placard/plate parking
+  reference: §4 Parking
+  reason: Blue is reserved for disabled parking.
+- question: 'Which answer correctly applies the California rule tested here: A white curb generally means?'
+  choices:
+  - No stopping
+  - Passenger loading/unloading or mail
+  - Long-term parking
+  answer: Passenger loading/unloading or mail
+  reference: §4 Parking
+  reason: White is for brief passenger/mail purposes as posted.
+- question: 'Which answer correctly applies the California rule tested here: A yellow curb generally means?'
+  choices:
+  - Disabled parking
+  - Loading/unloading for posted time
+  - No stopping at any time
+  answer: Loading/unloading for posted time
+  reference: §4 Parking
+  reason: Yellow is for loading/unloading subject to local signs/times.
+- question: 'Which answer correctly applies the California rule tested here: A green curb generally means?'
+  choices:
+  - No parking
+  - Limited-time parking
+  - Bus only
+  answer: Limited-time parking
+  reference: §4 Parking
+  reason: Green indicates limited-time parking.
+- question: 'Which answer correctly applies the California rule tested here: When being passed, you should?'
+  choices:
+  - Speed up
+  - Maintain lane position and speed
+  - Move onto shoulder
+  answer: Maintain lane position and speed
+  reference: §4 p.17
+  reason: Allow the pass; do not increase speed.
+- question: 'Which answer correctly applies the California rule tested here: Passing on the right may be legal on an open
+    highway when?'
+  choices:
+  - Only one lane exists
+  - Two or more lanes go your direction
+  - You must use the shoulder
+  answer: Two or more lanes go your direction
+  reference: §4 p.17
+  reason: One permitted case is two or more same-direction lanes.
+- question: 'Which answer correctly applies the California rule tested here: A vehicle ahead signals left; passing it on the
+    left is?'
+  choices:
+  - Always required
+  - Unsafe and should not be done
+  - Legal if you honk
+  answer: Unsafe and should not be done
+  reference: §4 p.17
+  reason: Never pass on the left of a vehicle signaling a left turn.
+- question: 'Which answer correctly applies the California rule tested here: When merging across several lanes, you should?'
+  choices:
+  - Cross all lanes in one movement
+  - Cross one lane at a time
+  - Stop between lanes
+  answer: Cross one lane at a time
+  reference: §4 p.16
+  reason: Signal and cross lanes one at a time.
+- question: 'Which answer correctly applies the California rule tested here: At a limit line, stop?'
+  choices:
+  - With front wheels over it
+  - Before the line
+  - After the crosswalk
+  answer: Before the line
+  reference: §4 p.14
+  reason: Stop behind the limit line.
+- question: 'Which answer correctly applies the California rule tested here: No limit line but crosswalk present: stop?'
+  choices:
+  - In the middle of crosswalk
+  - Before entering crosswalk
+  - After crosswalk
+  answer: Before entering crosswalk
+  reference: §4 p.14
+  reason: Stop before the crosswalk.
+- question: 'Which answer correctly applies the California rule tested here: No limit line or crosswalk: stop?'
+  choices:
+  - After entering intersection
+  - Before entering intersection
+  - At nearest driveway
+  answer: Before entering intersection
+  reference: §4 p.14
+  reason: Stop before entering the intersection.
+- question: 'Which answer correctly applies the California rule tested here: A dedicated right-turn lane that does not merge
+    may allow a turn without stopping unless?'
+  choices:
+  - Main through-light is red
+  - A signal/sign controls that lane
+  - There are no cars
+  answer: A signal/sign controls that lane
+  reference: §4 p.15
+  reason: Obey any signal or sign governing the dedicated lane.
+- question: 'Which answer correctly applies the California rule tested here: Public transit bus lane may be crossed to?'
+  choices:
+  - Pass traffic
+  - Make a right turn
+  - Park briefly
+  answer: Make a right turn
+  reference: §4 p.14
+  reason: Crossing is allowed for a right turn.
+- question: 'Which answer correctly applies the California rule tested here: At a railroad crossing, lowered gates may be
+    driven around?'
+  choices:
+  - If no train is visible
+  - Never
+  - After 30 seconds
+  answer: Never
+  reference: §5 p.42
+  reason: Never go under or around lowered gates.
+- question: 'Which answer correctly applies the California rule tested here: After railroad red lights stop?'
+  choices:
+  - Proceed while lights still flash if gate rises
+  - Proceed only when safe
+  - Always wait five minutes
+  answer: Proceed only when safe
+  reference: §5 p.42
+  reason: Do not cross until flashing red lights stop and it is safe.
+- question: 'Which answer correctly applies the California rule tested here: If there is not enough room beyond railroad tracks?'
+  choices:
+  - Stop on tracks
+  - Do not begin crossing
+  - Follow vehicle ahead onto tracks
+  answer: Do not begin crossing
+  reference: §5 p.42
+  reason: Never stop on railroad tracks.
+- question: 'Which answer correctly applies the California rule tested here: School bus opposite side of divided/multilane
+    highway with 2+ lanes each direction?'
+  choices:
+  - You always must stop
+  - You generally do not need to stop
+  - You must stop only at night
+  answer: You generally do not need to stop
+  reference: §5 p.42
+  reason: The handbook gives this exception.
+- question: 'Which answer correctly applies the California rule tested here: Move-over law applies to stationary emergency/tow/road-work
+    vehicles with warning lights?'
+  choices:
+  - 'No'
+  - 'Yes'
+  - Only at night
+  answer: 'Yes'
+  reference: §5 p.41
+  reason: Drivers must move over and slow down.
+- question: 'Which answer correctly applies the California rule tested here: Hazardous-load placard vehicles must do what
+    before railroad tracks?'
+  choices:
+  - Accelerate
+  - Stop
+  - Use hazard lights only
+  answer: Stop
+  reference: §5 p.41
+  reason: Placarded hazardous-load vehicles must stop.
+- question: 'Which answer correctly applies the California rule tested here: Driving in heavy fog with only parking/fog lights
+    is?'
+  choices:
+  - Required
+  - Not recommended/insufficient; use low beams
+  - Best practice
+  answer: Not recommended/insufficient; use low beams
+  reference: §6 p.53
+  reason: The handbook says never drive using only parking or fog lights.
+- question: 'Which answer correctly applies the California rule tested here: A rear-facing child restraint may be placed in
+    front of an active airbag?'
+  choices:
+  - 'Yes'
+  - 'No'
+  - Only at night
+  answer: 'No'
+  reference: §6 p.54
+  reason: A rear-facing child may not ride in the front seat of an airbag-equipped vehicle.
+- question: 'Which answer correctly applies the California rule tested here: Leaving a child age 6 or younger unattended is
+    generally?'
+  choices:
+  - Legal for 30 minutes
+  - Illegal
+  - Legal with windows open
+  answer: Illegal
+  reference: §6 p.55
+  reason: A child six or younger cannot be left unattended.
+- question: 'Which answer correctly applies the California rule tested here: If hazards exist on both sides, you should?'
+  choices:
+  - Split the difference at full speed
+  - Handle one hazard at a time and give more space to the greater danger
+  - Stop in your lane
+  answer: Handle one hazard at a time and give more space to the greater danger
+  reference: §6 p.55
+  reason: The handbook advises taking one danger at a time.
+- question: 'Which answer correctly applies the California rule tested here: A collision report added to your DMV record depends
+    on fault?'
+  choices:
+  - Yes, only at-fault collisions
+  - 'No'
+  - Only if cited
+  answer: 'No'
+  reference: §8 p.63
+  reason: Qualifying collisions are recorded regardless of fault.
