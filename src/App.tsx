@@ -1,10 +1,9 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { AlertCircle, Check, ChevronLeft, ChevronRight, RotateCcw, X } from "lucide-react";
+import { AlertCircle, Check, ChevronLeft, ChevronRight, RotateCcw, Shuffle, X } from "lucide-react";
 import { Badge } from "./components/ui/badge";
 import { Button } from "./components/ui/button";
 import { Card, CardContent, CardHeader } from "./components/ui/card";
 import { Progress } from "./components/ui/progress";
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "./components/ui/table";
 import { loadQuestions, type Question, type QuestionSource } from "./lib/questions";
 import {
   clearProgress,
@@ -36,6 +35,7 @@ function App() {
   const [selectedAnswer, setSelectedAnswer] = useState("");
   const [submitted, setSubmitted] = useState(false);
   const [submittedQuestion, setSubmittedQuestion] = useState<Question | null>(null);
+  const [shuffle, setShuffle] = useState(false);
   const [loading, setLoading] = useState(true);
   const [loadFailure, setLoadFailure] = useState("");
   const resetDialog = useRef<HTMLDialogElement>(null);
@@ -88,6 +88,18 @@ function App() {
   }
 
   function goToNextQuestion() {
+    if (shuffle && visibleQuestions.length > 0) {
+      const currentVisibleIndex = visibleQuestions.findIndex((question) => question.id === currentQuestion?.id);
+      const candidateCount = visibleQuestions.length - (currentVisibleIndex >= 0 ? 1 : 0);
+      if (candidateCount > 0) {
+        const randomCandidate = Math.floor(Math.random() * candidateCount);
+        const nextIndex = currentVisibleIndex >= 0 && randomCandidate >= currentVisibleIndex
+          ? randomCandidate + 1
+          : randomCandidate;
+        goToQuestion(nextIndex);
+        return;
+      }
+    }
     if (mode === "review") {
       const nextIndex = isCorrect
         ? Math.min(questionIndex, Math.max(visibleQuestions.length - 1, 0))
@@ -166,6 +178,16 @@ function App() {
                 );
               })}
             </div>
+            <button
+              aria-pressed={shuffle}
+              className="shuffle-toggle"
+              onClick={() => setShuffle((enabled) => !enabled)}
+              type="button"
+            >
+              <Shuffle aria-hidden="true" size={15} />
+              <span>Random next question</span>
+              <span className="toggle-state">{shuffle ? "On" : "Off"}</span>
+            </button>
           </section>
 
           <section className="sidebar-stats" aria-labelledby="progress-heading">
@@ -260,7 +282,7 @@ function App() {
                       <Button disabled={!selectedAnswer} type="submit">Check answer</Button>
                     ) : (
                       <Button
-                        disabled={mode !== "review" && questionIndex === visibleQuestions.length - 1}
+                        disabled={mode !== "review" && (shuffle ? visibleQuestions.length <= 1 : questionIndex === visibleQuestions.length - 1)}
                         onClick={goToNextQuestion}
                         type="button"
                       >
@@ -287,28 +309,39 @@ function App() {
               </div>
               <span>{visibleQuestions.length} questions</span>
             </div>
-            <div className="table-wrap">
-              <Table>
-                <TableHeader>
-                  <TableRow><TableHead scope="col">Question</TableHead><TableHead scope="col">Set</TableHead><TableHead scope="col">Answered</TableHead><TableHead scope="col">First try</TableHead><TableHead scope="col">Attempts</TableHead></TableRow>
-                </TableHeader>
-                <TableBody>
+            <div className="status-panel">
+              <div className="status-legend" aria-label="Question status legend">
+                <span><i className="legend-unanswered" /> Unanswered</span>
+                <span><i className="legend-correct" /> First try correct</span>
+                <span><i className="legend-incorrect" /> Missed first try</span>
+              </div>
+              {visibleQuestions.length > 0 ? (
+                <div className="status-grid" aria-label="Question overview">
                   {visibleQuestions.map((question, index) => {
                     const itemProgress = progress[question.id];
-                    const status = !itemProgress?.attempts ? "No" : itemProgress.needsReview ? "Review" : "Yes";
+                    const status = !itemProgress
+                      ? "unanswered"
+                      : itemProgress.firstTryCorrect
+                        ? "correct"
+                        : "incorrect";
                     return (
-                      <TableRow key={question.id}>
-                         <TableCell><button className="question-link" onClick={() => goToQuestion(index)} type="button"><span className="question-number">{question.number}.</span> {question.question}</button></TableCell>
-                        <TableCell>{sourceLabel(question.source)}</TableCell>
-                        <TableCell><span className={`status ${status === "Yes" ? "status-correct" : status === "Review" ? "status-needs-review" : ""}`}>{status}</span></TableCell>
-                        <TableCell>{itemProgress ? (itemProgress.firstTryCorrect ? "Correct" : "Incorrect") : "-"}</TableCell>
-                        <TableCell>{itemProgress?.attempts ?? 0}</TableCell>
-                      </TableRow>
+                      <button
+                        aria-label={`Question ${index + 1}: ${question.question}. ${status === "unanswered" ? "Unanswered" : status === "correct" ? "Correct on first try" : "Missed on first try"}`}
+                        aria-current={currentQuestion?.id === question.id ? "true" : undefined}
+                        className={`status-cell status-cell-${status}`}
+                        key={question.id}
+                        onClick={() => goToQuestion(index)}
+                        title={`Question ${index + 1}: ${question.question}`}
+                        type="button"
+                      >
+                        {index + 1}
+                      </button>
                     );
                   })}
-                </TableBody>
-              </Table>
-              {!visibleQuestions.length && <p className="table-empty">No questions in this set.</p>}
+                </div>
+              ) : (
+                <p className="status-empty">No questions in this set.</p>
+              )}
             </div>
           </section>
         </div>
