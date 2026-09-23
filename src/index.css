@@ -33,7 +33,8 @@ h2 { font-size: 16px; letter-spacing: -.01em; }
 .mode-button span:last-child { color: #a1a1aa; font-variant-numeric: tabular-nums; }
 .mode-button:hover { background: #f4f4f5; color: #18181b; }
 .mode-button[aria-pressed="true"] { background: #e4e4e7; color: #18181b; font-weight: 600; }
-.shuffle-toggle { display: flex; align-items: center; justify-content: space-between; gap: 9px; width: 100%; margin-top: 12px; padding: 9px 11px; color: #52525b; cursor: pointer; font-size: 12px; }
+.shuffle-section { margin-top: 24px; padding-top: 20px; border-top: 1px solid #e4e4e7; }
+.shuffle-toggle { display: flex; align-items: center; justify-content: space-between; gap: 9px; width: 100%; padding: 9px 0; color: #52525b; cursor: pointer; font-size: 12px; }
 .shuffle-toggle input { position: absolute; opacity: 0; }
 .toggle-track { flex: none; width: 34px; height: 20px; padding: 2px; border-radius: 999px; background: #a1a1aa; transition: background .15s; }
 .toggle-track::before { display: block; width: 16px; height: 16px; border-radius: 50%; background: #fff; content: ""; transition: transform .15s; }

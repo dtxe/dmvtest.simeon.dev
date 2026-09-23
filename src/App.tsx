@@ -250,6 +250,10 @@ function App() {
                 );
               })}
             </div>
+          </section>
+
+          <section className="shuffle-section" aria-label="Question order">
+            <p className="eyebrow">Question order</p>
             <label className="shuffle-toggle">
               <span>Random next question</span>
               <input checked={shuffle} onChange={(event) => setShuffle(event.target.checked)} type="checkbox" />
