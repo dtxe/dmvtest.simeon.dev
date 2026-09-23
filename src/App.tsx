@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { AlertCircle, Check, ChevronLeft, ChevronRight, RotateCcw, Shuffle, X } from "lucide-react";
+import { AlertCircle, Check, ChevronLeft, ChevronRight, RotateCcw, X } from "lucide-react";
 import { Badge } from "./components/ui/badge";
 import { Button } from "./components/ui/button";
 import { Card, CardContent, CardHeader } from "./components/ui/card";
@@ -14,6 +14,7 @@ import {
 } from "./lib/progress";
 
 type PracticeMode = "all" | QuestionSource | "review";
+type HistoryEntry = { question: Question; index: number; selectedAnswer: string; submitted: boolean };
 
 const modes: Array<{ value: PracticeMode; label: string }> = [
   { value: "all", label: "All questions" },
@@ -38,6 +39,7 @@ function App() {
   const [submitted, setSubmitted] = useState(false);
   const [submittedQuestion, setSubmittedQuestion] = useState<Question | null>(null);
   const [shuffle, setShuffle] = useState(true);
+  const [history, setHistory] = useState<{ entries: HistoryEntry[]; cursor: number }>({ entries: [], cursor: 0 });
   const [loading, setLoading] = useState(true);
   const [loadFailure, setLoadFailure] = useState("");
   const resetDialog = useRef<HTMLDialogElement>(null);
@@ -70,7 +72,7 @@ function App() {
     progress[question.id]?.attempts ? [] : [index]
   );
 
-  const currentQuestion = submittedQuestion ?? visibleQuestions[questionIndex];
+  const currentQuestion = submittedQuestion ?? history.entries[history.cursor]?.question ?? visibleQuestions[questionIndex];
   const displayedQuestionCount = Math.max(visibleQuestions.length, questionIndex + 1);
   const attempted = questions.filter((question) => progress[question.id]?.attempts > 0).length;
   const firstTryCorrect = questions.filter((question) => progress[question.id]?.firstTryCorrect).length;
@@ -79,6 +81,7 @@ function App() {
 
   function changeMode(nextMode: PracticeMode) {
     setMode(nextMode);
+    setHistory({ entries: [], cursor: 0 });
     setQuestionIndex(0);
     setSelectedAnswer("");
     setSubmitted(false);
@@ -86,13 +89,44 @@ function App() {
   }
 
   function goToQuestion(nextIndex: number) {
+    const nextQuestion = visibleQuestions[nextIndex];
+    if (!nextQuestion) return;
+    const currentEntry = currentQuestion && {
+      question: currentQuestion, index: questionIndex, selectedAnswer, submitted,
+    };
+    setHistory(({ entries, cursor }) => ({
+      entries: [
+        ...entries.slice(0, cursor),
+        ...(currentEntry ? [currentEntry] : []),
+        { question: nextQuestion, index: nextIndex, selectedAnswer: "", submitted: false },
+      ],
+      cursor: cursor + (currentEntry ? 1 : 0),
+    }));
     setQuestionIndex(nextIndex);
     setSelectedAnswer("");
     setSubmitted(false);
     setSubmittedQuestion(null);
   }
 
+  function revisitQuestion(nextCursor: number) {
+    const entry = history.entries[nextCursor];
+    if (!entry) return;
+    const entries = [...history.entries];
+    if (currentQuestion) {
+      entries[history.cursor] = { question: currentQuestion, index: questionIndex, selectedAnswer, submitted };
+    }
+    setHistory({ entries, cursor: nextCursor });
+    setQuestionIndex(entry.index);
+    setSelectedAnswer(entry.selectedAnswer);
+    setSubmitted(entry.submitted);
+    setSubmittedQuestion(entry.submitted ? entry.question : null);
+  }
+
   function goToNextQuestion() {
+    if (history.cursor < history.entries.length - 1) {
+      revisitQuestion(history.cursor + 1);
+      return;
+    }
     if (shuffle) {
       if (unansweredQuestionIndices.length > 0) {
         const randomCandidate = Math.floor(Math.random() * unansweredQuestionIndices.length);
@@ -128,6 +162,7 @@ function App() {
   function resetAllProgress() {
     clearProgress();
     setProgress({});
+    setHistory({ entries: [], cursor: 0 });
     setQuestionIndex(0);
     setSelectedAnswer("");
     setSubmitted(false);
@@ -136,9 +171,9 @@ function App() {
   }
 
   const isCorrect = submitted && selectedAnswer === currentQuestion?.answer;
-  const canGoNext = shuffle
-    ? unansweredQuestionIndices.length > 0
-    : mode === "review" || unansweredQuestionIndices.length > 0;
+  const canGoNext = history.cursor < history.entries.length - 1
+    || (mode === "review" && !shuffle && visibleQuestions.length > 0)
+    || unansweredQuestionIndices.length > 0;
   const sourceErrors = Object.entries(errors) as Array<[QuestionSource, string]>;
 
   useEffect(() => {
@@ -148,7 +183,7 @@ function App() {
       const target = event.target;
       if (
         target instanceof HTMLElement &&
-        target.closest("a, button, select, textarea, [contenteditable='true']")
+        target.closest("a, button, input, select, textarea, [contenteditable='true']")
       ) return;
 
       const choiceIndex = ["a", "b", "c"].indexOf(event.key.toLowerCase());
@@ -215,16 +250,11 @@ function App() {
                 );
               })}
             </div>
-            <button
-              aria-pressed={shuffle}
-              className="shuffle-toggle"
-              onClick={() => setShuffle((enabled) => !enabled)}
-              type="button"
-            >
-              <Shuffle aria-hidden="true" size={15} />
+            <label className="shuffle-toggle">
               <span>Random next question</span>
-              <span className="toggle-state">{shuffle ? "On" : "Off"}</span>
-            </button>
+              <input checked={shuffle} onChange={(event) => setShuffle(event.target.checked)} type="checkbox" />
+              <span aria-hidden="true" className="toggle-track" />
+            </label>
           </section>
 
           <section className="sidebar-stats" aria-labelledby="progress-heading">
@@ -308,8 +338,8 @@ function App() {
                   <div className="question-actions">
                     <Button
                       aria-label="Previous question"
-                      disabled={questionIndex === 0}
-                      onClick={() => goToQuestion(questionIndex - 1)}
+                      disabled={history.cursor === 0}
+                      onClick={() => revisitQuestion(history.cursor - 1)}
                       type="button"
                       variant="outline"
                     >

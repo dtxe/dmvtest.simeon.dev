@@ -33,10 +33,13 @@ h2 { font-size: 16px; letter-spacing: -.01em; }
 .mode-button span:last-child { color: #a1a1aa; font-variant-numeric: tabular-nums; }
 .mode-button:hover { background: #f4f4f5; color: #18181b; }
 .mode-button[aria-pressed="true"] { background: #e4e4e7; color: #18181b; font-weight: 600; }
-.shuffle-toggle { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 9px; width: 100%; margin-top: 12px; padding: 9px 11px; border: 1px solid #e4e4e7; border-radius: 7px; background: #fff; color: #52525b; cursor: pointer; font-size: 12px; text-align: left; }
-.shuffle-toggle:hover { border-color: #a1a1aa; }
-.shuffle-toggle[aria-pressed="true"] { border-color: #a1a1aa; background: #f4f4f5; color: #18181b; }
-.toggle-state { color: #a1a1aa; font-variant-numeric: tabular-nums; }
+.shuffle-toggle { display: flex; align-items: center; justify-content: space-between; gap: 9px; width: 100%; margin-top: 12px; padding: 9px 11px; color: #52525b; cursor: pointer; font-size: 12px; }
+.shuffle-toggle input { position: absolute; opacity: 0; }
+.toggle-track { flex: none; width: 34px; height: 20px; padding: 2px; border-radius: 999px; background: #a1a1aa; transition: background .15s; }
+.toggle-track::before { display: block; width: 16px; height: 16px; border-radius: 50%; background: #fff; content: ""; transition: transform .15s; }
+.shuffle-toggle input:checked + .toggle-track { background: #27272a; }
+.shuffle-toggle input:checked + .toggle-track::before { transform: translateX(14px); }
+.shuffle-toggle input:focus-visible + .toggle-track { outline: 2px solid #18181b; outline-offset: 2px; }
 .sidebar-stats { margin-top: 40px; padding-top: 24px; border-top: 1px solid #e4e4e7; }
 .section-row { display: flex; align-items: baseline; justify-content: space-between; }
 .section-row h2 { margin-bottom: 12px; }
