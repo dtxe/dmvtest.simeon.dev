@@ -1,6 +1,25 @@
 import { afterEach, describe, expect, it, vi } from "vitest";
 
-import { loadQuestions } from "./questions";
+import { loadQuestions, shuffleQuestionChoices, type Question } from "./questions";
+
+describe("shuffleQuestionChoices", () => {
+  it("shuffles a copy without changing the correct answer or the source choices", () => {
+    const question: Question = {
+      id: "general-1", source: "general", number: 1, question: "Example?",
+      choices: ["Correct", "Second", "Third"], answer: "Correct",
+    };
+    vi.spyOn(Math, "random").mockReturnValue(0);
+    try {
+      const displayed = shuffleQuestionChoices(question);
+      expect(displayed.choices).toEqual(["Second", "Third", "Correct"]);
+      expect(displayed.answer).toBe("Correct");
+      expect(question.choices).toEqual(["Correct", "Second", "Third"]);
+      expect(displayed.choices).not.toBe(question.choices);
+    } finally {
+      vi.restoreAllMocks();
+    }
+  });
+});
 
 const generalYaml = `
 - question: Who goes first at an uncontrolled intersection?

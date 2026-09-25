@@ -4,7 +4,7 @@ import { Badge } from "./components/ui/badge";
 import { Button } from "./components/ui/button";
 import { Card, CardContent, CardHeader } from "./components/ui/card";
 import { Progress } from "./components/ui/progress";
-import { loadQuestions, type Question, type QuestionSource } from "./lib/questions";
+import { loadQuestions, shuffleQuestionChoices, type Question, type QuestionSource } from "./lib/questions";
 import {
   clearProgress,
   loadProgress,
@@ -39,6 +39,7 @@ function App() {
   const [submitted, setSubmitted] = useState(false);
   const [submittedQuestion, setSubmittedQuestion] = useState<Question | null>(null);
   const [shuffle, setShuffle] = useState(true);
+  const [presentationKey, setPresentationKey] = useState(0);
   const [history, setHistory] = useState<{ entries: HistoryEntry[]; cursor: number }>({ entries: [], cursor: 0 });
   const [loading, setLoading] = useState(true);
   const [loadFailure, setLoadFailure] = useState("");
@@ -72,7 +73,12 @@ function App() {
     progress[question.id]?.attempts ? [] : [index]
   );
 
-  const currentQuestion = submittedQuestion ?? history.entries[history.cursor]?.question ?? visibleQuestions[questionIndex];
+  const initialQuestion = useMemo(() => {
+    const question = visibleQuestions[questionIndex];
+    return question ? shuffleQuestionChoices(question) : undefined;
+    // presentationKey refreshes the initial question when restarting a set.
+  }, [visibleQuestions, questionIndex, presentationKey]);
+  const currentQuestion = submittedQuestion ?? history.entries[history.cursor]?.question ?? initialQuestion;
   const displayedQuestionCount = Math.max(visibleQuestions.length, questionIndex + 1);
   const attempted = questions.filter((question) => progress[question.id]?.attempts > 0).length;
   const firstTryCorrect = questions.filter((question) => progress[question.id]?.firstTryCorrect).length;
@@ -81,6 +87,7 @@ function App() {
 
   function changeMode(nextMode: PracticeMode) {
     setMode(nextMode);
+    setPresentationKey((key) => key + 1);
     setHistory({ entries: [], cursor: 0 });
     setQuestionIndex(0);
     setSelectedAnswer("");
@@ -98,7 +105,7 @@ function App() {
       entries: [
         ...entries.slice(0, cursor),
         ...(currentEntry ? [currentEntry] : []),
-        { question: nextQuestion, index: nextIndex, selectedAnswer: "", submitted: false },
+        { question: shuffleQuestionChoices(nextQuestion), index: nextIndex, selectedAnswer: "", submitted: false },
       ],
       cursor: cursor + (currentEntry ? 1 : 0),
     }));
@@ -162,6 +169,7 @@ function App() {
   function resetAllProgress() {
     clearProgress();
     setProgress({});
+    setPresentationKey((key) => key + 1);
     setHistory({ entries: [], cursor: 0 });
     setQuestionIndex(0);
     setSelectedAnswer("");

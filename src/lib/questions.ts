@@ -13,6 +13,15 @@ export type Question = {
   reason?: string;
 };
 
+export function shuffleQuestionChoices(question: Question): Question {
+  const choices = [...question.choices];
+  for (let index = choices.length - 1; index > 0; index -= 1) {
+    const randomIndex = Math.floor(Math.random() * (index + 1));
+    [choices[index], choices[randomIndex]] = [choices[randomIndex], choices[index]];
+  }
+  return { ...question, choices };
+}
+
 type QuestionData = Omit<Question, "id" | "source" | "number">;
 
 const SOURCES: readonly QuestionSource[] = ["general", "general_hard", "motorcycle", "motorcycle_hard"];
