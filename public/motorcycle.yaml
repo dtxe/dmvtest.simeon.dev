@@ -64,14 +64,6 @@
   answer: Less than 150 cc
   reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Motor-Driven Cycles
   reason: The handbook defines a motor-driven cycle as a motorcycle with an engine under 150 cc.
-- question: May you operate a motor-driven cycle on a freeway where signs prohibit motor-driven cycles?
-  choices:
-  - Yes, if you stay in the right lane
-  - Yes, if the engine is at least 100 cc
-  - 'No'
-  answer: 'No'
-  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 2, Motor-Driven Cycles
-  reason: Posted freeway or expressway prohibitions apply to motor-driven cycles.
 - question: A motorized bicycle or moped may be capable of no more than what speed on level ground?
   choices:
   - 30 mph
@@ -288,22 +280,6 @@
   answer: A motorcycle with a sidecar, a three-wheel motorcycle, or a motorized scooter
   reference: California Motorcycle Handbook (DL 665 R2-2024), p. 3, License Requirements; CVC §12804.9
   reason: The handbook lists sidecar motorcycles, three-wheel motorcycles, and motorized scooters under Class C privileges.
-- question: Which license class is generally required for a motor-driven cycle under 150 cc?
-  choices:
-  - M1
-  - M2 only
-  - No license
-  answer: M1
-  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 4, Motorcycle Type-License Class Chart
-  reason: The license chart places motor-driven cycles under Class M1.
-- question: An electric bicycle requires which California driver-license class?
-  choices:
-  - M2
-  - No driver license is required
-  - M1
-  answer: No driver license is required
-  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 4, Motorcycle Type-License Class Chart
-  reason: The chart states a driver license is not required for electric bicycles.
 - question: 'A valid California driver license holder may operate a short-term rental motorized bicycle without an M2 endorsement
     for up to:'
   choices:
@@ -321,14 +297,6 @@
   answer: 15 1/2 years old
   reference: California Motorcycle Handbook (DL 665 R2-2024), p. 5, Requirements for a Motorcycle M1 or M2 License
   reason: The requirements table begins at age 15 1/2.
-- question: 'An applicant age 15 1/2 to 17 must provide:'
-  choices:
-  - Only a vehicle registration card
-  - Driver education and behind-the-wheel driver training completion certificates
-  - A commercial driving certificate
-  answer: Driver education and behind-the-wheel driver training completion certificates
-  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 5, Requirements for a Motorcycle M1 or M2 License
-  reason: These completion certificates are required for the minor age group unless the handbook's Class C alternative applies.
 - question: Which age groups must present a Certificate of Completion of Motorcycle Training (DL 389)?
   choices:
   - Only applicants under 18
@@ -409,14 +377,6 @@
   answer: Driver education and driver training completion or already hold a Class C license
   reference: California Motorcycle Handbook (DL 665 R2-2024), p. 5, Requirements for a Motorcycle M1 or M2 License
   reason: The note gives this driver-education/training requirement or an existing Class C license.
-- question: 'An applicant age 18 through 20 must complete CMSP training before receiving the motorcycle permit because:'
-  choices:
-  - Applicants under 21 are required to complete CMSP
-  - Only applicants without insurance must complete CMSP
-  - CMSP is required only for applicants under 18
-  answer: Applicants under 21 are required to complete CMSP
-  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 5, Requirements for a Motorcycle M1 or M2 License
-  reason: California requires CMSP completion for motorcycle applicants under 21.
 - question: 'For applicants age 21 or older, CMSP training is:'
   choices:
   - Mandatory before a permit
@@ -666,14 +626,6 @@
   answer: It can come off in a collision if not fastened
   reference: California Motorcycle Handbook (DL 665 R2-2024), p. 9, Helmet Selection; CVC §27803 / FMVSS 218 where applicable
   reason: A helmet that comes off cannot protect the rider's head.
-- question: Which marking should be manufacturer-applied on a compliant helmet?
-  choices:
-  - DMV
-  - CHP
-  - DOT
-  answer: DOT
-  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 9, Helmet Selection; CVC §27803 / FMVSS 218 where applicable
-  reason: DOT certification is applied by the manufacturer to indicate compliance with the federal motorcycle helmet standard.
 - question: 'Compared with goggles, a shatter-resistant face shield protects:'
   choices:
   - The whole face as well as the eyes
@@ -1963,14 +1915,6 @@
   answer: Underusing the front brake and overusing the rear
   reference: California Motorcycle Handbook (DL 665 R2-2024), p. 28, Collision Avoidance
   reason: The handbook identifies underbraking the front and overbraking the rear.
-- question: 'Braking and swerving should generally be:'
-  choices:
-  - Performed simultaneously
-  - Avoided entirely
-  - Separated into distinct actions
-  answer: Separated into distinct actions
-  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 28, Collision Avoidance
-  reason: Combining hard braking with a swerve can overwhelm available traction.
 - question: 'For a maximum quick stop, use:'
   choices:
   - Both brakes at the same time
@@ -1995,14 +1939,6 @@
   answer: Keep it locked until fully stopped
   reference: California Motorcycle Handbook (DL 665 R2-2024), p. 28, Quick Stops
   reason: The handbook says a straight, upright motorcycle can remain controllable with the rear locked.
-- question: The front brake may provide about what share of stopping power in a quick stop?
-  choices:
-  - Three-quarters
-  - One-quarter
-  - One-third
-  answer: Three-quarters
-  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 29, Quick Stops
-  reason: The front brake contributes most of the motorcycle's braking capability.
 - question: 'If you must stop quickly while in a curve and conditions allow, the best technique is to:'
   choices:
   - Increase lean and grab the front brake
@@ -2683,14 +2619,6 @@
   answer: Long pants, closed-toe footwear, a heavy jacket, and gloves
   reference: California Motorcycle Handbook (DL 665 R2-2024), p. 38, Child Passengers
   reason: Protective coverage is emphasized for child passengers.
-- question: If a child cannot reach the footrests, should the child be carried as a passenger?
-  choices:
-  - Yes, if the operator rides slowly
-  - Yes, if the child holds the operator tightly
-  - 'No'
-  answer: 'No'
-  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 38, Child Passengers
-  reason: Footrest reach is a basic minimum for a stable passenger position.
 - question: Where should cargo weight be kept?
   choices:
   - Low
@@ -2939,14 +2867,6 @@
   answer: Do not drink alcohol
   reference: California Motorcycle Handbook (DL 665 R2-2024), p. 43, Minimize the Risks
   reason: The handbook's risk-minimization guidance is to separate drinking and riding entirely.
-- question: 'If you have been drinking, you should:'
-  choices:
-  - Ride only on surface streets
-  - Not ride your motorcycle
-  - Ride more slowly in the right lane
-  answer: Not ride your motorcycle
-  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 43, Minimize the Risks
-  reason: The handbook directs riders who have been drinking not to ride.
 - question: Experienced riders seldom ride more than about how many hours per day?
   choices:
   - Two hours
@@ -3139,14 +3059,6 @@
   answer: Get the landowner's permission
   reference: California Motorcycle Handbook (DL 665 R2-2024), p. 45, Tread Lightly!
   reason: The handbook directs riders to respect landowner rights and obtain permission.
-- question: 'Motorcycle knowledge-test questions are based on:'
-  choices:
-  - Only the California Motorcycle Handbook
-  - Only the owner's manual for your motorcycle
-  - Both the California Motorcycle Handbook and the California Driver's Handbook
-  answer: Both the California Motorcycle Handbook and the California Driver's Handbook
-  reference: California Motorcycle Handbook (DL 665 R2-2024), p. 3, Earning Your License
-  reason: DMV states that motorcycle knowledge questions draw from both handbooks.
 - question: 'The DMV motorcycle skills test may be conducted:'
   choices:
   - In actual traffic or in a controlled off-street area
